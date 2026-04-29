@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "gmail": {
+            "command": "npx",
+            "args": [
+                "@gongrzhe/server-gmail-autoauth-mcp"
+            ],
+            "_setup": "Chạy lệnh: npx @gongrzhe/server-gmail-autoauth-mcp. Lần đầu sẽ yêu cầu cấp quyền Gmail qua trình duyệt. Sau đó chạy lại lệnh trên để load MCP."
+        }
+    }
+}

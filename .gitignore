@@ -1,0 +1,55 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Node / tooling
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Generated outputs
+outputs/dashboard.html
+outputs/*.tmp
+outputs/*.log
+outputs/classified.json
+
+# Scraped/private raw data
+context/data/*
+!context/data/.gitkeep
+
+# Large generated media exports
+outputs/*.mp4
+outputs/*.mov
+outputs/*.webm
+outputs/*.zip
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Accidental executables
+*.exe
