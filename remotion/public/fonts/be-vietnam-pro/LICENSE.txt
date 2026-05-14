@@ -1,0 +1,13 @@
+Be Vietnam Pro Font
+Copyright 2018 The Be Vietnam Pro Project Authors
+(https://github.com/bettergui/BeVietnamPro)
+
+Licensed under the SIL Open Font License, Version 1.1.
+https://scripts.sil.org/OFL
+
+Downloaded from Google Fonts:
+https://fonts.google.com/specimen/Be+Vietnam+Pro
+
+Subsets included: latin, vietnamese
+Weights: 400, 500, 600, 700
+Format: woff2

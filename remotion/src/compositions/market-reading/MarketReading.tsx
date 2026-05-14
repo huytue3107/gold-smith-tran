@@ -7,7 +7,10 @@ import {
   spring,
   useVideoConfig,
 } from "remotion";
+import { loadBeVietnamPro } from "../../fonts";
 import type { MarketReadingProps } from "./schema";
+
+loadBeVietnamPro();
 
 const COLORS = {
   bg: "#F5F3EE",
@@ -58,7 +61,7 @@ export const MarketReading: React.FC<MarketReadingProps> = ({
     <AbsoluteFill
       style={{
         backgroundColor: COLORS.bg,
-        fontFamily: 'Inter, "Be Vietnam Pro", system-ui, sans-serif',
+        fontFamily: '"Be Vietnam Pro", Inter, system-ui, sans-serif',
         padding: 80,
         color: COLORS.ink,
       }}
