@@ -124,6 +124,7 @@ v2.1 them lop van hanh len tren `context/framework-v2.md`.
 - Chu tren anh ngan va doc duoc tren mobile.
 - Khong neon, khong khoe tien/lai.
 - Co file path hoac prompt ro neu can tao asset.
+- Neu repurpose sang video Remotion: brief `remotion/briefs/<slug>.json` pass Zod schema, hook ≤120 char, takeaway ≤180 char, safety disclaimer co.
 
 ### 8. Evidence Gate
 

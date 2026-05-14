@@ -1,0 +1,500 @@
+1
+00:00:00,110 --> 00:00:03,590
+Thưa quý vị, hãng xe điện VinFast vừa công bố kế hoạch tài cầu trúc quy mô lớn,
+
+2
+00:00:03,830 --> 00:00:07,010
+bao gồm tách một công ty con và chuyển nhượng mảng sản xuất tại Việt Nam,
+
+3
+00:00:07,310 --> 00:00:11,170
+với giá trị khoảng 530 triệu đô la Mỹ, đương đương hơn 13.300 tỷ đồng.
+
+4
+00:00:16,600 --> 00:00:21,520
+Theo kế hoạch, VinFast sẽ thành lập công ty mới mang tên Công ty Cổ phân VinFast Việt Nam
+
+5
+00:00:21,520 --> 00:00:26,060
+trên cơ sở tách một phần tài sản từ Công ty Cổ phân Thương mại và Sản xuất VinFast.
+
+6
+00:00:26,560 --> 00:00:30,160
+Doanh nghiệp mới sẽ tiếp nhận các hoạt động nghiên cứu và phát triển toàn cầu,
+
+7
+00:00:30,160 --> 00:00:35,240
+sở hữu trí tuệ, hậu mãi, bán hàng, cùng một số khoản đầu tư quốc tế của VinFast.
+
+8
+00:00:36,400 --> 00:00:40,340
+Phần còn lại của VFTP chủ yếu bao gồm hệ thống sản xuất tại Việt Nam
+
+9
+00:00:40,340 --> 00:00:42,420
+và các tài sản liên quan đến năng lượng xanh.
+
+10
+00:00:42,940 --> 00:00:47,760
+Ngay trong ngày 12 tháng 5, VinFast đã ký thỏa thuận chuyển nhượng toàn bộ cổ phân tại VFTP
+
+11
+00:00:47,760 --> 00:00:52,500
+cho nhóm nhà đầu tư do Công ty Cổ phân nghiên cứu và phát triển đầu tư tương lai dẫn đầu.
+
+12
+00:00:53,080 --> 00:00:55,920
+Ông Phạm Nhật Vượng tham gia với vai trò nhà đầu tư thiểu số.
+
+13
+00:00:56,500 --> 00:00:59,480
+VinFast cho biết chiến lược này nhằm tinh gọn mô hình hoạt động,
+
+14
+00:00:59,480 --> 00:01:03,400
+giảm áp lực vốn đầu tư vào sản xuất và tập trung nguồn lực cho công nghệ,
+
+15
+00:01:03,760 --> 00:01:06,680
+phát triển sản phẩm, thương hiệu và mở rộng thị trường quốc tế.
+
+16
+00:01:07,340 --> 00:01:10,340
+Giao dịch dự kiến hoàn tất trong quý 3 năm 2026.
+
+17
+00:01:15,030 --> 00:01:19,330
+Thị trường trừng khoan khép lại phiên giao dịch với diễn biến phân hóa khi VN Index giảm nhẹ,
+
+18
+00:01:19,670 --> 00:01:21,170
+chịu áp lực lớn từ nhóm bắt động sản.
+
+19
+00:01:21,640 --> 00:01:24,720
+Trong khi đó, nhóm năng lượng và ngân hàng vẫn giữ được sọc sánh tích cực,
+
+20
+00:01:25,000 --> 00:01:27,500
+dù khối ngoại tiếp tục bán ròng mạnh trên cả hai sản.
+
+21
+00:01:32,520 --> 00:01:38,800
+Kết thúc phiên giao dịch, VN Index giảm 2,73 điểm xuống mức 1.898,37 điểm.
+
+22
+00:01:39,460 --> 00:01:44,160
+HNX Index tăng 1,34 điểm lên mức 254,62 điểm.
+
+23
+00:01:44,760 --> 00:01:51,680
+Về mức độ ảnh hưởng, VHM, VIC, STB và VRE là những mã có ảnh hưởng tiêu cực nhất đến VN Index
+
+24
+00:01:51,680 --> 00:01:53,320
+và lấy đi hơn 10,4 điểm.
+
+25
+00:01:53,930 --> 00:02:01,550
+Ở chiều ngược lại, GIS, BID, BSR và MCH là những mã giữ được sắc sanh và giúp chỉ số tăng 6,9 điểm.
+
+26
+00:02:01,870 --> 00:02:05,850
+Ngành năng lượng là nhóm có mức tăng mạnh nhất thị trường với 4,27%.
+
+27
+00:02:06,170 --> 00:02:11,010
+Còn ngành bất động sản là nhóm ghi nhận mức giảm mạnh trên thị trường với 1,57%.
+
+28
+00:02:11,330 --> 00:02:16,970
+Về giao dịch của khối ngoại, khối này tiếp tục bán ròng hơn 1.468 tỷ đồng trên sản Hosea.
+
+29
+00:02:17,610 --> 00:02:20,590
+Trên sản HDX, khối ngoại bán ròng hơn 60 tỷ đồng.
+
+30
+00:02:22,950 --> 00:02:25,810
+Theo quyết định số 229 của Thanh tra chứng khoán nhà nước,
+
+31
+00:02:26,230 --> 00:02:30,850
+chứng khoán Bảo Minh bị xử phạt do không quản lý tách biệt tài sản của khách hàng với tài sản công ty,
+
+32
+00:02:31,400 --> 00:02:34,580
+không công bố thông tin đối với nhiều giao dịch có giá trị lớn theo quy định,
+
+33
+00:02:34,990 --> 00:02:40,050
+vi phạm quy định về hạn chế cho vay và cho khách hàng giao dịch ký quỹ vượt quá sức mua hiện có.
+
+34
+00:02:40,630 --> 00:02:45,290
+Ngoài ra, công ty còn bị xử phạt do báo cáo sai lệch tỷ lệ vốn khả dụng tại một số thời điểm.
+
+35
+00:02:45,740 --> 00:02:49,520
+Cơ quan quản lý yêu cầu doanh nghiệp buộc báo cáo lại thông tin chính xác theo quy định.
+
+36
+00:02:52,090 --> 00:02:58,130
+Công ty cổ phần chứng khoán TCAF Ma chứng khoán TVB vừa công bố thay đổi nhân sự cấp cao tại hai vị trí quan trọng
+
+37
+00:02:58,130 --> 00:03:04,190
+là Chủ tịch Hội đồng Quản trị và Tổng Giám đốc trong bối cảnh doanh nghiệp đặt mục tiêu tăng trưởng mạnh cho năm 2026.
+
+38
+00:03:04,750 --> 00:03:08,890
+Theo quyết định, ngày 12 tháng 5, bà Nguyễn Thị Hằng được bổ nhiệm giữ chức Tổng Giám đốc,
+
+39
+00:03:09,150 --> 00:03:13,330
+nhiệm kỳ 2026-2031, đồng thời tiếp tục là thanh viên Hội đồng Quản trị.
+
+40
+00:03:13,710 --> 00:03:17,150
+Trước đó, bà Hằng đảm nhiệm vai trò Chủ tịch Hội đồng Quản trị tại doanh nghiệp này.
+
+41
+00:03:17,630 --> 00:03:22,580
+Hiện công ty cổ phần tập đoàn quản lý tài sản TCOF là cụ đông lớn nhất của TVB
+
+42
+00:03:22,580 --> 00:03:25,480
+với tỷ lệ sở hữu gần 73% vốn điều lệ.
+
+43
+00:03:26,020 --> 00:03:30,080
+Kết thúc quý I năm 2026, chứng khoán TCAF lỗ sau thuế 20 tỷ đồng,
+
+44
+00:03:30,080 --> 00:03:32,220
+trái ngừa kết quả có lãi cùng kỳ đông ngoái.
+
+45
+00:03:35,400 --> 00:03:38,000
+Giá vàng trong nước bất ngờ đảo chiều giảm mạnh.
+
+46
+00:03:38,380 --> 00:03:41,800
+Nhiều doanh nghiệp đồng loạt điều chỉnh giảm từ 1-1,5 triệu đồng mỗi lượng
+
+47
+00:03:41,800 --> 00:03:45,820
+đối với vàng miếng SEC vàng nhận chơn rời xa vùng đỉnh thiết lập gần đây.
+
+48
+00:03:50,720 --> 00:03:55,620
+Hiện vàng miếng tại công ty vàng bạc đá quý Sài Gòn SEC, tập đoàn Doji, Phú Quý,
+
+49
+00:03:56,000 --> 00:03:59,900
+hệ thống P&G và Bảo tí Minh Châu đồng loạt được niêm yết phổ biến
+
+50
+00:03:59,900 --> 00:04:03,140
+quanh mức 162-165 triệu đồng trên một lượng,
+
+51
+00:04:03,360 --> 00:04:07,100
+giảm 1,5 triệu đồng trên một lượng ở cả hai chiều mua vào và bán ra.
+
+52
+00:04:08,090 --> 00:04:12,510
+Cùng xu hướng với vàng miếng, thị trường vàng nhẫn tròn trơn cũng đồng loạt lau dốc trở lại.
+
+53
+00:04:13,010 --> 00:04:18,410
+Công ty SEC, tập đoàn Doji và Bảo tí Minh Châu cùng điều chỉnh giảm 1,5 triệu đồng một lượng
+
+54
+00:04:18,410 --> 00:04:26,130
+ở cả hai chiều giao dịch. Sau điều chỉnh, giá vàng nhẫn tại SEC giảm xuống còn 161,8-164,8 triệu đồng
+
+55
+00:04:26,130 --> 00:04:33,050
+trên một lượng, trong khi Doji và Bảo tí Minh Châu niêm yết quanh mức 162-165 triệu đồng trên một lượng.
+
+56
+00:04:36,540 --> 00:04:42,480
+Năm 2025, Việt Nam thiệt hại khoảng 8.000 tỷ đồng do lừa đảo trực tuyến. Các thủ đoạn ngay căng
+
+57
+00:04:42,480 --> 00:04:47,260
+tinh vi không chỉ gây tổn thất tài sản mà còn làm suy giảm niềm tin của người dân đối với môi trường
+
+58
+00:04:47,260 --> 00:04:51,480
+tài chính số. Trong bối cảnh đầy mạnh chuyển đổi số quốc gia, việc xây dựng một nền tài
+
+59
+00:04:51,480 --> 00:04:56,280
+chính số an toàn, bền vững, lấy niềm tin số làm nền tảng đang trở thành yêu cầu cấp thiết.
+
+60
+00:04:58,600 --> 00:05:04,320
+Truy cập vào trang web chốnglừađảo.vn, dán đường link nghi ngờ vào khung tìm kiếm. Hệ thống AI và
+
+61
+00:05:04,320 --> 00:05:09,900
+chatbot sẽ phân tích các dấu hiệu bất thường như tên miền giả, mã độc hoặc hành vi lừa đảo để đưa ra
+
+62
+00:05:09,900 --> 00:05:14,640
+cảnh báo sớm cho người dùng. Đây là hệ thống nhận diện đường link giả mạo do một doanh nghiệp xã hội
+
+63
+00:05:14,640 --> 00:05:19,220
+phát triển, nhằm hỗ trợ người dân chủ động phòng tránh rủi ro trên không gian mạng trong bối cảnh
+
+64
+00:05:19,220 --> 00:05:25,650
+các hình thức lừa đảo trực tuyến ngày càng tinh vi. Hiện tại thì chống lừa đảo cũng đã kết nối rất là nhiều
+
+65
+00:05:25,650 --> 00:05:31,570
+những cái bên công nghệ, những cái hàng công nghệ lớn trong và ngoài nước như là Google, Microsoft,
+
+66
+00:05:31,570 --> 00:05:37,250
+ở Việt Nam thì có Viettel, FPT, v.v. để mà cùng nhau bảo vệ mọi người trên không gian mạng.
+
+67
+00:05:37,390 --> 00:05:42,870
+Và ngoài ra thì ở đây thì chống lừa đảo cũng có đưa ra những cái tính năng mới như là kiểm tra địa chỉ IP
+
+68
+00:05:42,870 --> 00:05:47,310
+có an toàn hay không, rồi kiểm tra số điện thoại có lừa đảo hay không,
+
+69
+00:05:47,790 --> 00:05:50,950
+thậm chí là kiểm tra cái email của mình có bị lồ lọt trên không gian mạng hay không.
+
+70
+00:05:52,090 --> 00:05:56,450
+Nhiều doanh nghiệp công nghệ tài chính cũng đang đẩy mạnh ứng dụng trí tuệ nhân tạo để bảo vệ người dùng
+
+71
+00:05:56,450 --> 00:06:00,710
+trong các giao dịch thanh toán điện tử. AI được tích hợp nhằm nhận diện hành vi bất thường,
+
+72
+00:06:00,710 --> 00:06:06,450
+phân tích dữ liệu theo thời gian thực, và kịp thời ngăn chặn các giao dịch có dấu hiệu lừa đảo trước khi thiệt hại xảy ra.
+
+73
+00:06:06,650 --> 00:06:13,260
+Trong vòng một ngày hiện nay chúng tôi đã ngăn chặn khoảng 29.000 giao dịch.
+
+74
+00:06:14,320 --> 00:06:20,180
+Giao dịch nghi ngờ chúng tôi có những giải pháp công nghệ, ví dụ như là sinh chắc học đa điểm màu.
+
+75
+00:06:20,500 --> 00:06:24,080
+Những cái việc đó để chống cho cái việc mà giả mạo, đít phách.
+
+76
+00:06:24,800 --> 00:06:30,420
+Và thứ hai là chúng tôi có một hệ thống dữ liệu AI để khiến khách hàng thực hiện giao dịch
+
+77
+00:06:30,420 --> 00:06:34,460
+trong vòng 100 micro giây là nhanh hơn một cái chấp mắt.
+
+78
+00:06:34,760 --> 00:06:38,640
+Đấy thì có thể thuật toán sẽ xử lý để có thể đưa ra những đề nghị cho khách hàng.
+
+79
+00:06:39,040 --> 00:06:43,380
+Một là cảnh báo về giao dịch đó hoặc yêu cầu sinh chắc học lạ.
+
+80
+00:06:45,700 --> 00:06:49,760
+Tại diễn đàn Digital Trust in Finance 2026 diễn ra vừa qua,
+
+81
+00:06:50,280 --> 00:06:57,260
+nhiều chuyên gia nhận định niềm tin số đang trở thành điều kiện tiên quyết để thúc đẩy các giao dịch tài chính điện tử và phát triển kinh tế số bền vững.
+
+82
+00:06:57,260 --> 00:06:59,940
+Theo đó, tư duy bảo mật cũng cần thay đổi.
+
+83
+00:07:00,340 --> 00:07:07,760
+Từ việc chỉ tập trung ngăn chặn giao dịch bất thường sang chủ động đồng hành, hỗ trợ người dân nhận dịa rủi ro và tránh mắc sai lầm trong môi trường số.
+
+84
+00:07:08,680 --> 00:07:16,360
+Với sự dẫn dắt của liên minh niềm tin số thì chúng tôi cũng rất là mong muốn trong tương lai chúng ta sẽ có những phương pháp giải pháp cụ thể hơn
+
+85
+00:07:16,360 --> 00:07:24,680
+để xác thực định danh giao dịch, phát hiện những giao dịch mà có dấu hiệu bất thường và có những cảnh báo bằng nhiều hình thức cho khách hàng.
+
+86
+00:07:24,680 --> 00:07:32,680
+Đấy là những giải pháp mà chúng tôi cho rằng cũng rất là cần thiết thực hiện đối với tất cả những đơn vị cung cấp dịch vụ cho người dân và khách hàng.
+
+87
+00:07:34,090 --> 00:07:40,530
+Việt Nam đạt mục tiêu đến năm 2030, quy mô kinh tế số đạt tối thiểu 30% tổng sản phẩm quốc nội GDP,
+
+88
+00:07:41,070 --> 00:07:46,750
+giao dịch không dùng tiền mạt đạt 80%, tỷ lệ doanh nghiệp có hoạt động đổi mới sáng tạo đạt trên 40%.
+
+89
+00:07:46,750 --> 00:07:53,450
+Tuy nhiên, sự tăng trưởng của nền kinh tế số, đặc biệt trong lĩnh vực tài chính, rất khó bền vững nếu thiếu nền tảng niềm tin.
+
+90
+00:07:53,770 --> 00:08:01,790
+Xây dựng niềm tin số không chỉ là câu chuyện công nghệ, mà còn đòi hỏi sự phối hợp chặt chẽ giữa cơ quan quản lý, tổ chức tài chính và các nền tảng công nghệ
+
+91
+00:08:01,790 --> 00:08:06,510
+nhằm tạo dựng môi trường giao dịch minh bạch, an toàn và lấy người dân làm trung tâm bảo vệ.
+
+92
+00:08:09,700 --> 00:08:17,140
+Chiều nay 13 tháng 5, tại tạp chí điện tử Tiếp thị và gia đình phối hợp cùng In 3 miền Group đã tổ chức sự kiện Green Growth Summit 2026
+
+93
+00:08:17,140 --> 00:08:21,140
+với chủ đề Giải pháp tăng trưởng bền vững doanh nghiệp ngành in 2026.
+
+94
+00:08:25,870 --> 00:08:32,410
+Chương trình diễn ra trong bối cảnh ngành in ấn quảng cáo đang bước vào giai đoạn cạnh tranh mạnh mẽ, đòi hỏi doanh nghiệp đổi mới công nghệ,
+
+95
+00:08:32,750 --> 00:08:35,950
+nâng cao năng lực quản trị và tăng cường liên kết trong chuỗi giá trị ngành.
+
+96
+00:08:36,640 --> 00:08:43,800
+Tại chương trình, nhiều chuyên gia, doanh nhân đã chia sẻ giải pháp về quản trị doanh nghiệp, tài chính, thương hiệu và xu hướng công nghệ mới
+
+97
+00:08:43,800 --> 00:08:49,540
+nhằm nâng cao năng lực cạnh tranh, thúc đẩy sự phát triển chuyên nghiệp và bền vững cho ngành in ấn quảng cáo Việt Nam.
+
+98
+00:08:50,100 --> 00:08:56,240
+Điểm nhấn của sự kiện là phân giới thiệu các giải pháp vật liệu và công nghệ in hiện đại như hệ thống in UV khổ lớn,
+
+99
+00:08:56,520 --> 00:09:01,240
+vật liệu in mạt và đề can ứng dụng trong biển bảng quảng cáo, showroom và nhận diện thương hiệu.
+
+100
+00:09:05,080 --> 00:09:09,320
+Trong bối cảnh nhiều ngân hàng liên tục công bố các chương trình giảm lãi suất huy động và cho vai,
+
+101
+00:09:09,640 --> 00:09:13,760
+thì ngân hàng Saocombank lại vừa điều chỉnh tăng mạnh lãi suất huy động trực tuyến ở nhiều kỳ hạn,
+
+102
+00:09:14,160 --> 00:09:18,160
+đưa mức lãi suất cao nhất lên tới 8% mỗi năm đối với các khoản tiền gửi lớn.
+
+103
+00:09:18,570 --> 00:09:22,950
+Mức 8% một năm được Saocombank áp dụng cho khách hàng gửi trực tuyến từ 1 tỷ đồng trở lên,
+
+104
+00:09:23,270 --> 00:09:25,070
+kỳ hạn từ 24 đến 36 tháng.
+
+105
+00:09:25,470 --> 00:09:29,890
+Nhóm tiền gửi từ 500 triệu đồng cũng được tăng mạnh, có kỳ hạn tăng tới 1 điểm phần trăm mỗi năm.
+
+106
+00:09:30,390 --> 00:09:33,590
+Đáng chú ý là với khoản tiền gửi từ 200 đến dưới 500 triệu đồng,
+
+107
+00:09:34,050 --> 00:09:36,570
+lãi suất đã vượt ngưỡng 7% một năm ở kỳ hạn 6 tháng.
+
+108
+00:09:36,990 --> 00:09:40,490
+Trong khi đó, lãi suất tiết kiệm tại quê của Saocombank tiếp tục được giữ nguyên,
+
+109
+00:09:40,490 --> 00:09:44,590
+giao động từ 4,75 đến 7% mỗi năm, tùy kỳ hạn và số tiền gửi.
+
+110
+00:09:49,510 --> 00:09:52,850
+Giá dầu thế giới đã giảm nhẹ trong phiên giao dịch hôm nay, ngày 13 tháng 5,
+
+111
+00:09:53,190 --> 00:09:54,410
+sau 3 phiên tăng liên tiếp.
+
+112
+00:09:54,790 --> 00:09:59,290
+Nguyên nhân được cho là do các nhà đầu tư đang chờ đợi những diễn biến xung quanh thỏa thuận ngừng bắn
+
+113
+00:09:59,290 --> 00:10:03,790
+mong manh trong cuộc xung đột ở Iran và chuyến công du Trung Quốc của Tổng thống Mỹ Donald Trump
+
+114
+00:10:03,790 --> 00:10:07,270
+nhằm tham sự hội nghị thượng đỉnh với Chủ tịch Trung Quốc Tập Cận Bình.
+
+115
+00:10:08,180 --> 00:10:13,180
+Cụ thể, giá dầu Brand giảm 0,76% xuống 106,95 USD một thùng,
+
+116
+00:10:13,180 --> 00:10:18,520
+trong khi dầu WTI giảm 0,65% xuống 101,52 USD một thùng.
+
+117
+00:10:18,920 --> 00:10:24,160
+Cả hai loại dầu này phần lớn đều giao động quanh mức là 100 USD một thùng kể từ khi xung đột giữa
+
+118
+00:10:24,160 --> 00:10:29,340
+Mỹ-Israel với Iran nổ ra vào cuối tháng 2 cùng với việc Tehran đóng cửa eo biển Hogwood.
+
+119
+00:10:29,740 --> 00:10:34,900
+Trước đó, giá dầu đã tăng hơn 3% trong phiên đầu tuần do lo ngại nguồn cung bị gián đoạn,
+
+120
+00:10:35,220 --> 00:10:37,560
+khi triển vọng mở lại eo biển Hogwood ngày càng mờ nhạt.
+
+121
+00:10:38,080 --> 00:10:42,880
+Các chuyên gia dự báo thời gian gián đoạn kéo dài và quy mô thiếu hụt nguồn cung hiện đã vượt
+
+122
+00:10:42,880 --> 00:10:47,760
+qua 1 tỷ thùng, có thể khiến giá dầu duy trì trên mức 80 USD một thùng từ nay đến cuối năm,
+
+123
+00:10:48,140 --> 00:10:49,860
+bất chấp những biến động ngắn hạn trên thị trường.
+
+124
+00:10:55,120 --> 00:10:58,260
+Quý vị vừa theo dõi bản tin kinh tế tài chính của cơ quan báo và phát thanh trên
+
+125
+00:10:58,260 --> 00:11:02,460
+nền Hà Nội. Cảm ơn sự quan tâm theo dõi của quý vị và các bạn. Xin kính chào và hẹn gặp lại!
+

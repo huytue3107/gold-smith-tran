@@ -49,6 +49,14 @@ outputs/*.webm
 outputs/*.zip
 outputs/viral_video_research/media/
 outputs/viral_video_research/transcript_raw/
+outputs/video-scripts/**/final.mp4
+outputs/video-scripts/**/*.mov
+outputs/video-scripts/**/*.webm
+
+# Remotion build artifacts
+remotion/out/
+remotion/.remotion/
+remotion/node_modules/
 
 # Temporary files
 *.tmp

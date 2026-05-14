@@ -62,6 +62,7 @@ Mot output chi duoc xem la xong khi co:
 - `/market-intelligence-v2`
 - `/research-viral-videos-v2`
 - `/transcribe-local-video-v2`
+- `/create-video-v2`
 - `/weekly-content-review-v2`
 - `/create-10-posts`
 - `/create-plan`
@@ -129,3 +130,21 @@ Dung `posts/_template.md` khi tao file bai moi.
 - Viral video metadata/link/transcript run: `outputs/viral_video_research/`.
 - Local Faster-Whisper-XXL transcripts: `reference/Scripts/`.
 - Asset tracking and metrics: `outputs/content-ledger.md`.
+- Remotion video source: `remotion/src/`, briefs `remotion/briefs/`, rendered MP4 `outputs/video-scripts/<slug>/final.mp4`.
+
+## Video Production Pipeline (Remotion)
+
+Sau khi bai Facebook pass Evidence Gate, co the san xuat video 60s qua Remotion:
+
+```text
+posts/<slug>.md
+  -> python scripts/brief-to-video.py posts/<slug>.md --persona <P> --pillar <pillar>
+  -> remotion/briefs/<slug>.json (review + edit)
+  -> cd remotion && npx remotion render src/index.ts MarketReading out/<slug>.mp4 --props=briefs/<slug>.json
+  -> mv to outputs/video-scripts/<slug>/final.mp4
+  -> update outputs/content-ledger.md (Format=Video 60s, Status=Ready/Published)
+```
+
+Chi tiet: `/create-video-v2` command + `remotion/README.md`.
+
+Composition hien co: `MarketReading` (60s, 1080x1920, vertical). Them composition moi trong `remotion/src/compositions/`.

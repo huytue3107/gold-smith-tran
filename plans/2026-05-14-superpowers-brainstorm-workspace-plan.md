@@ -39,7 +39,7 @@ The workspace should develop six core powers:
 - Video assets are now strong, but there is no standard video script template in `posts/` or `outputs/`.
 - Dashboard still shows posts, not a full content pipeline with persona/platform/status/experiment fields.
 - `context/metrics.md` still has many `TBD` values, so learning loop cannot yet make real performance decisions.
-- `context/context.exe` is a 0-byte accidental file and should be removed.
+- `context/context.exe` was removed during P0 cleanup.
 
 ## 3. Brainstorm Output
 
@@ -245,7 +245,7 @@ Done when:
 
 - Extend `scripts/validate-content-safety.py` to scan video scripts.
 - Add dashboard filters for persona/platform/status.
-- Create `outputs/research-index.md`.
+- Create `outputs/research-index.md`. Done 2026-05-14.
 - Create a `/create-video-script-v2` command.
 - Create `/research-viral-videos-v2` and `scripts/research_viral_videos.py` for viral video metadata/link/transcript research. Done 2026-05-14.
 
@@ -277,10 +277,9 @@ Done when:
 
 Start P1:
 
-1. Create `outputs/research-index.md`.
-2. Create `/create-video-script-v2`.
-3. Use `/research-viral-videos-v2` to seed `outputs/research-index.md`.
-4. Extend `scripts/validate-content-safety.py` to scan `outputs/video-scripts/`.
-5. Add dashboard filters for persona/platform/status.
+1. Create `/create-video-script-v2`.
+2. Use `/research-viral-videos-v2` to seed `outputs/research-index.md`.
+3. Extend `scripts/validate-content-safety.py` to scan `outputs/video-scripts/`.
+4. Add dashboard filters for persona/platform/status.
 
 This gives the workspace a cleaner structure before adding more automation.

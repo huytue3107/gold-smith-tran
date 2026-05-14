@@ -33,6 +33,7 @@ Brief -> Strategy -> Research -> Draft -> Safety Review -> Voice Edit -> Visual/
 - `/market-intelligence-v2`
 - `/research-viral-videos-v2`
 - `/transcribe-local-video-v2`
+- `/create-video-v2`
 - `/weekly-content-review-v2`
 - `/create-10-posts`
 

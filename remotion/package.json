@@ -1,0 +1,28 @@
+{
+  "name": "gold-smith-remotion",
+  "version": "0.1.0",
+  "description": "Gold Smith Tran video production pipeline using Remotion.",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "build": "remotion render src/index.ts MarketReading out/market-reading.mp4",
+    "render": "remotion render src/index.ts",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.395",
+    "@remotion/captions": "4.0.395",
+    "remotion": "4.0.395",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.0",
+    "@types/node": "22.10.0",
+    "typescript": "5.7.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

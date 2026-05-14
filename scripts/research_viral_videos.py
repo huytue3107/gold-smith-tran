@@ -99,6 +99,7 @@ def collect_metadata(source_url: str, limit: int | None) -> list[dict]:
         rows.append(
             {
                 "title": item.get("title") or "",
+                "id": item.get("id") or "",
                 "url": item.get("webpage_url") or item.get("original_url") or source_url,
                 "channel": item.get("channel") or item.get("uploader") or "",
                 "view_count": item.get("view_count"),
@@ -212,8 +213,9 @@ def fetch_transcript(video: dict, work_dir: Path, script_dir: Path) -> Path | No
     return safe_out
 
 
-def download_video(video: dict, media_dir: Path) -> None:
+def download_video(video: dict, media_dir: Path) -> list[Path]:
     media_dir.mkdir(parents=True, exist_ok=True)
+    before = {p.resolve() for p in media_dir.glob("*") if p.is_file()}
     output = str(media_dir / "%(title).180B [%(id)s].%(ext)s")
     cmd = [
         sys.executable,
@@ -231,11 +233,18 @@ def download_video(video: dict, media_dir: Path) -> None:
     video["download_status"] = "downloaded" if proc.returncode == 0 else "failed"
     if proc.returncode != 0:
         video["download_error"] = proc.stderr.strip()[-500:]
+        return []
+
+    after = {p.resolve() for p in media_dir.glob("*") if p.is_file()}
+    downloaded = sorted(after - before)
+    video["downloaded_files"] = [str(p.relative_to(ROOT)) for p in downloaded if p.is_relative_to(ROOT)]
+    return downloaded
 
 
 def write_csv(path: Path, rows: list[dict]) -> None:
     fields = [
         "rank",
+        "id",
         "title",
         "channel",
         "url",
@@ -247,7 +256,10 @@ def write_csv(path: Path, rows: list[dict]) -> None:
         "virality_score",
         "transcript_status",
         "transcript_path",
+        "local_transcript_status",
+        "local_transcript_path",
         "download_status",
+        "downloaded_files",
         "source_url",
     ]
     with path.open("w", newline="", encoding="utf-8-sig") as f:
@@ -348,19 +360,30 @@ def main() -> int:
     (out_dir / "manifest.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     write_csv(out_dir / "manifest.csv", selected)
 
-    if args.update_index:
-        append_research_index(DEFAULT_INDEX, selected)
-
     if args.local_transcribe:
         if not args.download_video:
             print("Local transcription skipped: --local-transcribe requires --download-video.")
+            return 2
         elif not LOCAL_WHISPER_WRAPPER.exists():
             print(f"Local transcription skipped: wrapper not found at {LOCAL_WHISPER_WRAPPER}")
+            return 2
         else:
+            media_to_transcribe: list[Path] = []
+            for row in selected:
+                for item in row.get("downloaded_files") or []:
+                    path = resolve_workspace_path(item)
+                    if path.exists():
+                        media_to_transcribe.append(path)
+            media_to_transcribe = sorted(set(media_to_transcribe))
+            if not media_to_transcribe:
+                print("Local transcription skipped: no newly downloaded media files found.")
+                return 2
+
+            before_transcripts = {p.resolve() for p in script_dir.glob("*.txt")}
             local_cmd = [
                 sys.executable,
                 str(LOCAL_WHISPER_WRAPPER),
-                str(media_dir),
+                *[str(p) for p in media_to_transcribe],
                 "--output-dir",
                 str(script_dir),
                 "--vad",
@@ -374,6 +397,33 @@ def main() -> int:
             print(local_proc.stdout)
             if local_proc.returncode != 0:
                 print(local_proc.stderr)
+                return local_proc.returncode
+
+            after_transcripts = {p.resolve() for p in script_dir.glob("*.txt")}
+            new_transcripts = sorted(after_transcripts - before_transcripts)
+            for row in selected:
+                video_id = row.get("id") or ""
+                matched = None
+                if video_id:
+                    matched = next((p for p in new_transcripts if video_id in p.name), None)
+                if not matched:
+                    title_slug = slugify(row.get("title") or "", 60)
+                    matched = next((p for p in new_transcripts if title_slug and title_slug[:30] in slugify(p.stem, 180)), None)
+                if matched:
+                    row["local_transcript_status"] = "saved"
+                    row["local_transcript_path"] = str(matched.relative_to(ROOT))
+                    if not row.get("transcript_path"):
+                        row["transcript_path"] = row["local_transcript_path"]
+                        row["transcript_status"] = "saved_local"
+                else:
+                    row["local_transcript_status"] = "not_matched"
+
+            payload["selected"] = selected
+            (out_dir / "manifest.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+            write_csv(out_dir / "manifest.csv", selected)
+
+    if args.update_index:
+        append_research_index(DEFAULT_INDEX, selected)
 
     print(f"Scanned videos: {len(all_rows)}")
     print(f"Selected videos: {len(selected)}")
