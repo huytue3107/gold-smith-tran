@@ -81,7 +81,7 @@ def build_draft_brief(post_path: Path, persona: str, pillar: str) -> dict:
         "context": context,
         "takeaway": takeaway,
         "cta": cta,
-        "brandMark": "GOLD SMITH TRAN — NHA GIA KIM FOREX",
+        "brandMark": "GOLD SMITH TRAN — NHA GIA KIM TAI CHINH",
         "safetyDisclaimer": "Khong phai khuyen nghi dau tu. Quan tri von la viec cua ban.",
     }
 

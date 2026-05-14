@@ -19,7 +19,7 @@ Mọi video Remotion của Gold Smith nhận brief dạng JSON tại `briefs/YYY
 
 | Field              | Default                                                          |
 | ------------------ | ---------------------------------------------------------------- |
-| `brandMark`        | `"GOLD SMITH TRAN — NHA GIA KIM FOREX"`                          |
+| `brandMark`        | `"GOLD SMITH TRAN — NHA GIA KIM TAI CHINH"`                      |
 | `safetyDisclaimer` | `"Khong phai khuyen nghi dau tu. Quan tri von la viec cua ban."` |
 
 ## Tổng độ dài

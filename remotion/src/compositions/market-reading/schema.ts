@@ -14,7 +14,7 @@ export const marketReadingSchema = z.object({
   context: z.string().max(220),
   takeaway: z.string().max(180),
   cta: z.string().max(80),
-  brandMark: z.string().default("GOLD SMITH TRAN — NHA GIA KIM FOREX"),
+  brandMark: z.string().default("GOLD SMITH TRAN — NHA GIA KIM TAI CHINH"),
   safetyDisclaimer: z
     .string()
     .default("Khong phai khuyen nghi dau tu. Quan tri von la viec cua ban."),

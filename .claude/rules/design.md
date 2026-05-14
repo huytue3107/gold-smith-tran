@@ -60,7 +60,7 @@ Tên hiển thị mặc định:
 
 ```text
 GOLD SMITH TRAN
-NHA GIA KIM FOREX
+NHA GIA KIM TAI CHINH
 ```
 
 Không dùng brand cũ như `AI 5 PHÚT`, `YOUR BRAND`, hoặc tên tác giả placeholder.
