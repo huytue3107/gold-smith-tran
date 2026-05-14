@@ -52,3 +52,4 @@ Tóm tắt ngắn:
 5. Pipeline v2.1 va gate nao bat buoc cho tac vu hien tai.
 6. Cách bạn sẽ xuất bài khi nhận brief.
 7. Trang thai content-ledger gan day (asset nao Draft/Reviewed/Ready/Published).
+8. Khi nao goi `/create-video-v2`: sau khi bai pass Evidence Gate, dung Remotion + composition `MarketReading` (60s) de repurpose. Brief input qua `scripts/brief-to-video.py`. Chi tiet: `remotion/README.md` + `context/tools.md`.

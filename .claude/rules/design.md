@@ -38,6 +38,14 @@ Tránh:
 - Text trên ảnh nên ngắn, tối đa 8-14 từ.
 - Không dùng quá 2 font trong cùng một visual.
 
+### Font mặc định cho video Remotion
+
+- **Be Vietnam Pro** — font chính cho mọi composition video. File woff2 đã commit tại `remotion/public/fonts/be-vietnam-pro/` (4 weights × 2 subsets latin + vietnamese, ~134 KB).
+- Weights khuyến nghị: `500` cho body, `600-700` cho hook/takeaway, `400` cho disclaimer.
+- Load qua `remotion/src/fonts.ts` (function `loadBeVietnamPro()`), gọi ở top module của composition để `delayRender` chặn render khi font chưa sẵn sàng.
+- Fallback chain: `"Be Vietnam Pro", Inter, system-ui, sans-serif`.
+- License: SIL OFL v1.1 — dùng tự do, attribution đã ghi trong `LICENSE.txt` cùng folder font.
+
 ## Layout
 
 - Ưu tiên format 1080x1350 cho Facebook/Instagram.

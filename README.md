@@ -35,6 +35,7 @@ Neu co mau thuan, uu tien `Gold-Smith-fb.md`, `.claude/rules/safety.md`, roi den
 - `/market-intelligence-v2` - tao market/content intelligence brief.
 - `/research-viral-videos-v2` - research video viral/high-view, lay link va transcript/script.
 - `/transcribe-local-video-v2` - dung Faster-Whisper-XXL local de transcribe media thanh script.
+- `/create-video-v2` - bien bai da pass Evidence Gate thanh video 60s qua Remotion.
 - `/weekly-content-review-v2` - review tuan, risk, experiment va next actions.
 - `/create-10-posts` - tao batch 10 bai.
 
@@ -67,8 +68,21 @@ Neu co mau thuan, uu tien `Gold-Smith-fb.md`, `.claude/rules/safety.md`, roi den
 |-- outputs/                  # Dashboard, draft, video scripts, content ledger, research output
 |-- plans/                    # Change plans
 |-- reference/                # Visual refs, templates, transcripts, optional writing refs
-`-- scripts/                  # Dashboard, carousel, infographic, overlay, research tools
+|-- remotion/                 # React + Remotion video pipeline (compositions, briefs, fonts)
+`-- scripts/                  # Dashboard, carousel, infographic, overlay, research, brief-to-video tools
 ```
+
+## Video Production (Remotion)
+
+Bai Facebook da pass Evidence Gate co the duoc bien thanh video 60s qua Remotion:
+
+```bash
+python scripts/brief-to-video.py posts/<slug>.md --persona F0 --pillar "Mot phut doc thi truong"
+cd remotion && npm install                              # lan dau, ~500MB
+npx remotion render src/index.ts MarketReading out/<slug>.mp4 --props=briefs/<slug>.json
+```
+
+Composition hien co: `MarketReading` (60s, 1080x1920 vertical). Font: Be Vietnam Pro (woff2 da copy vao `remotion/public/fonts/`). License Remotion Free OK cho ca nhan/≤3 nhan vien. Chi tiet: `remotion/README.md` + `.claude/commands/create-video-v2.md`.
 
 ## Standard Content Output
 
@@ -111,6 +125,7 @@ python scripts/collect_finance_influencer_videos.py
 python scripts/research_viral_videos.py --limit 20 --top 10 --update-index
 python scripts/research_viral_videos.py "https://www.youtube.com/@hieu-tv/videos" --download-video --local-transcribe --local-language vi --local-device cuda --update-index
 python scripts/transcribe_with_faster_whisper_xxl.py "outputs/viral_video_research/media" --language vi --device cuda --vad --word-timestamps
+python scripts/brief-to-video.py posts/<slug>.md --persona F0 --pillar "Mot phut doc thi truong"
 python scripts/validate-content-safety.py posts
 ```
 
