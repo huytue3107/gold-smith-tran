@@ -17,6 +17,7 @@ Mọi nội dung phải tuân thủ 5 trục giọng chính:
 ## Nhịp câu
 
 Ưu tiên:
+
 - Câu ngắn, câu chắc.
 - Có nhát dừng.
 - Có câu độc lập như một mệnh đề đáng nhớ.
@@ -36,6 +37,7 @@ Không dùng "quý vị" trừ bản phân tích cao cấp.
 ## Tiêu chuẩn nội dung
 
 Mỗi nội dung phải đạt ít nhất một:
+
 - **Đáng tin** — người đọc cảm thấy người viết thật sự hiểu thị trường.
 - **Đáng lưu** — có câu đắt, framework, hoặc góc nhìn đáng nhớ.
 - **Đáng chia sẻ** — tạo tranh luận lành mạnh hoặc chạm đúng nỗi đau.

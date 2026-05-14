@@ -16,6 +16,7 @@ Thư mục này chứa ảnh cá nhân dùng trong posts. Ảnh cá nhân giúp 
 3. Độ phân giải tối thiểu: 1080x1080px (vuông) hoặc 1080x1350px (portrait)
 
 **Gợi ý đặt tên:**
+
 ```
 at-desk-working.jpg
 casual-outdoor.jpg

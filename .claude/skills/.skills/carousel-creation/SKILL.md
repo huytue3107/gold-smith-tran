@@ -1,106 +1,105 @@
-# Carousel Creation Skill
+---
+name: carousel-creation
+description: Create Gold Smith carousel content and generate carousel PDFs using the local script. Use when asked for carousel, slides, swipe post, PDF post, or multi-slide finance content.
+---
 
-## Purpose
+# Gold Smith Carousel Creation
 
-Create LinkedIn carousel posts (PDF format) with a clean, professional style.
+Create carousel posts for Gold Smith finance education, market psychology, personal finance, and founder/fintech lessons.
 
-## When to Use
+## Required Context
 
-- User asks to create a carousel, slide deck, or multi-slide post
-- User says "carousel", "slides", "swipe post", "PDF post"
+Read:
 
-## Visual Style (NON-NEGOTIABLE)
+1. `CLAUDE.md`
+2. `.claude/rules/design.md`
+3. `.claude/rules/safety.md`
+4. `context/voice-analysis.md`
+5. `reference/carousel-ref/carousel-style-analysis.md` if visual style matters.
 
-### Brand Adaptation
+## Default Visual Style
 
-> **Customize these colors in `scripts/generate-carousel.py`**
+- Format: 1080 x 1350px.
+- Background: warm off-white.
+- Text: black or near-black.
+- Accent: restrained gold.
+- Mood: finance, minimal, sharp, calm.
+- No neon.
+- No fake profit screenshots.
+- No "YOUR BRAND" placeholders.
 
-- **Background:** Cream (#F5F3EE)
-- **Text:** Black (#1A1A1A)
-- **Accent:** [YOUR ACCENT COLOR — default: Lime green #C8E64A]
-- **Branding:** Dark banner (#1A1A1A) with "[YOUR BRAND]" on cover and CTA slides
-- **Typography:** Serif headings (bold), regular subtitles, italic quotes
+The local generator already sets Gold Smith defaults in:
 
-### Slide Structure
-
-**Cover Slide:**
-
-- Large serif title, centered
-- Decorative overlapping circles in accent color (translucent)
-- Key phrase in italic for emphasis
-- Bottom banner with branding
-
-**Content Slides (one per point):**
-
-- Top: Numbered heading in bold serif + 1-line subtitle
-- Center: Simple geometric illustration (circles, dots, lines)
-  - Use accent color as highlight
-  - Each slide MUST have a different illustration
-- Bottom: Italic serif takeaway/insight quote
-- Generous whitespace throughout
-
-**CTA Slide (last):**
-
-- "Follow for more" or relevant CTA
-- Author name
-- Brand banner
-
-### Dimensions
-
-- **1080 x 1350px** (4:5 ratio — LinkedIn carousel standard)
-
-## How to Generate
-
-Use the Python script at `scripts/generate-carousel.py`:
-
-```bash
-python3 scripts/generate-carousel.py --json content.json --output posts/NNN-slug/carousel.pdf
+```text
+scripts/generate-carousel.py
 ```
 
-### Content Structure (JSON)
+## Slide Structure
+
+Recommended structure:
+
+1. Cover: hard truth or high-signal promise.
+2. Context: why the reader usually gets this wrong.
+3. Lesson 1.
+4. Lesson 2.
+5. Lesson 3.
+6. Risk / invalidation / diem sai.
+7. Practical checklist.
+8. CTA slide.
+
+Shorter carousels are fine when the idea is narrow. Do not pad slides.
+
+## Content JSON
+
+Use this shape:
 
 ```json
 {
-  "title": "The 7 AI Tools That 10x'd My Productivity",
-  "title_emphasis": "AI Tools",
+  "title": "5 Bai Hoc De F0 Khong Chay Tai Khoan",
+  "title_emphasis": "F0",
   "slides": [
     {
       "number": 1,
-      "heading": "Tool Name",
-      "subtitle": "One-line description of what it does.",
-      "takeaway": "Key insight or quote for this slide."
+      "heading": "Dung nham may man voi nang luc",
+      "subtitle": "Mot lenh thang khong chung minh he thong dung.",
+      "takeaway": "Thi truong thuong thuong nguoi moi bang loi nhuan som."
     }
   ],
-  "cta_text": "Follow [YOUR NAME] for more insights.",
-  "cta_subtitle": "Repost to help your network."
+  "cta_text": "Theo doi Gold Smith Tran de hoc cach doc thi truong tinh tao hon.",
+  "cta_subtitle": "Luu lai neu ban dang xay he thong quan tri von."
 }
 ```
 
-## Workflow
+## Generate
 
-1. **Decide topic** — use content ideation or viral replication
-2. **Write slide content** — title, numbered points with headings + subtitles + takeaways
-3. **Generate PDF** — run the script with the content JSON
-4. **Write post text** — mirror the carousel content in the post caption
-5. **Save** — store in `posts/NNN-slug/` with carousel.pdf, post.md, original.md
-6. **Rebuild dashboard** — `python3 scripts/build-dashboard.py`
-
-## Post Storage
-
-```
-posts/NNN-slug/
-  post.md           # Metadata + copy-paste ready text
-  carousel.pdf      # The carousel PDF for LinkedIn upload
-  carousel-slides/  # Auto-generated slide PNGs for preview
-  content.json      # Content JSON (for regeneration)
-  original.md       # Original viral post (if replicated)
+```bash
+python scripts/generate-carousel.py --json content.json --output posts/slug/carousel.pdf
 ```
 
-## Tips for High-Performing Carousels
+Then rebuild dashboard:
 
-- **7-11 slides** is the sweet spot (cover + 5-9 content + CTA)
-- **Cover must hook** — use numbers, power words, curiosity gaps
-- **One idea per slide** — don't overcrowd
-- **Bottom italic quote** should be the ONE thing people remember from that slide
-- **Variety in illustrations** — never two slides with the same graphic
-- **Post text should preview** the carousel content (not duplicate it word-for-word)
+```bash
+python scripts/build-dashboard.py
+```
+
+## Storage
+
+Preferred:
+
+```text
+posts/slug/
+|-- post.md
+|-- content.json
+|-- carousel.pdf
+`-- original.md      # only if adapted from reference
+```
+
+## Safety Check
+
+Before finalizing:
+
+- No profit promise.
+- No direct buy/sell command.
+- No all-in/full-margin/vay tien.
+- Includes risk, diem sai, or capital management.
+- Visual text is readable and not overcrowded.

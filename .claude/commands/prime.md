@@ -22,16 +22,21 @@ find . -type f -name "*.md" | head -30
 
 1. `CLAUDE.md`
 2. `Gold-Smith-fb.md`
-3. `context/profile.md`
-4. `context/business.md`
-5. `context/strategy.md`
-6. `context/icp.md`
-7. `context/voice-analysis.md`
-8. `.claude/rules/safety.md`
-9. `.claude/rules/workflow.md`
-10. `.claude/rules/templates.md`
-11. `.claude/rules/tone-voice.md`
-12. `.claude/rules/content-strategy.md`
+3. `Gold-Smith-video.md`
+4. `1000_hook_short_form_tai_chinh.md` (chi can luot muc luc, doc chi tiet khi can hook)
+5. `context/operating-model-v2-1.md`
+6. `context/framework-v2.md`
+7. `context/profile.md`
+8. `context/business.md`
+9. `context/strategy.md`
+10. `context/icp.md`
+11. `context/metrics.md`
+12. `context/voice-analysis.md`
+13. `.claude/rules/safety.md`
+14. `.claude/rules/workflow.md`
+15. `.claude/rules/templates.md`
+16. `.claude/rules/tone-voice.md`
+17. `.claude/rules/content-strategy.md`
 
 ## Sau Khi Đọc
 
@@ -41,4 +46,5 @@ Tóm tắt ngắn:
 2. Nguồn sự thật chính và thứ tự ưu tiên.
 3. Persona, trụ cột nội dung và kênh ưu tiên.
 4. Nguyên tắc an toàn tài chính bắt buộc.
-5. Cách bạn sẽ xuất bài khi nhận brief.
+5. Pipeline v2.1 va gate nao bat buoc cho tac vu hien tai.
+6. Cách bạn sẽ xuất bài khi nhận brief.

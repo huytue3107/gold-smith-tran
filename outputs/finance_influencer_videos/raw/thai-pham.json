@@ -1,0 +1,804 @@
+{
+  "person": {
+    "name": "Thai Pham",
+    "platform": "YouTube",
+    "profile_url": "https://www.youtube.com/@thaiphamofficialvn/videos",
+    "note": "Vietnamese finance/investing creator."
+  },
+  "collected_at": "2026-05-13T05:31:20.605062+00:00",
+  "limit": null,
+  "videos": [
+    {
+      "title": "INTEL CÓ ĐANG \"XÀO NẤU\" SỐ LIỆU KHÔNG? SỰ THẬT VỀ DOANH THU ẢO!? PHÂN TÍCH BÁO CÁO TÀI CHÍNH",
+      "url": "https://www.youtube.com/watch?v=Hk2PBl8SQ6Q",
+      "view_count": 6927,
+      "like_count": 384,
+      "upload_date": "20260512",
+      "duration": 550
+    },
+    {
+      "title": "THỊ TRƯỜNG 'XANH VỎ ĐỎ LÒNG': TẠI SAO VN-INDEX PHÁ ĐỈNH 1,915 ĐIỂM NHƯNG TÀI KHOẢN ĐA SỐ VẪN LỖ?",
+      "url": "https://www.youtube.com/watch?v=NAm4m7K_AU4",
+      "view_count": 23787,
+      "like_count": 1476,
+      "upload_date": "20260510",
+      "duration": 2398
+    },
+    {
+      "title": "\"TỬ HUYỆT\" FUJAIRAH & VÀNG GIẢM SÂU, CHỨNG KHOÁN MỸ NGUY CƠ: MỸ - TRUNG QUỐC ĐANG TOAN TÍNH GÌ?",
+      "url": "https://www.youtube.com/watch?v=1DXdelq5B1A",
+      "view_count": 21929,
+      "like_count": 1407,
+      "upload_date": "20260505",
+      "duration": 1573
+    },
+    {
+      "title": "SELL IN MAY 2026: CHỨNG MỸ LẬP ĐỈNH LỊCH SỬ \"CÁI BẪY\" CHẾT NGƯỜI? VN-INDEX CÓ NGƯỢC DÒNG THÀNH CÔNG?",
+      "url": "https://www.youtube.com/watch?v=igQWteQEIfk",
+      "view_count": 23568,
+      "like_count": 1528,
+      "upload_date": "20260503",
+      "duration": 2914
+    },
+    {
+      "title": "POWELL NÓI SỰ THẬT: ĐỪNG MƠ LÃI SUẤT GIẢM NĂM 2026. KỊCH BẢN GIÁ VÀNG? BITCOIN? CHỨNG KHOÁN?",
+      "url": "https://www.youtube.com/watch?v=Hqmx5SzsHHQ",
+      "view_count": 39144,
+      "like_count": 2188,
+      "upload_date": "20260430",
+      "duration": 1375
+    },
+    {
+      "title": "CÚ LỪA MANG TÊN ĐÀM PHÁN HÒA BÌNH MỸ - IRAN LẦN 2: CHỨNG KHOÁN, DẦU & VÀNG SẼ RA SAO?",
+      "url": "https://www.youtube.com/watch?v=WLJmnKjJcFE",
+      "view_count": 40622,
+      "like_count": 1420,
+      "upload_date": "20260426",
+      "duration": 2338
+    },
+    {
+      "title": "HORMUZ LẠI ĐÓNG, SÚNG ĐÃ NỔ! 'CÚ LỪA' HÒA BÌNH CỦA TRUMP VÀ CÁI BẪY CHO CHỨNG SĨ? LÀM GÌ VỚI TIỀN?",
+      "url": "https://www.youtube.com/watch?v=ez4UHPnWLjE",
+      "view_count": 46403,
+      "like_count": 1952,
+      "upload_date": "20260419",
+      "duration": 2493
+    },
+    {
+      "title": "CHỨNG KHOÁN A BỜ CỜ 2026 | PHẦN 1: BÀI HỌC GIỮ & KIẾM TIỀN CỦA HUYỀN THOẠI CHARLIE MUNGER",
+      "url": "https://www.youtube.com/watch?v=UVuwOZWgpCE",
+      "view_count": 23813,
+      "like_count": 1130,
+      "upload_date": "20260416",
+      "duration": 2427
+    },
+    {
+      "title": "ĐỪNG ĐỂ MẤT TIỀN VÌ TIN TỨC TRUNG ĐÔNG: ĐÀM PHÁN CÓ ĐỔ VỠ KHÔNG? HÀNH XỬ RA SAO VỚI DANH MỤC ĐẦU TƯ?",
+      "url": "https://www.youtube.com/watch?v=3wEHqbUm6HE",
+      "view_count": 44888,
+      "like_count": 1767,
+      "upload_date": "20260412",
+      "duration": 2622
+    },
+    {
+      "title": "NGỪNG BẮN 2 TUẦN: BƯỚC NGOẶT HÒA BÌNH HAY MÀN KỊCH TIẾP THEO? 8 LÝ DO QUYẾT ĐỊNH TÚI TIỀN CỦA BẠN?",
+      "url": "https://www.youtube.com/watch?v=dX7zyib1DxQ",
+      "view_count": 34888,
+      "like_count": 1521,
+      "upload_date": "20260409",
+      "duration": 1362
+    },
+    {
+      "title": "EO BIỂN HORMUZ ĐÃ MỞ LẠI? CHIẾN TRANH TIÊU HAO, SA LẦY, TIÊU CỰC VỚI TT TRUMP? TIỀN CỦA BẠN?",
+      "url": "https://www.youtube.com/watch?v=kEXPCmwCgaQ",
+      "view_count": 47737,
+      "like_count": 2137,
+      "upload_date": "20260405",
+      "duration": 2936
+    },
+    {
+      "title": "VÌ SAO MỸ KHÔNG THỂ SA LẦY Ở IRAN? VÀ ĐỔ BỘ QUÂN LÀ ''TỰ SÁT'' ĐỊA CHÍNH TRỊ? SỰ THẬT BẠN CẦN BIẾT!",
+      "url": "https://www.youtube.com/watch?v=BB_hIHR6eDQ",
+      "view_count": 32460,
+      "like_count": 1325,
+      "upload_date": "20260404",
+      "duration": 1722
+    },
+    {
+      "title": "BÍ MẬT 7 TRIỆU THÙNG DẦU: ĐÒN CHÍ MẠNG CỦA Ả RẬP SAUDI KHIẾN IRAN TRẮNG TAY! NHẠC BẤT QUẦN 4.0?",
+      "url": "https://www.youtube.com/watch?v=WPRNYQfUxFY",
+      "view_count": 31719,
+      "like_count": 1678,
+      "upload_date": "20260331",
+      "duration": 2447
+    },
+    {
+      "title": "CHIẾN TRANH IRAN THÁNG THỨ 2, DẦU $110 ĐÔ LA, FED BẤT LỰC, 3 CHỈ SỐ MỸ SUY SỤP: TIỀN CHẢY VỀ ĐÂU?",
+      "url": "https://www.youtube.com/watch?v=HKWMj7G0zhU",
+      "view_count": 46727,
+      "like_count": 1888,
+      "upload_date": "20260329",
+      "duration": 1989
+    },
+    {
+      "title": "NGA TIẾP VIỆN DRONE CHO IRAN, MỸ ĐIỀU QUÂN: THỊ TRƯỜNG ĐANG ĐÁNH CƯỢC SAI LẦM?",
+      "url": "https://www.youtube.com/watch?v=igBvZaktAoc",
+      "view_count": 62514,
+      "like_count": 2281,
+      "upload_date": "20260326",
+      "duration": 1395
+    },
+    {
+      "title": "DẦU VỌT 113 USD/THÙNG, MỸ ĐƯA BỘ BINH VÀO IRAN KHI DẦU LÀ VUA? TIỀN CỦA BẠN SẼ ĐI ĐÂU VỀ ĐÂU?",
+      "url": "https://www.youtube.com/watch?v=H2Ce0vVvA4g",
+      "view_count": 64191,
+      "like_count": 3294,
+      "upload_date": "20260322",
+      "duration": 2442
+    },
+    {
+      "title": "HORMUZ BỊ KHÓA, DẦU LÊN $200? MỸ ĐỐT 11 TỶ USD: TIỀN CỦA BẠN SẼ ĐI VỀ ĐÂU?",
+      "url": "https://www.youtube.com/watch?v=ckI730NoBp0",
+      "view_count": 68602,
+      "like_count": 2307,
+      "upload_date": "20260315",
+      "duration": 2942
+    },
+    {
+      "title": "TÀI CHÍNH TUẦN 10/26: GIÁ DẦU 92 USD & CÚ SỐC VIỆC LÀM MỸ: TÂM ĐIỂM CUỘC CHIẾN MỸ, IRSAEL VS IRAN.",
+      "url": "https://www.youtube.com/watch?v=w8XCpTonp_U",
+      "view_count": 47049,
+      "like_count": 1333,
+      "upload_date": "20260308",
+      "duration": 1703
+    },
+    {
+      "title": "$8.000 TỶ ĐÔ VÀ CÚ LỪA ĐỊA CHÍNH TRỊ VĨ ĐẠI NHẤT LỊCH SỬ? MỸ LÀ NGƯỜI THUA CUỘC TẠI TRUNG ĐÔNG?",
+      "url": "https://www.youtube.com/watch?v=E175c0dKLeg",
+      "view_count": 48044,
+      "like_count": 2431,
+      "upload_date": "20260306",
+      "duration": 1478
+    },
+    {
+      "title": "EO BIỂN HORMUZ CHỞ DẦU TÊ LIỆT! TRUMP GỠ RỐI NHƯ NÀO? CÓ SỐC TÀI CHÍNH TOÀN CẦU KHÔNG?",
+      "url": "https://www.youtube.com/watch?v=vnyDwuXabCk",
+      "view_count": 59494,
+      "like_count": 1650,
+      "upload_date": "20260304",
+      "duration": 531
+    },
+    {
+      "title": "ĐẦU TƯ GÌ ĐỂ KIẾM BỘN TIỀN NĂM 2026? THÁI PHẠM",
+      "url": "https://www.youtube.com/watch?v=SAXgq8jKIe8",
+      "view_count": 153701,
+      "like_count": null,
+      "upload_date": "20260219",
+      "duration": 2961
+    },
+    {
+      "title": "NGHỊCH LÝ TUẦN 6: DOW JONES CÁN MỐC 50K, VÀNG & CRYPTO SẬP HẦM, BẠC CHIA ĐÔI, CHỨNG VIỆT TÌM ĐÁY MỚI",
+      "url": "https://www.youtube.com/watch?v=b8QCfWocmek",
+      "view_count": 40375,
+      "like_count": 1482,
+      "upload_date": "20260208",
+      "duration": 2344
+    },
+    {
+      "title": "SÀN VÀNG SẮP RA MẮT: CƠN ÁC MỘNG CỦA GIỚI ĐẦU CƠ VÀNG VẬT CHẤT VÀ TIỆM VÀNG?",
+      "url": "https://www.youtube.com/watch?v=uG1Y7nqYGI4",
+      "view_count": 76657,
+      "like_count": 2483,
+      "upload_date": "20260206",
+      "duration": 944
+    },
+    {
+      "title": "ĐỪNG MƠ VỀ BẢN VỊ VÀNG, BẠC NỮA! ĐÂY LÀ NHỮNG LÝ DO TẠI SAO",
+      "url": "https://www.youtube.com/watch?v=6c2Xhrhgr2I",
+      "view_count": 43670,
+      "like_count": 1441,
+      "upload_date": "20260204",
+      "duration": 1389
+    },
+    {
+      "title": "BẠC & VÀNG ''ĐIÊN LOẠN'': TÂN CHỦ TỊCH FED SẼ ''GIẾT'' HAY CỨU CHỨNG KHOÁN, BẠC, VÀNG, CRYPTO?",
+      "url": "https://www.youtube.com/watch?v=7NsjsSIZSyM",
+      "view_count": 65482,
+      "like_count": 2621,
+      "upload_date": "20260201",
+      "duration": 2126
+    },
+    {
+      "title": "BẠC 120 USD VỠ TRẬN, VÀNG 5,600 USD SẬP HẦM: CÚ ÚP BÔ LỊCH SỬ HAY CƠ HỘI BẮT ĐÁY?",
+      "url": "https://www.youtube.com/watch?v=zmFz_o1srGE",
+      "view_count": 61381,
+      "like_count": 2481,
+      "upload_date": "20260130",
+      "duration": 1079
+    },
+    {
+      "title": "VÀNG 175 TRIỆU/LƯỢNG: ĐU ĐỈNH HAY CƠ HỘI? CHỨNG KHOÁN TUẦN 26/1 LƯU Ý GÌ?",
+      "url": "https://www.youtube.com/watch?v=GUMwhluJeHY",
+      "view_count": 46926,
+      "like_count": 1868,
+      "upload_date": "20260125",
+      "duration": 1787
+    },
+    {
+      "title": "TRUMP ÁP THUẾ 10% RỒI 25% LÊN EU VÌ GREENLAND: CÚ LỪA \"NẮN GÂN\" HAY KHỦNG HOẢNG 2026?",
+      "url": "https://www.youtube.com/watch?v=XuaNG3m0jIU",
+      "view_count": 31058,
+      "like_count": 1743,
+      "upload_date": "20260119",
+      "duration": 1254
+    },
+    {
+      "title": "CĂNG THẲNG IRAN VÀ MỸ HẠ NHIỆT: VÀNG/BẠC CHÚ Ý? SÓNG THOÁI VỐN NHÀ NƯỚC CK VIỆT CÒN MẠNH?",
+      "url": "https://www.youtube.com/watch?v=HgGjB1mrtpA",
+      "view_count": 41390,
+      "like_count": 1684,
+      "upload_date": "20260118",
+      "duration": 1321
+    },
+    {
+      "title": "SÓNG THOÁI VỐN DOANH NGHIỆP NHÀ NƯỚC 2026: MỎ VÀNG HAY BÁNH VẼ? CẦN CHÚ Ý GÌ NGAY?",
+      "url": "https://www.youtube.com/watch?v=9aT_KNY-vGg",
+      "view_count": 44329,
+      "like_count": 1860,
+      "upload_date": "20260111",
+      "duration": 1125
+    },
+    {
+      "title": "NATO SẮP TAN RÃ? SỰ THẬT ĐẰNG SAU VIỆC MỸ QUYẾT ''NUỐT TRỌN'' GREENLAND 2026? VÀNG/BẠC NHƯ NÀO?",
+      "url": "https://www.youtube.com/watch?v=NcqTL9R8_sc",
+      "view_count": 41233,
+      "like_count": 1813,
+      "upload_date": "20260108",
+      "duration": 2623
+    },
+    {
+      "title": "TRUNG QUỐC CÓ DÙNG VŨ LỰC, QUÂN SỰ ĐÁNH ĐÀI LOAN ĐƯỢC NĂM 2026? NHẤT LÀ SAU TIỀN LỆ MỸ - VENEZUELA?",
+      "url": "https://www.youtube.com/watch?v=bakErEfnLow",
+      "view_count": 41628,
+      "like_count": 2026,
+      "upload_date": "20260105",
+      "duration": 2069
+    },
+    {
+      "title": "TRUNG QUỐC \"MẤT TRẮNG\" 100 TỶ ĐÔ VÌ VENEZUELA? CÚ SỐC GIÁ DẦU & VÀNG",
+      "url": "https://www.youtube.com/watch?v=Mtw64c52hTI",
+      "view_count": 77900,
+      "like_count": 4159,
+      "upload_date": "20260104",
+      "duration": 1933
+    },
+    {
+      "title": "VÀNG, BẠC, ĐỒNG, PLATINUM, KIM LOẠI LẬP ĐỈNH CAO MỌI THỜI ĐẠI, ATH: THỊ TRƯỜNG ĐANG CHE DẤU ĐIỀU GÌ?",
+      "url": "https://www.youtube.com/watch?v=mIEVPwQrO00",
+      "view_count": 48902,
+      "like_count": 1623,
+      "upload_date": "20251228",
+      "duration": 1798
+    },
+    {
+      "title": "CHỐT NAV 31/12/2025: DÒNG TIỀN LỚN LÀM GÌ? VÀ BẠN NÊN LÀM GÌ VỚI CHỨNG KHOÁN, VÀNG, BẠC, CRYPTO?",
+      "url": "https://www.youtube.com/watch?v=XcmrB8DJZV0",
+      "view_count": 27351,
+      "like_count": 1185,
+      "upload_date": "20251224",
+      "duration": 993
+    },
+    {
+      "title": "NHỊP ĐẬP THỊ TRƯỜNG TÀI CHÍNH 21/12/2025: FED SẼ HẠ LÃI SUẤT 1/2026? NHẬT TĂNG LÃI SUẤT? VNINDEX?",
+      "url": "https://www.youtube.com/watch?v=VXnt-v_bTpE",
+      "view_count": 21808,
+      "like_count": 922,
+      "upload_date": "20251221",
+      "duration": 2047
+    },
+    {
+      "title": "NGHỊCH LÝ V-INDEX: CẦN LÀM GÌ TRONG THỜI GIAN TỚI? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=zs66m2UrmDI",
+      "view_count": 26464,
+      "like_count": 1033,
+      "upload_date": "20251214",
+      "duration": 1634
+    },
+    {
+      "title": "KÉO TRỤ VIN-INDEX, QUÁ KHÓ KHĂN | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=shMdy2O4qrs",
+      "view_count": 23972,
+      "like_count": 780,
+      "upload_date": "20251207",
+      "duration": 1890
+    },
+    {
+      "title": "CÁCH CHỮA VIÊM XOANG KHÔNG CẦN THUỐC MIỄN PHÍ | TÔI ĐÃ KHỎI HOÀN TOÀN, KHÔNG TÁI LẠI, cập nhật 2025.",
+      "url": "https://www.youtube.com/watch?v=HiVT4kqyttM",
+      "view_count": 26649,
+      "like_count": 1332,
+      "upload_date": "20251203",
+      "duration": 1200
+    },
+    {
+      "title": "TIẾP TỤC KÉO TRỤ, XANH VỎ ĐỎ LÒNG? CƠ HỘI NÀO CHO CỔ PHIẾU CƠ BẢN CHỈNH SÂU? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=fjd_NR3R1bQ",
+      "view_count": 24416,
+      "like_count": 849,
+      "upload_date": "20251130",
+      "duration": 2091
+    },
+    {
+      "title": "THẾ KHÓ CỦA ÔNG POWELL: CẮT GIẢM LÃI SUẤT THÁNG 12/25, NÊN HAY KHÔNG NÊN? TÁC ĐỘNG: VÀNG, CK, TỶ GIÁ",
+      "url": "https://www.youtube.com/watch?v=wVvBaQmk_f0",
+      "view_count": 23962,
+      "like_count": 908,
+      "upload_date": "20251127",
+      "duration": 1471
+    },
+    {
+      "title": "NHỮNG ĐIỂM NHẤN TÀI CHÍNH CẦN LƯU Ý TUẦN 24/11/2025 | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=oINwAqoGZQQ",
+      "view_count": 26774,
+      "like_count": 941,
+      "upload_date": "20251123",
+      "duration": 1976
+    },
+    {
+      "title": "NHỮNG CỔ PHIẾU CƠ BẢN, ĐÃ RẺ TƯƠNG ĐỐI CÓ LÀM NHÀ ĐẦU TƯ MÁT LÒNG? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=h8Kwv_xkhQc",
+      "view_count": 39204,
+      "like_count": 1264,
+      "upload_date": "20251116",
+      "duration": 2591
+    },
+    {
+      "title": "KIỆT SỨC TÌM ĐIỂM CÂN BẰNG | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=yxFddwCV3YQ",
+      "view_count": 32883,
+      "like_count": 1062,
+      "upload_date": "20251109",
+      "duration": 2245
+    },
+    {
+      "title": "CỔ PHIẾU VỐN HOÁ LỚN KÉO LÙI CHỈ SỐ LIỆU TIỀN THÔNG MINH CÓ TÌM TỚI CÁC CƠ HỘI KHÁC? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=N3VJ8JEMTn8",
+      "view_count": 32785,
+      "like_count": 1108,
+      "upload_date": "20251102",
+      "duration": 2644
+    },
+    {
+      "title": "TIẾP TỤC RUNG LẮC SIÊU MẠNH! | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=P49eqPhvd7o",
+      "view_count": 38958,
+      "like_count": 1241,
+      "upload_date": "20251026",
+      "duration": 1634
+    },
+    {
+      "title": "RUNG LẮC MẠNH? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=77uU_LvUOSA",
+      "view_count": 45006,
+      "like_count": 1444,
+      "upload_date": "20251019",
+      "duration": 1539
+    },
+    {
+      "title": "VÀNG TĂNG DỰNG ĐỨNG VƯỢT 4.200 USD/OUNCE! MUA THÊM HAY CHỐT LỜI NGAY TRƯỚC KHI QUÁ MUỘN?",
+      "url": "https://www.youtube.com/watch?v=sFTOWBsNAh0",
+      "view_count": 61011,
+      "like_count": 2019,
+      "upload_date": "20251016",
+      "duration": 773
+    },
+    {
+      "title": "ĐE DỌA ÁP THUẾ 100% CỦA ÔNG TRUMP VỚI TRUNG QUỐC LIỆU CÓ THÀNH CÔNG? TÁC ĐỘNG NẾU CÓ? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=ia3Il6MxgtQ",
+      "view_count": 55705,
+      "like_count": 1666,
+      "upload_date": "20251012",
+      "duration": 1865
+    },
+    {
+      "title": "TẠI SAO VÀNG LẠI VƯỢT 4.000 USD/OUNCE? SỰ THẬT ĐẰNG SAU CƠN SỐT VÀNG TOÀN CẦU.",
+      "url": "https://www.youtube.com/watch?v=hOmPuVC83W4",
+      "view_count": 114142,
+      "like_count": 2528,
+      "upload_date": "20251008",
+      "duration": 1071
+    },
+    {
+      "title": "CHỨNG KHOÁN VIỆT LIỆU CÓ NÂNG HẠNG KHÔNG? NÂNG HẠNG THÌ LÊN 1,900 KHÔNG? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=b7JtMdkIsdc",
+      "view_count": 39068,
+      "like_count": 1109,
+      "upload_date": "20251005",
+      "duration": 1904
+    },
+    {
+      "title": "CUỘC CHIẾN ĐIỆN HẠT NHÂN: KHI ĐIỆN TRỞ THÀNH VŨ KHÍ TRONG KỶ NGUYÊN AI & THẾ GIỚI ĐA CỰC | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=AnuRw2bGxLI",
+      "view_count": 16832,
+      "like_count": 770,
+      "upload_date": "20251003",
+      "duration": 1198
+    },
+    {
+      "title": "TRƯỚC THÔNG TIN LÊN HẠNG THỊ TRƯỜNG CÒN HƯNG PHẤN TIẾP TỤC KHÔNG? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=GTgZv2eNS9M",
+      "view_count": 31919,
+      "like_count": 1082,
+      "upload_date": "20250928",
+      "duration": 2120
+    },
+    {
+      "title": "CẢ ĐỜI LAO ĐỘNG VẪN KHÔNG MUA NỔI NHÀ: BAO GIỜ BĐS HẠ NHIỆT? GIẢI PHÁP CHUNG VÀ GIẢI PHÁP CHO BẠN?",
+      "url": "https://www.youtube.com/watch?v=zz9Uc7E-6Z8",
+      "view_count": 54049,
+      "like_count": 1420,
+      "upload_date": "20250927",
+      "duration": 1920
+    },
+    {
+      "title": "FED CẮT/HẠ LÃI SUẤT KHI KHÔNG KHỦNG HOẢNG: AI HƯỞNG LỢI? AI PHẢI TRẢ GIÁ?",
+      "url": "https://www.youtube.com/watch?v=5DDyBeLARDY",
+      "view_count": 62302,
+      "like_count": 2145,
+      "upload_date": "20250920",
+      "duration": 1556
+    },
+    {
+      "title": "NHẬN ĐỊNH THỊ TRƯỜNG TÀI CHÍNH TUẦN 15/9/2025 | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=WqjTW0djsB0",
+      "view_count": 45434,
+      "like_count": 1531,
+      "upload_date": "20250914",
+      "duration": 1967
+    },
+    {
+      "title": "CRYPTO TẠI VIỆT NAM: HỢP PHÁP, XỬ PHẠT & CƠ HỘI ĐẦU TƯ MỚI 2025 | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=Vo-QK9ne_Uk",
+      "view_count": 45241,
+      "like_count": 1479,
+      "upload_date": "20250911",
+      "duration": 1563
+    },
+    {
+      "title": "NỢ MỸ PHÌNH TO, M2 BÙNG NỔ: CHU KỲ TĂNG GIÁ VÀNG CHỈ MỚI BẮT ĐẦU? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=mfcAcnLW4bE",
+      "view_count": 63506,
+      "like_count": 2001,
+      "upload_date": "20250909",
+      "duration": 1372
+    },
+    {
+      "title": "NHỮNG ĐIỂM NHẤN TÀI CHÍNH TUẦN 8/9/2025 | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=_OME-cPxkoQ",
+      "view_count": 37063,
+      "like_count": 1300,
+      "upload_date": "20250907",
+      "duration": 2285
+    },
+    {
+      "title": "9 DẤU HIỆU VENEZUELA \"SẮP BÙNG NỔ\": DẦU, VÀNG CHỊU TRẬN? | THAI PHAM\"",
+      "url": "https://www.youtube.com/watch?v=mlOrutrZGeU",
+      "view_count": 26031,
+      "like_count": 1235,
+      "upload_date": "20250904",
+      "duration": 1432
+    },
+    {
+      "title": "DONALD TRUMP & CRYPTO: VÌ SAO BẠN ĐANG TRỞ THÀNH CHỦ NỢ CỦA NƯỚC MỸ? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=PCTDo_NKSBc",
+      "view_count": 35042,
+      "like_count": 1123,
+      "upload_date": "20250903",
+      "duration": 1199
+    },
+    {
+      "title": "TẬP 1: TIỀN, HIỂU ĐÚNG VỀ TIỀN ĐỂ TẠO SẢN NGHIỆP THÀNH CÔNG | SERIES THIẾT KẾ CUỘC ĐỜI THỊNH VƯỢNG",
+      "url": "https://www.youtube.com/watch?v=VUi58TrDo50",
+      "view_count": 35705,
+      "like_count": 1332,
+      "upload_date": "20250831",
+      "duration": 1755
+    },
+    {
+      "title": "38 LÁ THƯ ROCKEFELLER GỬI CHO CON TRAI | BỨC THƯ 18: BIẾT ƠN VÀ CHO ĐI",
+      "url": "https://www.youtube.com/watch?v=LblOCUj1Rrs",
+      "view_count": 3457,
+      "like_count": 104,
+      "upload_date": "20250830",
+      "duration": 275
+    },
+    {
+      "title": "38 LÁ THƯ ROCKEFELLER GỬI CHO CON TRAI | BỨC THƯ 17: ĐẶT CÂU HỎI - CHÌA KHÓA MỞ RA TRI THỨC",
+      "url": "https://www.youtube.com/watch?v=N4ECc7vYHTk",
+      "view_count": 3226,
+      "like_count": 114,
+      "upload_date": "20250826",
+      "duration": 292
+    },
+    {
+      "title": "CƠN MƯA TO MÙA HÈ? NHỮNG ĐIỀU CẦN LƯU Ý VỀ THỊ TRƯỜNG TÀI CHÍNH TUẦN 25.8.2025 | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=k15N61cBa8E",
+      "view_count": 37502,
+      "like_count": 1449,
+      "upload_date": "20250824",
+      "duration": 2504
+    },
+    {
+      "title": "38 LÁ THƯ ROCKEFELLER GỬI CHO CON TRAI | BỨC THƯ 16: TRÁCH NHIỆM VỚI LỜI NÓI",
+      "url": "https://www.youtube.com/watch?v=57QS9fJS7A8",
+      "view_count": 2872,
+      "like_count": 127,
+      "upload_date": "20250822",
+      "duration": 284
+    },
+    {
+      "title": "P2.1: CHỨNG KHOÁN A BỜ CỜ | HƯỚNG DẪN THEO DÕI THỊ TRƯỜNG TIN TỨC, TRAO ĐỔI THỊ TRƯỜNG (MIỄN PHÍ)",
+      "url": "https://www.youtube.com/watch?v=UB3RZ7RzJc8",
+      "view_count": 20394,
+      "like_count": 264,
+      "upload_date": "20250821",
+      "duration": 282
+    },
+    {
+      "title": "CÓ NÊN MUA IPO CHỨNG KHOÁN TCB - TCBS HAY KHÔNG?",
+      "url": "https://www.youtube.com/watch?v=WCf523zMPy4",
+      "view_count": 33614,
+      "like_count": 991,
+      "upload_date": "20250819",
+      "duration": 1223
+    },
+    {
+      "title": "Q&A: ĐANG CÓ 900 TRIỆU, CÓ NÊN VAY VÀI TỶ (VAY 80%) ĐỂ MUA NHÀ TẠI THỜI ĐIỂM NÀY KHÔNG? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=eUKjwkpdSZw",
+      "view_count": 13770,
+      "like_count": 480,
+      "upload_date": "20250819",
+      "duration": 552
+    },
+    {
+      "title": "NHỮNG ĐIỂM CẦN LƯU Ý VỀ THỊ TRƯỜNG TÀI CHÍNH TUẦN 18.8.2025 | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=RO7uvWhZ_3A",
+      "view_count": 37944,
+      "like_count": 1531,
+      "upload_date": "20250817",
+      "duration": 2745
+    },
+    {
+      "title": "NHNN HẠ DỰ TRỮ BẮT BUỘC 50% CHO VPB, HDB, VCB, MBB SẼ GIẢI PHÓNG BAO NHIÊU TIỀN? KÌ VỌNG RA SAO?",
+      "url": "https://www.youtube.com/watch?v=APIc-BX2OQk",
+      "view_count": 24881,
+      "like_count": 810,
+      "upload_date": "20250815",
+      "duration": 632
+    },
+    {
+      "title": "Q&A: CHỨNG KHOÁN TĂNG MẠNH 1600 ĐIỂM THÌ SAU ĐÓ BẤT ĐỘNG SẢN SẼ CÓ SÓNG LỚN VÀ TĂNG MẠNH HAY KHÔNG?",
+      "url": "https://www.youtube.com/watch?v=lPQ8RFszo_g",
+      "view_count": 53679,
+      "like_count": 1699,
+      "upload_date": "20250813",
+      "duration": 1820
+    },
+    {
+      "title": "38 LÁ THƯ ROCKEFELLER GỬI CHO CON TRAI | BỨC THƯ 15: CHI TIÊU THÔNG MINH",
+      "url": "https://www.youtube.com/watch?v=SB6R9TyjaFo",
+      "view_count": 4105,
+      "like_count": 153,
+      "upload_date": "20250811",
+      "duration": 282
+    },
+    {
+      "title": "38 LÁ THƯ ROCKEFELLER GỬI CHO CON TRAI | BỨC THƯ 14: TINH THẦN CHẤP NHẬN RỦI RO CÓ TÍNH TOÁN",
+      "url": "https://www.youtube.com/watch?v=VYnggANuCGA",
+      "view_count": 3518,
+      "like_count": 111,
+      "upload_date": "20250806",
+      "duration": 271
+    },
+    {
+      "title": "38 LÁ THƯ ROCKEFELLER GỬI CHO CON TRAI | BỨC THƯ 13: SỨC MẠNH CỦA LÒNG KIÊN NHẪN | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=dZSt5lQF4Bs",
+      "view_count": 3680,
+      "like_count": 122,
+      "upload_date": "20250804",
+      "duration": 258
+    },
+    {
+      "title": "THUẾ ĐỐI ỨNG 1/8 CỦA MỸ NHƯ THẾ NÀO? ĐÃ LÀ CUỐI CÙNG CHƯA? AI HƯỞNG LỢI? AI CHỊU THIỆT? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=sTT-PW6ng6M",
+      "view_count": 36509,
+      "like_count": 1165,
+      "upload_date": "20250801",
+      "duration": 1824
+    },
+    {
+      "title": "'PHÒNG TRỌ HỘP DIÊM' Ở HÀN QUỐC: MÔ HÌNH BĐS LÀ LỐI THOÁT CHO GIỚI TRẺ HAY BI KỊCH NHÀ Ở? |THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=cqrfwDYJtKU",
+      "view_count": 35542,
+      "like_count": 1024,
+      "upload_date": "20250731",
+      "duration": 1782
+    },
+    {
+      "title": "CÁCH THIẾT LẬP LẠI VÀ HOÀN THÀNH MỤC TIÊU CUỘC ĐỜI 2025 | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=WmhnGLQKseU",
+      "view_count": 14564,
+      "like_count": 587,
+      "upload_date": "20250730",
+      "duration": 2681
+    },
+    {
+      "title": "38 LÁ THƯ ROCKEFELLER GỬI CHO CON TRAI | BỨC THƯ 12: TRÂN TRỌNG GIA ĐÌNH | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=-SGKpeOOxfo",
+      "view_count": 3037,
+      "like_count": 111,
+      "upload_date": "20250730",
+      "duration": 278
+    },
+    {
+      "title": "38 LÁ THƯ ROCKEFELLER GỬI CHO CON TRAI | BỨC THƯ 11: CHỌN BẠN MÀ CHƠI | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=LcT7hjkuPuU",
+      "view_count": 4474,
+      "like_count": 180,
+      "upload_date": "20250728",
+      "duration": 300
+    },
+    {
+      "title": "38 LÁ THƯ ROCKEFELLER GỬI CHO CON TRAI | BỨC THƯ 10: LUÔN HỌC HỎI VÀ TRAU DỒI KIẾN THỨC | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=P9kLcs7zVdg",
+      "view_count": 5436,
+      "like_count": 219,
+      "upload_date": "20250726",
+      "duration": 301
+    },
+    {
+      "title": "PHÂN TÍCH CHUYÊN SÂU: THUẾ CHUYỂN NHƯỢNG BĐS 20% CÓ THỂ GÂY TĂNG GIÁ? GIẢI PHÁP GÌ ĐỂ CÂN BẰNG?",
+      "url": "https://www.youtube.com/watch?v=z04opTXtO-U",
+      "view_count": 43215,
+      "like_count": 1267,
+      "upload_date": "20250724",
+      "duration": 2187
+    },
+    {
+      "title": "MARK MINERVINI: HỆ THỐNG ĐẦU TƯ GIÚP ÔNG KIẾM HÀNG TRIỆU ĐÔ LA? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=ro8FClkoV1k",
+      "view_count": 13324,
+      "like_count": 465,
+      "upload_date": "20250722",
+      "duration": 626
+    },
+    {
+      "title": "DỰ THẢO ĐỀ XUẤT ÁP THUẾ 20% CHỨNG KHOÁN: TỐT HAY XẤU CHO NHÀ ĐẦU TƯ? | THÁI PHẠM",
+      "url": "https://www.youtube.com/watch?v=bcS8lHTX8nU",
+      "view_count": 25366,
+      "like_count": 1008,
+      "upload_date": "20250722",
+      "duration": 1445
+    },
+    {
+      "title": "DỰ THẢO TĂNG THUẾ BẤT ĐỘNG SẢN: CƠ HỘI GIẢM GIÁ NHÀ HAY CÚ TÁT VÀO GIỚI ĐẦU CƠ?",
+      "url": "https://www.youtube.com/watch?v=sNCO8Y_lsMI",
+      "view_count": 65718,
+      "like_count": 2100,
+      "upload_date": "20250721",
+      "duration": 2010
+    },
+    {
+      "title": "CÚ KÉO VN30, PHÁI SINH NƯỚC RÚT ĐAU THẤU CÁY. SHORT THỦ CHÁY TÀI KHOẢN | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=WrkaY4oa0Hk",
+      "view_count": 37764,
+      "like_count": 1312,
+      "upload_date": "20250713",
+      "duration": 2752
+    },
+    {
+      "title": "ELON MUSK LẬP ĐẢNG CHÍNH TRỊ MỚI: MỐI ĐE DOẠ CHO ÔNG TRUMP VÀ CẢ HỆ THỐNG LƯỠNG ĐẢNG MỸ? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=AoeFVHiWuOA",
+      "view_count": 24082,
+      "like_count": 1106,
+      "upload_date": "20250708",
+      "duration": 2145
+    },
+    {
+      "title": "DÒNG TIỀN ĐẦU CƠ TIẾP TỤC ĐI TRÊN BĂNG MỎNG? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=Vv6Tm7MFDNk",
+      "view_count": 36904,
+      "like_count": 1318,
+      "upload_date": "20250706",
+      "duration": 2617
+    },
+    {
+      "title": "MỸ ÁP THUẾ 20% LÊN HÀNG VIỆT NAM: CƠ HỘI HAY THẢM HỌA? 40% THUẾ HÀNG ''ĐỘI LỐT'' TRUNG QUỐC?",
+      "url": "https://www.youtube.com/watch?v=B3m4YIpJz6o",
+      "view_count": 65311,
+      "like_count": 1790,
+      "upload_date": "20250705",
+      "duration": 2054
+    },
+    {
+      "title": "🔴 DÒNG TIỀN ĐẦU CƠ TUÔN CHẢY, HƯỞNG ỨNG CHỨNG MỸ? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=dkPVuEVqA4k",
+      "view_count": 42271,
+      "like_count": 1521,
+      "upload_date": "20250629",
+      "duration": 2661
+    },
+    {
+      "title": "BONG BÓNG TÀI SẢN TIẾP TỤC HÌNH THÀNH? BÀI HỌC RÙNG MÌNH TỪ CÁC ĐẠI ĐÔ THỊ MA TRUNG QUỐC.",
+      "url": "https://www.youtube.com/watch?v=6ArKSFWj_p0",
+      "view_count": 57903,
+      "like_count": 1952,
+      "upload_date": "20250627",
+      "duration": 2485
+    },
+    {
+      "title": "🔴 VÕ SĨ SAY ĐÒN, CHÁO NÓNG HÚP VÒNG QUANH!? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=Ifkg6VWJN3M",
+      "view_count": 38815,
+      "like_count": 1463,
+      "upload_date": "20250622",
+      "duration": 2091
+    },
+    {
+      "title": "🔴 TUẦN NHIỄU LOẠN? | THAI PHAM",
+      "url": "https://www.youtube.com/watch?v=o7FK6yAd8ZQ",
+      "view_count": 29915,
+      "like_count": 1314,
+      "upload_date": "20250615",
+      "duration": 1795
+    },
+    {
+      "title": "SÓNG GIÓ VĨ MÔ TOÀN CẦU QUAY LẠI? CƠ HỘI HAY THÁCH THỨC?",
+      "url": "https://www.youtube.com/watch?v=bGzRQapuOlI",
+      "view_count": 59742,
+      "like_count": 2173,
+      "upload_date": "20250525",
+      "duration": 2534
+    },
+    {
+      "title": "THẤT BẠI CAY ĐẮNG! DẠY CHO TA NHỮNG ĐIỀU GÌ?",
+      "url": "https://www.youtube.com/watch?v=__2IYZGcK5c",
+      "view_count": 21447,
+      "like_count": 1053,
+      "upload_date": "20241016",
+      "duration": 1651
+    },
+    {
+      "title": "CHỦ TỊCH POWELL RẤT BỒ CÂU, CÓ LÀM THỊ TRƯỜNG HƯNG PHẤN?",
+      "url": "https://www.youtube.com/watch?v=4IAqwrC8Nyk",
+      "view_count": 26828,
+      "like_count": 1354,
+      "upload_date": "20240711",
+      "duration": 1534
+    },
+    {
+      "title": "GIÁ VÀNG TRONG NƯỚC SÁNG 29/11/2023 TIẾP TỤC TĂNG SỐC? NGUYÊN NHÂN? CÓ NÊN MUA HAY BÁN VÀNG LÚC NÀY?",
+      "url": "https://www.youtube.com/watch?v=MuCjX-9JHQM",
+      "view_count": 25306,
+      "like_count": 680,
+      "upload_date": "20231129",
+      "duration": 273
+    },
+    {
+      "title": "NHẬT BẢN DẠY TRẺ EM ĐẦU TƯ/CHƠI CHỨNG KHOÁN TỪ SỚM. TỐT KHÔNG? CHƠI CHỨNG KHOÁN CÓ ĐẠO ĐỨC KHÔNG?",
+      "url": "https://www.youtube.com/watch?v=l_9fp7phu0s",
+      "view_count": 20554,
+      "like_count": 968,
+      "upload_date": "20230323",
+      "duration": 511
+    },
+    {
+      "title": "TẠI SAO QUỐC GIA HÙNG CƯỜNG CẦN THỊ TRƯỜNG CHỨNG KHOÁN MẠNH, NGƯỜI DÂN KHÔNG GỬI TIẾT KIỆM QUÁ NHIỀU",
+      "url": "https://www.youtube.com/watch?v=6NOrid4kbos",
+      "view_count": 39214,
+      "like_count": 2240,
+      "upload_date": "20210112",
+      "duration": 2525
+    }
+  ]
+}

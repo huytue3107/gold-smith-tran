@@ -5,16 +5,16 @@ _Trạng thái: Chưa có dữ liệu analytics thật. Không bịa số liệu
 
 ## Số Liệu Mạng Xã Hội
 
-| Kênh | Chỉ số | Giá trị | Nguồn / Ngày cập nhật |
-| --- | --- | --- | --- |
-| Tổng | Followers | TBD | Chưa xác minh |
-| Tổng | Lượt xem/tháng | TBD | Chưa xác minh |
-| Facebook | Followers | TBD | Chưa xác minh |
-| Facebook | Engagement rate | TBD | Chưa xác minh |
-| Threads | Followers | TBD | Chưa xác minh |
-| TikTok/Reels/Shorts | Followers | TBD | Chưa xác minh |
-| YouTube | Subscribers | TBD | Chưa xác minh |
-| Website/Email | Leads/Subscribers | TBD | Chưa xác minh |
+| Kênh                | Chỉ số            | Giá trị | Nguồn / Ngày cập nhật |
+| ------------------- | ----------------- | ------- | --------------------- |
+| Tổng                | Followers         | TBD     | Chưa xác minh         |
+| Tổng                | Lượt xem/tháng    | TBD     | Chưa xác minh         |
+| Facebook            | Followers         | TBD     | Chưa xác minh         |
+| Facebook            | Engagement rate   | TBD     | Chưa xác minh         |
+| Threads             | Followers         | TBD     | Chưa xác minh         |
+| TikTok/Reels/Shorts | Followers         | TBD     | Chưa xác minh         |
+| YouTube             | Subscribers       | TBD     | Chưa xác minh         |
+| Website/Email       | Leads/Subscribers | TBD     | Chưa xác minh         |
 
 ## Nhận Định Theo Kênh
 
@@ -29,9 +29,9 @@ Chưa có bảng top content từ analytics thật.
 
 Tạm dùng bài mẫu sau làm chuẩn format, không dùng làm bằng chứng hiệu suất:
 
-| # | File | Chủ đề | Ghi chú |
-| --- | --- | --- | --- |
-| 1 | `posts/2026-04-28-ty-gia-usd.md` | Tỷ giá USD/VND, thanh khoản, rủi ro đòn bẩy | Ví dụ tốt về bài phân tích tin nóng có cảnh báo rủi ro |
+| #   | File                             | Chủ đề                                      | Ghi chú                                                |
+| --- | -------------------------------- | ------------------------------------------- | ------------------------------------------------------ |
+| 1   | `posts/2026-04-28-ty-gia-usd.md` | Tỷ giá USD/VND, thanh khoản, rủi ro đòn bẩy | Ví dụ tốt về bài phân tích tin nóng có cảnh báo rủi ro |
 
 ## Insight Từ Data
 

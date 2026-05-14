@@ -22,23 +22,23 @@ _Mức độ dữ liệu: Suy luận từ `Gold-Smith-fb.md` và bài mẫu; d�
 
 ## Kênh Chính Thức
 
-| Kênh | URL | Mục đích |
-| --- | --- | --- |
-| Facebook | TBD | Kênh chính để xây trust, viết bài phân tích, tạo cộng đồng |
-| Threads | TBD | Repurpose góc nhìn ngắn, câu chốt, phản ứng nhanh |
-| TikTok/Reels/Shorts | TBD | Video ngắn 45-60 giây từ bài phân tích và cảnh tỉnh F0 |
-| YouTube | TBD | Nội dung dài hơn, phân tích chuyên sâu hoặc series giáo dục |
-| Website | TBD | Hub thương hiệu, landing page, tài nguyên, offer |
+| Kênh                | URL | Mục đích                                                    |
+| ------------------- | --- | ----------------------------------------------------------- |
+| Facebook            | TBD | Kênh chính để xây trust, viết bài phân tích, tạo cộng đồng  |
+| Threads             | TBD | Repurpose góc nhìn ngắn, câu chốt, phản ứng nhanh           |
+| TikTok/Reels/Shorts | TBD | Video ngắn 45-60 giây từ bài phân tích và cảnh tỉnh F0      |
+| YouTube             | TBD | Nội dung dài hơn, phân tích chuyên sâu hoặc series giáo dục |
+| Website             | TBD | Hub thương hiệu, landing page, tài nguyên, offer            |
 
 ## Nền Tảng Nội Dung
 
-| Nền tảng | Mức ưu tiên | Tệp khán giả | Trọng tâm nội dung |
-| --- | --- | --- | --- |
-| Facebook | Cao | F0, người cầm tiền, nhà đầu tư cá nhân | Bài viết phân tích, giáo dục, cảnh tỉnh, xây cộng đồng |
-| Threads | Cao | Người đọc nhanh, thích góc nhìn sắc | Repurpose hook, câu chốt, mini-framework |
-| Video ngắn | Trung bình | F0, Gen Z/Millennials | Script 45-60 giây, hook mạnh, ví dụ dễ hiểu |
-| YouTube | Trung bình | Người muốn học sâu | Series phân tích thị trường, quản trị vốn, tài chính cá nhân |
-| Website/Email | Thấp hiện tại | Lead chất lượng cao | Tài nguyên, checklist, workshop, offer TBD |
+| Nền tảng      | Mức ưu tiên   | Tệp khán giả                           | Trọng tâm nội dung                                           |
+| ------------- | ------------- | -------------------------------------- | ------------------------------------------------------------ |
+| Facebook      | Cao           | F0, người cầm tiền, nhà đầu tư cá nhân | Bài viết phân tích, giáo dục, cảnh tỉnh, xây cộng đồng       |
+| Threads       | Cao           | Người đọc nhanh, thích góc nhìn sắc    | Repurpose hook, câu chốt, mini-framework                     |
+| Video ngắn    | Trung bình    | F0, Gen Z/Millennials                  | Script 45-60 giây, hook mạnh, ví dụ dễ hiểu                  |
+| YouTube       | Trung bình    | Người muốn học sâu                     | Series phân tích thị trường, quản trị vốn, tài chính cá nhân |
+| Website/Email | Thấp hiện tại | Lead chất lượng cao                    | Tài nguyên, checklist, workshop, offer TBD                   |
 
 ## Giọng Điệu Và Cá Tính
 

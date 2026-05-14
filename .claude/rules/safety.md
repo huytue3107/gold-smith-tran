@@ -52,3 +52,22 @@ Trước khi giao bài, tự kiểm tra:
 - Khi có nghi ngờ, luôn ưu tiên **an toàn** hơn **ấn tượng**.
 - Triết học là **gia vị**, không phải **món chính**.
 - Viết để người đọc **tỉnh ra**, không phải để họ **mơ mộng**.
+
+## Quy tắc 1%
+
+Nếu có 1% khả năng nội dung chạm safety risk → **bắt buộc** chạy full safety review. Không rationalize "bài này nhẹ thôi, chắc không sao".
+
+**Trigger bắt buộc:** Khi nội dung chứa bất kỳ từ trong danh sách finance terms:
+
+```
+đầu tư, giao dịch, forex, vàng, USD, thị trường, lãi suất, tỷ giá,
+chứng khoán, crypto, lệnh, vị thế, danh mục, lợi nhuận, vốn
+```
+
+Không được tuyên bố output là "done" trước khi:
+
+1. Chạy `python scripts/validate-content-safety.py <path>` và paste exit code 0.
+2. Đối chiếu xong với 5 lớp an toàn + danh sách từ tuyệt đối tránh ở trên.
+3. Đọc lại `.claude/rules/red-flags-content.md` nếu có suy nghĩ muốn skip gate.
+
+**Không có exception** vì user đang vội, vì bài "chỉ nói chung chung", hoặc vì "đã quen tay".

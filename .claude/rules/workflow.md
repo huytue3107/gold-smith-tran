@@ -29,9 +29,11 @@ Xem file `templates.md` để chọn công thức phù hợp.
 ## Bước 3: Viết nội dung
 
 Tuân thủ:
+
 - Mỗi đoạn 1–3 câu. Không viết block dài kín màn hình.
 - Câu quan trọng đứng riêng một dòng.
 - Hook phải đi thẳng vào nỗi đau hoặc sự thật khó nghe.
+- Khi cần hook nhanh: tham khảo `1000_hook_short_form_tai_chinh.md` (20 nhóm chủ đề, hook hấp dẫn sẵn). Chỉnh lại theo voice Gold Smith trước khi dùng — không copy nguyên văn.
 - Kết bài phải có CTA rõ ràng nhưng mềm.
 
 ## Bước 4: Xuất output

@@ -1,12 +1,13 @@
-# STYLE GUIDE MASTER TEMPLATE  
+# STYLE GUIDE MASTER TEMPLATE
+
 # Văn phong: Chuyên Gia Tài Chính Gold Smith Tran Nhà Gia Kim Forex
 
 > File này là **bộ não văn phong** dùng để tạo nội dung Facebook, Threads, video script, bài phân tích, caption, bài kêu gọi thảo luận và nội dung xây cộng đồng cho thương hiệu cá nhân **Gold Smith Tran Nhà Gia Kim Forex**.  
 > Mục tiêu: mỗi lần đưa file này kèm brief mới, AI phải viết đúng giọng: **sắc bén, thực chiến, tài chính, quyết đoán, có chiều sâu triết học, nói gọn nhưng trúng huyệt**.
 
 ---
->
-**Cập nhật bổ sung từ báo cáo nhân khẩu học:** File này đã được mở rộng thêm lớp insight về người học tài chính, người dùng ứng dụng tài chính và nhà đầu tư tại Việt Nam. Khi tạo content, cần chọn rõ persona trước khi viết: Gen Z/Millennials, F0, phụ nữ/gia đình trẻ, hoặc doanh nhân/startup/fintech.
+
+> **Cập nhật bổ sung từ báo cáo nhân khẩu học:** File này đã được mở rộng thêm lớp insight về người học tài chính, người dùng ứng dụng tài chính và nhà đầu tư tại Việt Nam. Khi tạo content, cần chọn rõ persona trước khi viết: Gen Z/Millennials, F0, phụ nữ/gia đình trẻ, hoặc doanh nhân/startup/fintech.
 
 ---
 
@@ -1394,7 +1395,6 @@ Nó cần người đủ tĩnh để nhận ra, đủ kỷ luật để chờ v�
 
 ---
 
-
 ---
 
 ## 19. Cập nhật quan trọng từ báo cáo nhân khẩu học thị trường tài chính Việt Nam
@@ -1439,12 +1439,12 @@ Thị trường thiếu người biết mình đang thuộc nhóm rủi ro nào.
 
 ### 20.1. Bảng phân tầng người đọc
 
-| Nhóm người đọc | Tên gọi nội bộ | Động lực chính | Nỗi đau chính | Nội dung nên đánh | CTA phù hợp |
-|---|---|---|---|---|---|
-| Gen Z và Millennials | Người phòng vệ chủ động | Kiểm soát tiền, tiết kiệm, tự do sống, không tiêu vì áp lực xã hội | Chi phí sống tăng, áp lực bạn bè, thiếu kế hoạch, dễ tiêu theo cảm xúc | Loud budgeting, ngân sách, quỹ dự phòng, kỷ luật chi tiêu, app quản lý tiền | Template ngân sách, checklist tài chính cá nhân, mini-course |
-| Nhà đầu tư F0 | Người tìm lợi nhuận nhanh | Muốn kiếm tiền nhanh, sợ lỡ sóng, thích tín hiệu rõ ràng | FOMO, gồng lỗ, chốt lời non, nghe hội nhóm, thiếu hệ thống | Quản trị vốn, tâm lý bầy đàn, điểm cắt lỗ, phân biệt đầu tư và đánh bạc | Comment “HỆ THỐNG”, inbox checklist, vào nhóm học nền tảng |
-| Phụ nữ và gia đình trẻ | Người quản trị rủi ro gia đình | Bảo vệ gia đình, giữ dòng tiền ổn định, tích lũy cho con, phòng biến cố | Sợ mất an toàn, sợ bảo hiểm/đầu tư khó hiểu, sợ rủi ro ảnh hưởng con cái | Tài chính gia đình, quỹ khẩn cấp, bảo hiểm, tiết kiệm mục tiêu, đầu tư an toàn | Ebook tài chính gia đình, tư vấn kế hoạch, bảng kiểm tra sức khỏe tài chính |
-| Doanh nhân trẻ, startup, người làm phần mềm tài chính | Người theo đuổi tăng trưởng chiến lược | Mở rộng vốn, gọi vốn, tối ưu dòng tiền, đọc vĩ mô, xây sản phẩm tài chính | Thiếu dữ liệu, thiếu góc nhìn chiến lược, không biết định giá/thuế/rủi ro vĩ mô | Vĩ mô, fintech, ESG, IFRS, dòng tiền SME, fundraising, dashboard tài chính | Workshop, báo cáo thị trường, cộng đồng cao cấp, tư vấn chiến lược |
+| Nhóm người đọc                                        | Tên gọi nội bộ                         | Động lực chính                                                            | Nỗi đau chính                                                                   | Nội dung nên đánh                                                              | CTA phù hợp                                                                 |
+| ----------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| Gen Z và Millennials                                  | Người phòng vệ chủ động                | Kiểm soát tiền, tiết kiệm, tự do sống, không tiêu vì áp lực xã hội        | Chi phí sống tăng, áp lực bạn bè, thiếu kế hoạch, dễ tiêu theo cảm xúc          | Loud budgeting, ngân sách, quỹ dự phòng, kỷ luật chi tiêu, app quản lý tiền    | Template ngân sách, checklist tài chính cá nhân, mini-course                |
+| Nhà đầu tư F0                                         | Người tìm lợi nhuận nhanh              | Muốn kiếm tiền nhanh, sợ lỡ sóng, thích tín hiệu rõ ràng                  | FOMO, gồng lỗ, chốt lời non, nghe hội nhóm, thiếu hệ thống                      | Quản trị vốn, tâm lý bầy đàn, điểm cắt lỗ, phân biệt đầu tư và đánh bạc        | Comment “HỆ THỐNG”, inbox checklist, vào nhóm học nền tảng                  |
+| Phụ nữ và gia đình trẻ                                | Người quản trị rủi ro gia đình         | Bảo vệ gia đình, giữ dòng tiền ổn định, tích lũy cho con, phòng biến cố   | Sợ mất an toàn, sợ bảo hiểm/đầu tư khó hiểu, sợ rủi ro ảnh hưởng con cái        | Tài chính gia đình, quỹ khẩn cấp, bảo hiểm, tiết kiệm mục tiêu, đầu tư an toàn | Ebook tài chính gia đình, tư vấn kế hoạch, bảng kiểm tra sức khỏe tài chính |
+| Doanh nhân trẻ, startup, người làm phần mềm tài chính | Người theo đuổi tăng trưởng chiến lược | Mở rộng vốn, gọi vốn, tối ưu dòng tiền, đọc vĩ mô, xây sản phẩm tài chính | Thiếu dữ liệu, thiếu góc nhìn chiến lược, không biết định giá/thuế/rủi ro vĩ mô | Vĩ mô, fintech, ESG, IFRS, dòng tiền SME, fundraising, dashboard tài chính     | Workshop, báo cáo thị trường, cộng đồng cao cấp, tư vấn chiến lược          |
 
 ---
 
@@ -2278,13 +2278,14 @@ Tài chính bắt đầu từ việc hiểu người đang cầm tiền.
 29. Hãy lưu lại. Một ngày nào đó, câu này có thể giúp bạn không vào một lệnh xấu.
 30. Muốn đi đường dài với thị trường, bắt đầu bằng kỷ luật. Muốn học cùng cộng đồng, tham gia nhóm.
 
-
 ## Template 1:
+
 [Hook: sự kiện/câu hỏi/nghịch lý]
 
 Nghe qua thì có vẻ [cách hiểu phổ biến]. Nhưng nếu nhìn kỹ hơn, vấn đề không nằm ở [bề mặt], mà nằm ở [bản chất].
 
 Ta biết rằng:
+
 - [Số liệu 1]
 - [Số liệu 2]
 - [Giả định hoặc phép tính nhanh]
@@ -2297,45 +2298,49 @@ Suy nghĩ của tôi: [nhận định cá nhân rõ ràng].
 
 [Chốt một câu ngắn, có thể hơi mỉa mai hoặc đọng lại.]
 
-
 ## Template 2:
+
 [Hook mạnh: kết luận/cảnh báo/sự thật]
 
 1. Bối cảnh chính
+
 - Sự kiện A.
 - Sự kiện B.
 - Nhân vật/quốc gia/doanh nghiệp liên quan.
 
 2. Dữ liệu
-* Con số 1.
-* Con số 2.
-* Quy định / chính sách / tiền lệ liên quan.
+
+- Con số 1.
+- Con số 2.
+- Quy định / chính sách / tiền lệ liên quan.
 
 => Kết luận trung gian.
 
 --
 
 3. Ảnh hưởng đến Việt Nam / thị trường / người đọc
-* Ai được lợi.
-* Ai bị thiệt.
-* Rủi ro nằm ở đâu.
-* Cơ hội nằm ở đâu.
+
+- Ai được lợi.
+- Ai bị thiệt.
+- Rủi ro nằm ở đâu.
+- Cơ hội nằm ở đâu.
 
 4. Điều mọi người dễ bỏ qua
-Không phải [cách hiểu phổ biến].
-Mà là [bản chất vấn đề].
+   Không phải [cách hiểu phổ biến].
+   Mà là [bản chất vấn đề].
 
 5. Chốt
-Một câu ngắn, sắc, có thể hơi mỉa mai hoặc cảnh báo.
-
+   Một câu ngắn, sắc, có thể hơi mỉa mai hoặc cảnh báo.
 
 ## Template 3:
+
 [SỰ THẬT / CHÍNH THỨC / KHÔNG ĐÙA]: [kết luận mạnh].
 
 1. [Sự kiện nền]
-* [Dữ kiện 1]
-* [Dữ kiện 2]
-* [Dữ kiện 3]
+
+- [Dữ kiện 1]
+- [Dữ kiện 2]
+- [Dữ kiện 3]
 
 => [Kết luận trung gian].
 

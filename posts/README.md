@@ -10,6 +10,8 @@ Bài text-only có thể lưu trực tiếp:
 posts/YYYY-MM-DD-slug.md
 ```
 
+Dung `posts/_template.md` lam mau khi tao bai moi.
+
 Bài có visual nên lưu trong thư mục riêng:
 
 ```text
@@ -80,3 +82,9 @@ python scripts/build-dashboard.py
 ```
 
 Dashboard sẽ được tạo tại `outputs/dashboard.html`.
+
+Truoc khi publish, co the chay:
+
+```bash
+python scripts/validate-content-safety.py posts
+```

@@ -13,12 +13,12 @@ _Mức độ dữ liệu: Suy luận từ `Gold-Smith-fb.md`; offer và số li�
 
 **Sản phẩm & Dịch vụ đang xác minh:**
 
-| Sản phẩm/Dịch vụ | Trạng thái | Đối tượng |
-| --- | --- | --- |
-| Cộng đồng học đầu tư/kỷ luật tài chính | TBD | F0, nhà đầu tư cá nhân |
-| Workshop hoặc lớp học tài chính thực chiến | TBD | Người muốn xây hệ thống quản trị vốn |
-| Tư vấn/định hướng tài chính cá nhân hoặc danh mục | TBD | Người cầm tiền cần khung ra quyết định |
-| Tài nguyên/checklist quản trị rủi ro | TBD | Người mới cần công cụ tự kiểm tra |
+| Sản phẩm/Dịch vụ                                  | Trạng thái | Đối tượng                              |
+| ------------------------------------------------- | ---------- | -------------------------------------- |
+| Cộng đồng học đầu tư/kỷ luật tài chính            | TBD        | F0, nhà đầu tư cá nhân                 |
+| Workshop hoặc lớp học tài chính thực chiến        | TBD        | Người muốn xây hệ thống quản trị vốn   |
+| Tư vấn/định hướng tài chính cá nhân hoặc danh mục | TBD        | Người cầm tiền cần khung ra quyết định |
+| Tài nguyên/checklist quản trị rủi ro              | TBD        | Người mới cần công cụ tự kiểm tra      |
 
 Không dùng các mục trên như offer thật trong CTA cho tới khi người dùng xác nhận.
 

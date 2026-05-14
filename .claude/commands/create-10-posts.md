@@ -10,6 +10,8 @@ Trước khi viết, đọc:
 
 - `CLAUDE.md`
 - `Gold-Smith-fb.md`
+- `Gold-Smith-video.md` (khi co bai repurpose video)
+- `1000_hook_short_form_tai_chinh.md` (luot khi can hook)
 - `context/strategy.md`
 - `context/icp.md`
 - `context/voice-analysis.md`
@@ -21,31 +23,43 @@ Trước khi viết, đọc:
 
 ### Theo Phương Pháp
 
-| Phương pháp | Số lượng | Mô tả |
-| --- | --- | --- |
-| Tin nóng / Market Reading | 3 | Bám tỷ giá, vàng, USD, lãi suất, dòng tiền, tin vĩ mô. Phải có dữ kiện và cảnh báo rủi ro. |
-| Pain Point | 3 | Đào sâu nỗi đau F0, người trẻ, gia đình, founder. |
-| Series / Education | 2 | Bài thuộc series như "F0 trả học phí", "Tiền của người trẻ", "Mái nhà tài chính". |
-| Viral Replication | 2 | Mượn cấu trúc bài đã hiệu quả, thay substance bằng góc Gold Smith. |
+| Phương pháp               | Số lượng | Mô tả                                                                                      |
+| ------------------------- | -------- | ------------------------------------------------------------------------------------------ |
+| Tin nóng / Market Reading | 3        | Bám tỷ giá, vàng, USD, lãi suất, dòng tiền, tin vĩ mô. Phải có dữ kiện và cảnh báo rủi ro. |
+| Pain Point                | 3        | Đào sâu nỗi đau F0, người trẻ, gia đình, founder.                                          |
+| Series / Education        | 2        | Bài thuộc series như "F0 trả học phí", "Tiền của người trẻ", "Mái nhà tài chính".          |
+| Viral Replication         | 2        | Mượn cấu trúc bài đã hiệu quả, thay substance bằng góc Gold Smith.                         |
 
 ### Theo Persona
 
-| Persona | Số lượng tối thiểu |
-| --- | --- |
-| Nhà đầu tư F0 | 4 |
-| Gen Z/Millennials | 2 |
-| Phụ nữ & gia đình trẻ | 2 |
-| Doanh nhân/Startup/Fintech | 1 |
-| Persona linh hoạt theo tin nóng | 1 |
+| Persona                         | Số lượng tối thiểu |
+| ------------------------------- | ------------------ |
+| Nhà đầu tư F0                   | 4                  |
+| Gen Z/Millennials               | 2                  |
+| Phụ nữ & gia đình trẻ           | 2                  |
+| Doanh nhân/Startup/Fintech      | 1                  |
+| Persona linh hoạt theo tin nóng | 1                  |
+
+## Handoff Discipline
+
+Khi gọi specialist agent cho từng bài (voice-editor, financial-safety-reviewer, visual-director...), prompt phải **self-contained** theo `reference/templates/content-handoff-v2-1.md`. Không gọi suông "review batch này" — mỗi bài gói riêng đủ context.
+
+## Parallel Dispatch
+
+Khi 10 bài có persona/pillar độc lập, dispatch song song theo nguyên tắc:
+
+- Mỗi bài = 1 handoff packet độc lập.
+- Không chia sẻ state giữa các bài (mỗi bài tự chứa brief, persona, source files cần đọc).
+- Safety review chạy SAU mỗi bài draft xong, không gộp batch.
 
 ### Theo Định Dạng
 
-| Định dạng | Số lượng khuyến nghị |
-| --- | --- |
-| Facebook post dài | 5 |
-| Facebook/Threads post ngắn | 2 |
-| Video script 45-60 giây | 2 |
-| Carousel/Infographic concept | 1 |
+| Định dạng                    | Số lượng khuyến nghị |
+| ---------------------------- | -------------------- |
+| Facebook post dài            | 5                    |
+| Facebook/Threads post ngắn   | 2                    |
+| Video script 45-60 giây      | 2                    |
+| Carousel/Infographic concept | 1                    |
 
 Không bắt buộc bài nào cũng phải có visual thật ngay, nhưng mỗi bài phải có **Image Notes** hoặc **Repurpose Notes**.
 

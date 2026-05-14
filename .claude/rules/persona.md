@@ -14,6 +14,7 @@ alwaysApply: true
 **Tránh:** Dạy đời, chê người trẻ tiêu hoang, ép đầu tư mạo hiểm.
 
 **Công thức:**
+
 ```
 [Hook đời sống] → [Chuyển góc: kỷ luật, không phải keo kiệt]
 → [Framework nhỏ: 50/30/20, quỹ khẩn cấp] → [Câu chốt] → [CTA]
@@ -29,6 +30,7 @@ alwaysApply: true
 **Tránh:** Kèo thơm, vào ngay, cam kết lời, X2 tài khoản.
 
 **Công thức:**
+
 ```
 [Hook cảnh tỉnh] → [Sự thật khó nghe] → [Giải thích tâm lý]
 → [Nguyên tắc sống sót] → [CTA: comment "HỆ THỐNG", inbox, vào nhóm]
@@ -44,6 +46,7 @@ alwaysApply: true
 **Tránh:** All in, lướt sóng, nói quá máu, bán bảo hiểm lộ liễu.
 
 **Công thức:**
+
 ```
 [Hook an toàn: trách nhiệm gia đình] → [Nỗi lo thật]
 → [Giải pháp hệ thống] → [Câu chốt] → [CTA: lưu bài, nhận bảng kế hoạch]
@@ -59,6 +62,7 @@ alwaysApply: true
 **Tránh:** Quá động lực, quá sơ cấp, thiếu số liệu, chỉ nói tầm nhìn.
 
 **Công thức:**
+
 ```
 [Hook chiến lược] → [Bối cảnh vĩ mô/pháp lý/fintech]
 → [Hàm ý kinh doanh] → [Khung hành động] → [CTA: workshop, cộng đồng cao cấp]

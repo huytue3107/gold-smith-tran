@@ -4,12 +4,12 @@ Thư mục này chứa file làm việc được tạo ra trong quá trình vậ
 
 ## Nội Dung Thường Gặp
 
-| File/Folder | Được tạo bởi | Mô tả |
-| --- | --- | --- |
-| `dashboard.html` | `scripts/build-dashboard.py` | Dashboard tổng hợp bài trong `posts/` |
-| `YYYY-MM-DD-batch-content-plan.md` | `/create-10-posts` | Kế hoạch batch nhiều bài |
-| `YYYY-MM-DD-content-ideas.md` | Content ideation | Ý tưởng bài theo persona/trụ cột |
-| `classified.json` | `scripts/classify-emails.py` | Kết quả phân loại email nếu dùng Gmail workflow |
+| File/Folder                        | Được tạo bởi                 | Mô tả                                           |
+| ---------------------------------- | ---------------------------- | ----------------------------------------------- |
+| `dashboard.html`                   | `scripts/build-dashboard.py` | Dashboard tổng hợp bài trong `posts/`           |
+| `YYYY-MM-DD-batch-content-plan.md` | `/create-10-posts`           | Kế hoạch batch nhiều bài                        |
+| `YYYY-MM-DD-content-ideas.md`      | Content ideation             | Ý tưởng bài theo persona/trụ cột                |
+| `classified.json`                  | `scripts/classify-emails.py` | Kết quả phân loại email nếu dùng Gmail workflow |
 
 ## Xem Dashboard
 

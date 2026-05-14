@@ -146,7 +146,8 @@ def build_html():
     post_dirs = sorted(glob.glob(os.path.join(POSTS_DIR, "*")))
     post_dirs = [d for d in post_dirs if os.path.isdir(d) and not os.path.basename(d).startswith(".")]
     post_files = sorted(glob.glob(os.path.join(POSTS_DIR, "*.md")))
-    post_files = [p for p in post_files if os.path.basename(p).lower() != "readme.md"]
+    excluded_post_files = {"readme.md", "_template.md"}
+    post_files = [p for p in post_files if os.path.basename(p).lower() not in excluded_post_files]
 
     cards = []
     for post_file in post_files:

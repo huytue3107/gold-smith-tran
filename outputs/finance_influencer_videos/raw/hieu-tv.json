@@ -1,0 +1,1476 @@
+{
+  "person": {
+    "name": "Hieu TV",
+    "platform": "YouTube",
+    "profile_url": "https://www.youtube.com/@hieu-tv/videos",
+    "note": "Vietnamese personal-finance podcast/channel."
+  },
+  "collected_at": "2026-05-13T05:31:20.605062+00:00",
+  "limit": null,
+  "videos": [
+    {
+      "title": "Chia tay Podcast Hieu TV",
+      "url": "https://www.youtube.com/watch?v=76qDG_GaW68",
+      "view_count": 309436,
+      "like_count": 12496,
+      "upload_date": "20240714",
+      "duration": 1140
+    },
+    {
+      "title": "Cách đầu tư hiệu quả khi thị trường đi xuống",
+      "url": "https://www.youtube.com/watch?v=r_pi976OD0A",
+      "view_count": 183822,
+      "like_count": 5023,
+      "upload_date": "20240707",
+      "duration": 1720
+    },
+    {
+      "title": "3 góc nhìn quan trọng trong tài chính và đầu tư",
+      "url": "https://www.youtube.com/watch?v=2Tb9BRdOEc4",
+      "view_count": 176454,
+      "like_count": 6750,
+      "upload_date": "20240630",
+      "duration": 960
+    },
+    {
+      "title": "Chuyện tiền bạc trong tình yêu",
+      "url": "https://www.youtube.com/watch?v=9zgTJSq_cc0",
+      "view_count": 185205,
+      "like_count": 6430,
+      "upload_date": "20240623",
+      "duration": 1030
+    },
+    {
+      "title": "Đừng tự dán nhãn cho mình",
+      "url": "https://www.youtube.com/watch?v=X0K_KvkkvHE",
+      "view_count": 196862,
+      "like_count": 8857,
+      "upload_date": "20240616",
+      "duration": 1090
+    },
+    {
+      "title": "Tầm nhìn cho cuộc sống",
+      "url": "https://www.youtube.com/watch?v=9BIaI8G3mRU",
+      "view_count": 409944,
+      "like_count": 13078,
+      "upload_date": "20240609",
+      "duration": 1260
+    },
+    {
+      "title": "9 nguyên tắc chi tiêu",
+      "url": "https://www.youtube.com/watch?v=PJPhR58LBYA",
+      "view_count": 215022,
+      "like_count": 8302,
+      "upload_date": "20240602",
+      "duration": 1250
+    },
+    {
+      "title": "Phần 2 - Những nguyên tắc chi tiêu",
+      "url": "https://www.youtube.com/watch?v=UMe0s6vDn0M",
+      "view_count": 151574,
+      "like_count": 5201,
+      "upload_date": "20240526",
+      "duration": 1070
+    },
+    {
+      "title": "Tiêu tiền thế nào cho hợp lý?",
+      "url": "https://www.youtube.com/watch?v=a7kg3MTeT28",
+      "view_count": 311351,
+      "like_count": 10522,
+      "upload_date": "20240519",
+      "duration": 1310
+    },
+    {
+      "title": "Tuổi trẻ có nên mua nhà?",
+      "url": "https://www.youtube.com/watch?v=eDGyE10ysfc",
+      "view_count": 234000,
+      "like_count": 8369,
+      "upload_date": "20240512",
+      "duration": 1200
+    },
+    {
+      "title": "4 cấp độ an vui",
+      "url": "https://www.youtube.com/watch?v=k14BV1xf1jE",
+      "view_count": 175872,
+      "like_count": 7689,
+      "upload_date": "20240505",
+      "duration": 1200
+    },
+    {
+      "title": "Tìm lối đi riêng cho mình",
+      "url": "https://www.youtube.com/watch?v=-BN6ORZuJFw",
+      "view_count": 235897,
+      "like_count": 9542,
+      "upload_date": "20240428",
+      "duration": 610
+    },
+    {
+      "title": "Đừng kể giấc mơ của bạn cho sai người",
+      "url": "https://www.youtube.com/watch?v=9M_rVYYZEpw",
+      "view_count": 193089,
+      "like_count": 9122,
+      "upload_date": "20240421",
+      "duration": 930
+    },
+    {
+      "title": "Chuyện gì rồi cũng qua",
+      "url": "https://www.youtube.com/watch?v=w7Xg5wQNXwg",
+      "view_count": 210360,
+      "like_count": 9413,
+      "upload_date": "20240414",
+      "duration": 690
+    },
+    {
+      "title": "Biết cái mình không biết",
+      "url": "https://www.youtube.com/watch?v=vWC_NUjt5Gk",
+      "view_count": 283342,
+      "like_count": 13007,
+      "upload_date": "20240407",
+      "duration": 1070
+    },
+    {
+      "title": "Vì sao tôi không đầu tư vào Bitcoin?",
+      "url": "https://www.youtube.com/watch?v=Socer5m6vP8",
+      "view_count": 222242,
+      "like_count": 9376,
+      "upload_date": "20240331",
+      "duration": 1420
+    },
+    {
+      "title": "Bitcoin - Cơ hội đổi đời hay Cú lừa thế kỷ?",
+      "url": "https://www.youtube.com/watch?v=hhzCeqyUlJ8",
+      "view_count": 299949,
+      "like_count": 12337,
+      "upload_date": "20240324",
+      "duration": 1480
+    },
+    {
+      "title": "Có nên đầu tư vào Bitcoin?",
+      "url": "https://www.youtube.com/watch?v=c8pOSQfEu1k",
+      "view_count": 275075,
+      "like_count": 11706,
+      "upload_date": "20240317",
+      "duration": 1220
+    },
+    {
+      "title": "Giá trị nội lực và những mối quan hệ",
+      "url": "https://www.youtube.com/watch?v=M7qt2W1Dmos",
+      "view_count": 350247,
+      "like_count": 12102,
+      "upload_date": "20240310",
+      "duration": 1250
+    },
+    {
+      "title": "Đặt đúng câu hỏi trước khi tìm câu trả lời",
+      "url": "https://www.youtube.com/watch?v=2X6Vr1kHgcY",
+      "view_count": 144369,
+      "like_count": 6580,
+      "upload_date": "20240303",
+      "duration": 990
+    },
+    {
+      "title": "Sinh nhật Podcast - Hành trình 3 năm",
+      "url": "https://www.youtube.com/watch?v=tAYEnGcqaHk",
+      "view_count": 68186,
+      "like_count": 5444,
+      "upload_date": "20240218",
+      "duration": 1140
+    },
+    {
+      "title": "7 nguồn thu nhập cho năm mới",
+      "url": "https://www.youtube.com/watch?v=8AgB6KB1zQA",
+      "view_count": 236265,
+      "like_count": 9658,
+      "upload_date": "20240211",
+      "duration": 1010
+    },
+    {
+      "title": "Biết ơn để hạnh phúc",
+      "url": "https://www.youtube.com/watch?v=lFOlieuOJpU",
+      "view_count": 158259,
+      "like_count": 6933,
+      "upload_date": "20240204",
+      "duration": 940
+    },
+    {
+      "title": "Chuyện thằng Charles",
+      "url": "https://www.youtube.com/watch?v=zQeQZmw3Wgk",
+      "view_count": 131461,
+      "like_count": 8123,
+      "upload_date": "20240128",
+      "duration": 960
+    },
+    {
+      "title": "8 ưu điểm của cuộc sống độc thân",
+      "url": "https://www.youtube.com/watch?v=TdE9LhzWqb8",
+      "view_count": 158952,
+      "like_count": 6615,
+      "upload_date": "20240121",
+      "duration": 1010
+    },
+    {
+      "title": "Chọn mục tiêu để theo đuổi",
+      "url": "https://www.youtube.com/watch?v=szLWgM4tTG4",
+      "view_count": 254575,
+      "like_count": 11922,
+      "upload_date": "20240114",
+      "duration": 860
+    },
+    {
+      "title": "Kỹ năng đối mặt những điều chưa biết",
+      "url": "https://www.youtube.com/watch?v=CAEbF7jJ0Pc",
+      "view_count": 203406,
+      "like_count": 9733,
+      "upload_date": "20240107",
+      "duration": 840
+    },
+    {
+      "title": "Tâm sự cuối năm và tương lai của Podcast",
+      "url": "https://www.youtube.com/watch?v=PU759C16EoU",
+      "view_count": 150927,
+      "like_count": 7503,
+      "upload_date": "20231231",
+      "duration": 930
+    },
+    {
+      "title": "Phòng tránh vấn đề thay vì xử lý vấn đề",
+      "url": "https://www.youtube.com/watch?v=6ADHdwRRwWU",
+      "view_count": 119367,
+      "like_count": 5588,
+      "upload_date": "20231224",
+      "duration": 830
+    },
+    {
+      "title": "Kiến tạo môi trường đầu tư",
+      "url": "https://www.youtube.com/watch?v=Aax8g502M1k",
+      "view_count": 184252,
+      "like_count": 7774,
+      "upload_date": "20231217",
+      "duration": 1040
+    },
+    {
+      "title": "Cái giá của tự do là cô đơn",
+      "url": "https://www.youtube.com/watch?v=4BXEcQk6t8o",
+      "view_count": 304587,
+      "like_count": 12923,
+      "upload_date": "20231210",
+      "duration": 960
+    },
+    {
+      "title": "4 câu hỏi tôi dùng để đi tìm những cộng sự quan trọng",
+      "url": "https://www.youtube.com/watch?v=2xpsSDfLX-U",
+      "view_count": 103764,
+      "like_count": 4582,
+      "upload_date": "20231203",
+      "duration": 1010
+    },
+    {
+      "title": "2 bí quyết đầu tư",
+      "url": "https://www.youtube.com/watch?v=RejTY3ygYAk",
+      "view_count": 203662,
+      "like_count": 8609,
+      "upload_date": "20231126",
+      "duration": 1170
+    },
+    {
+      "title": "Lựa chọn - Sống thử - và Hạnh phúc",
+      "url": "https://www.youtube.com/watch?v=xHdarKCgdUU",
+      "view_count": 196964,
+      "like_count": 7670,
+      "upload_date": "20231119",
+      "duration": 1270
+    },
+    {
+      "title": "Nhìn điều hay để học / Tìm điểm dở để chê",
+      "url": "https://www.youtube.com/watch?v=tcmb_joNIEI",
+      "view_count": 174624,
+      "like_count": 6698,
+      "upload_date": "20231112",
+      "duration": 770
+    },
+    {
+      "title": "Ra đi trọn vẹn",
+      "url": "https://www.youtube.com/watch?v=zFbhH-nMxHw",
+      "view_count": 161032,
+      "like_count": 7263,
+      "upload_date": "20231105",
+      "duration": 920
+    },
+    {
+      "title": "Lãi suất của sự nghèo khó",
+      "url": "https://www.youtube.com/watch?v=hmxdTliI8x8",
+      "view_count": 288769,
+      "like_count": 9712,
+      "upload_date": "20231029",
+      "duration": 980
+    },
+    {
+      "title": "Giàu có, Thịnh vượng và Sự tự do",
+      "url": "https://www.youtube.com/watch?v=3sY4YQeoNlU",
+      "view_count": 243241,
+      "like_count": 8076,
+      "upload_date": "20231022",
+      "duration": 1240
+    },
+    {
+      "title": "Ưu đãi dành cho học viên cũ",
+      "url": "https://www.youtube.com/watch?v=bpysZBJvfVM",
+      "view_count": 27306,
+      "like_count": 655,
+      "upload_date": "20231019",
+      "duration": 600
+    },
+    {
+      "title": "Tiền lương - Chiếc gông êm ái",
+      "url": "https://www.youtube.com/watch?v=-fztL_Umr78",
+      "view_count": 294929,
+      "like_count": 9705,
+      "upload_date": "20231015",
+      "duration": 1020
+    },
+    {
+      "title": "Hỏi đáp về khoá học đầu tư 2023",
+      "url": "https://www.youtube.com/watch?v=hBXzaJHR_ZA",
+      "view_count": 47062,
+      "like_count": 1251,
+      "upload_date": "20231012",
+      "duration": 890
+    },
+    {
+      "title": "In it to win it - Dấn thân để chiến thắng",
+      "url": "https://www.youtube.com/watch?v=wFNU8FCfGTQ",
+      "view_count": 219843,
+      "like_count": 7869,
+      "upload_date": "20231008",
+      "duration": 1050
+    },
+    {
+      "title": "Thông báo chính thức - Khoá học đầu tư 2023",
+      "url": "https://www.youtube.com/watch?v=yUHyX_mnD7o",
+      "view_count": 77174,
+      "like_count": 1812,
+      "upload_date": "20231005",
+      "duration": 960
+    },
+    {
+      "title": "Đi tìm kênh đầu tư hiệu quả nhất Việt Nam",
+      "url": "https://www.youtube.com/watch?v=dVKLTDuhDhQ",
+      "view_count": 336243,
+      "like_count": 9290,
+      "upload_date": "20231001",
+      "duration": 1540
+    },
+    {
+      "title": "4 sai lầm phổ biến khi đầu tư trên thị trường chứng khoán",
+      "url": "https://www.youtube.com/watch?v=jNAZC1XSN4g",
+      "view_count": 163665,
+      "like_count": 6152,
+      "upload_date": "20230924",
+      "duration": 1220
+    },
+    {
+      "title": "🔥1 ― Trò chuyện bên bếp lửa - Tập đầu tiên",
+      "url": "https://www.youtube.com/watch?v=nhu-BYfmDyY",
+      "view_count": 142483,
+      "like_count": 5498,
+      "upload_date": "20230923",
+      "duration": 930
+    },
+    {
+      "title": "Xây dựng một cuộc sống tối giản",
+      "url": "https://www.youtube.com/watch?v=ywL4IQvxAHw",
+      "view_count": 355969,
+      "like_count": 12840,
+      "upload_date": "20230917",
+      "duration": 1070
+    },
+    {
+      "title": "3 điều vô giá tự do tài chính mang đến cho tôi",
+      "url": "https://www.youtube.com/watch?v=HBkZgvMe2EE",
+      "view_count": 215975,
+      "like_count": 10996,
+      "upload_date": "20230910",
+      "duration": 1020
+    },
+    {
+      "title": "Tôi đã kiếm 1 triệu đô đầu tiên như thế nào?",
+      "url": "https://www.youtube.com/watch?v=alQvCgi1HLI",
+      "view_count": 373749,
+      "like_count": 14819,
+      "upload_date": "20230903",
+      "duration": 1250
+    },
+    {
+      "title": "Phá sản có là mất hết?",
+      "url": "https://www.youtube.com/watch?v=ySTyBc5zSOk",
+      "view_count": 142561,
+      "like_count": 5491,
+      "upload_date": "20230827",
+      "duration": 910
+    },
+    {
+      "title": "Tình yêu, đi tìm hay Xây dựng?",
+      "url": "https://www.youtube.com/watch?v=Ta5K4P-jM3k",
+      "view_count": 254876,
+      "like_count": 9546,
+      "upload_date": "20230820",
+      "duration": 1070
+    },
+    {
+      "title": "Khi yêu, hãy nhìn về bản thân",
+      "url": "https://www.youtube.com/watch?v=oeb3O-Yrnxs",
+      "view_count": 321167,
+      "like_count": 12470,
+      "upload_date": "20230813",
+      "duration": 720
+    },
+    {
+      "title": "Biết trước tương lai để làm gì?",
+      "url": "https://www.youtube.com/watch?v=zGJBgQkPd54",
+      "view_count": 215622,
+      "like_count": 8866,
+      "upload_date": "20230806",
+      "duration": 900
+    },
+    {
+      "title": "Bớt quan trọng, Thêm hạnh phúc",
+      "url": "https://www.youtube.com/watch?v=QNeGCY4uVLI",
+      "view_count": 383165,
+      "like_count": 14698,
+      "upload_date": "20230730",
+      "duration": 900
+    },
+    {
+      "title": "Thời gian - Sức khoẻ - Tiền bạc",
+      "url": "https://www.youtube.com/watch?v=9skSWVSTSUw",
+      "view_count": 314373,
+      "like_count": 13519,
+      "upload_date": "20230723",
+      "duration": 1125
+    },
+    {
+      "title": "Liệu chúng ta có sẵn sàng để giàu?",
+      "url": "https://www.youtube.com/watch?v=DkP5F7vy9-s",
+      "view_count": 369645,
+      "like_count": 8836,
+      "upload_date": "20230716",
+      "duration": 1160
+    },
+    {
+      "title": "Chưa kịp giàu - Cha Mẹ đã già",
+      "url": "https://www.youtube.com/watch?v=xMM0_spqVlY",
+      "view_count": 297007,
+      "like_count": 13520,
+      "upload_date": "20230709",
+      "duration": 1125
+    },
+    {
+      "title": "Hạnh phúc và những mục tiêu cuộc sống",
+      "url": "https://www.youtube.com/watch?v=5SQV0E5hIOo",
+      "view_count": 463220,
+      "like_count": 15375,
+      "upload_date": "20230702",
+      "duration": 1040
+    },
+    {
+      "title": "Phân biệt thẻ ATM, Thẻ ghi nợ và Thẻ tín dụng",
+      "url": "https://www.youtube.com/watch?v=e86zZ-x1uTs",
+      "view_count": 234330,
+      "like_count": 8524,
+      "upload_date": "20230625",
+      "duration": 1180
+    },
+    {
+      "title": "Làm chủ cảm xúc - Làm chủ cuộc sống",
+      "url": "https://www.youtube.com/watch?v=3rQsbvd6uVA",
+      "view_count": 577349,
+      "like_count": 18385,
+      "upload_date": "20230618",
+      "duration": 1290
+    },
+    {
+      "title": "Hành trình tự học tiếng anh",
+      "url": "https://www.youtube.com/watch?v=zN-ZuCIxKdA",
+      "view_count": 438681,
+      "like_count": 18669,
+      "upload_date": "20230611",
+      "duration": 1410
+    },
+    {
+      "title": "Những phương pháp tự học hiệu quả (Phần 2)",
+      "url": "https://www.youtube.com/watch?v=Xl6HS9T48CQ",
+      "view_count": 236511,
+      "like_count": 10765,
+      "upload_date": "20230604",
+      "duration": 1140
+    },
+    {
+      "title": "Tuổi trẻ đâu chỉ có tình yêu",
+      "url": "https://www.youtube.com/watch?v=wcujnXtlc6s",
+      "view_count": 426238,
+      "like_count": 17830,
+      "upload_date": "20230528",
+      "duration": 1080
+    },
+    {
+      "title": "Kỹ năng tự học hiệu quả",
+      "url": "https://www.youtube.com/watch?v=-ilse9rTDto",
+      "view_count": 627426,
+      "like_count": 30612,
+      "upload_date": "20230521",
+      "duration": 1200
+    },
+    {
+      "title": "Cái giá của sự trì hoãn",
+      "url": "https://www.youtube.com/watch?v=QRyynIQ7gqM",
+      "view_count": 267256,
+      "like_count": 12402,
+      "upload_date": "20230514",
+      "duration": 690
+    },
+    {
+      "title": "Kiểu gì cũng vui",
+      "url": "https://www.youtube.com/watch?v=flMfbTHz8Bo",
+      "view_count": 252507,
+      "like_count": 12906,
+      "upload_date": "20230507",
+      "duration": 900
+    },
+    {
+      "title": "Có ít hơn - Để được nhiều hơn",
+      "url": "https://www.youtube.com/watch?v=8XD5hVHiS4k",
+      "view_count": 405821,
+      "like_count": 15450,
+      "upload_date": "20230430",
+      "duration": 910
+    },
+    {
+      "title": "Xây dựng những nguyên tắc chi tiêu",
+      "url": "https://www.youtube.com/watch?v=5xWICPGW0I4",
+      "view_count": 340242,
+      "like_count": 12674,
+      "upload_date": "20230423",
+      "duration": 1030
+    },
+    {
+      "title": "Có nên đầu tư trong giai đoạn hiện tại không?",
+      "url": "https://www.youtube.com/watch?v=qdaKc73YfKI",
+      "view_count": 239659,
+      "like_count": 8214,
+      "upload_date": "20230416",
+      "duration": 1455
+    },
+    {
+      "title": "Có nên đi định cư nước ngoài hay không?",
+      "url": "https://www.youtube.com/watch?v=OoLsBs1SrD0",
+      "view_count": 265443,
+      "like_count": 9533,
+      "upload_date": "20230409",
+      "duration": 1090
+    },
+    {
+      "title": "Ra đi để trở về",
+      "url": "https://www.youtube.com/watch?v=PHlobKC1HDE",
+      "view_count": 147186,
+      "like_count": 7207,
+      "upload_date": "20230402",
+      "duration": 660
+    },
+    {
+      "title": "Xây dựng sự tự tin",
+      "url": "https://www.youtube.com/watch?v=x8eDfjnPnMc",
+      "view_count": 293373,
+      "like_count": 12859,
+      "upload_date": "20230326",
+      "duration": 840
+    },
+    {
+      "title": "Còn yêu được cứ yêu đi",
+      "url": "https://www.youtube.com/watch?v=0HzgDdEjgds",
+      "view_count": 351586,
+      "like_count": 16087,
+      "upload_date": "20230319",
+      "duration": 900
+    },
+    {
+      "title": "Tính cách các thế hệ người Việt",
+      "url": "https://www.youtube.com/watch?v=YvmooA38HwI",
+      "view_count": 222260,
+      "like_count": 9454,
+      "upload_date": "20230312",
+      "duration": 1342
+    },
+    {
+      "title": "Còn mục tiêu, Còn hạnh phúc",
+      "url": "https://www.youtube.com/watch?v=AbrpOg-Tj_s",
+      "view_count": 310651,
+      "like_count": 13084,
+      "upload_date": "20230305",
+      "duration": 930
+    },
+    {
+      "title": "Có nên đi tìm đam mê?",
+      "url": "https://www.youtube.com/watch?v=K_9YCFME5UE",
+      "view_count": 240495,
+      "like_count": 10731,
+      "upload_date": "20230226",
+      "duration": 1050
+    },
+    {
+      "title": "Sức mạnh của sự cho đi",
+      "url": "https://www.youtube.com/watch?v=tsdSgi011Ho",
+      "view_count": 209702,
+      "like_count": 10172,
+      "upload_date": "20230219",
+      "duration": 1050
+    },
+    {
+      "title": "3 tài sản quan trọng trong tình yêu",
+      "url": "https://www.youtube.com/watch?v=y3FWTfqbvrc",
+      "view_count": 386999,
+      "like_count": 15656,
+      "upload_date": "20230212",
+      "duration": 1070
+    },
+    {
+      "title": "4 cách đầu tư để xây dựng tự do tài chính",
+      "url": "https://www.youtube.com/watch?v=J2-no9gQhzg",
+      "view_count": 454040,
+      "like_count": 15664,
+      "upload_date": "20230205",
+      "duration": 1290
+    },
+    {
+      "title": "2 loại tài sản nên tích luỹ trong năm 2023",
+      "url": "https://www.youtube.com/watch?v=Ea8qJsQXHlI",
+      "view_count": 843071,
+      "like_count": 29719,
+      "upload_date": "20230129",
+      "duration": 1200
+    },
+    {
+      "title": "Đôi lời chúc tết - Quý mão 2023",
+      "url": "https://www.youtube.com/watch?v=wRMrpb1W4-o",
+      "view_count": 46999,
+      "like_count": 3443,
+      "upload_date": "20230122",
+      "duration": 110
+    },
+    {
+      "title": "Những sự thật hiển nhiên về tiền",
+      "url": "https://www.youtube.com/watch?v=6Snew5np1tE",
+      "view_count": 599092,
+      "like_count": 17411,
+      "upload_date": "20230115",
+      "duration": 1070
+    },
+    {
+      "title": "Làm công lãnh lương có đến được tự do tài chính?",
+      "url": "https://www.youtube.com/watch?v=cri-olhOOrM",
+      "view_count": 568842,
+      "like_count": 21581,
+      "upload_date": "20230108",
+      "duration": 1235
+    },
+    {
+      "title": "Một năm mới thật nhiều sai lầm",
+      "url": "https://www.youtube.com/watch?v=EGeKSsa8tyc",
+      "view_count": 242181,
+      "like_count": 12484,
+      "upload_date": "20230101",
+      "duration": 720
+    },
+    {
+      "title": "Lựa chọn nào cũng có đánh đổi",
+      "url": "https://www.youtube.com/watch?v=kqcgR77lgy0",
+      "view_count": 396894,
+      "like_count": 17437,
+      "upload_date": "20221225",
+      "duration": 870
+    },
+    {
+      "title": "Mọi việc xảy ra đều có lý do của nó",
+      "url": "https://www.youtube.com/watch?v=IR0smGbdwqg",
+      "view_count": 782810,
+      "like_count": 25701,
+      "upload_date": "20221218",
+      "duration": 990
+    },
+    {
+      "title": "Tìm hiểu & Áp dụng \"High Risk - High Return\"",
+      "url": "https://www.youtube.com/watch?v=MEPGRJrZo8A",
+      "view_count": 191605,
+      "like_count": 9339,
+      "upload_date": "20221211",
+      "duration": 1170
+    },
+    {
+      "title": "Lãi suất kép trong cuộc sống",
+      "url": "https://www.youtube.com/watch?v=SbAt-JgHvWo",
+      "view_count": 345330,
+      "like_count": 15741,
+      "upload_date": "20221204",
+      "duration": 1080
+    },
+    {
+      "title": "Thông báo lỡ hẹn podcast tuần này",
+      "url": "https://www.youtube.com/watch?v=A5AYYUTjInI",
+      "view_count": 51839,
+      "like_count": 2306,
+      "upload_date": "20221120",
+      "duration": 650
+    },
+    {
+      "title": "5 mức độ trưởng thành",
+      "url": "https://www.youtube.com/watch?v=-pHkOXmJS2A",
+      "view_count": 474936,
+      "like_count": 18603,
+      "upload_date": "20221113",
+      "duration": 860
+    },
+    {
+      "title": "Có nên \"Bắt Đáy\" vào thời điểm này?",
+      "url": "https://www.youtube.com/watch?v=syteYfWz3rQ",
+      "view_count": 260801,
+      "like_count": 12126,
+      "upload_date": "20221106",
+      "duration": 1020
+    },
+    {
+      "title": "Có đi với nhau bao lâu đâu",
+      "url": "https://www.youtube.com/watch?v=5DDHsMN5Hlg",
+      "view_count": 307481,
+      "like_count": 16872,
+      "upload_date": "20221030",
+      "duration": 690
+    },
+    {
+      "title": "\"Sướng trước khổ sau\" hay \"Khổ trước sướng sau\" - Present Focus hay Future Focus",
+      "url": "https://www.youtube.com/watch?v=2CC_VEJscCk",
+      "view_count": 516958,
+      "like_count": 17500,
+      "upload_date": "20221023",
+      "duration": 1230
+    },
+    {
+      "title": "Hướng nội và Hướng ngoại",
+      "url": "https://www.youtube.com/watch?v=X84TGdJwbj4",
+      "view_count": 334180,
+      "like_count": 13534,
+      "upload_date": "20221016",
+      "duration": 1335
+    },
+    {
+      "title": "Hành trình hiểu về bản thân",
+      "url": "https://www.youtube.com/watch?v=_QRCzS4gctg",
+      "view_count": 539820,
+      "like_count": 19767,
+      "upload_date": "20221009",
+      "duration": 1110
+    },
+    {
+      "title": "3 câu chuyện kinh doanh",
+      "url": "https://www.youtube.com/watch?v=zZkWVh1nbFs",
+      "view_count": 185804,
+      "like_count": 9597,
+      "upload_date": "20221002",
+      "duration": 900
+    },
+    {
+      "title": "Bảo hiểm xã hội và Bức tranh tài chính khi về già",
+      "url": "https://www.youtube.com/watch?v=_7uCvMgQkIY",
+      "view_count": 299182,
+      "like_count": 11926,
+      "upload_date": "20220925",
+      "duration": 1395
+    },
+    {
+      "title": "Những bước ngoặt cuộc đời",
+      "url": "https://www.youtube.com/watch?v=r57vZK15rmw",
+      "view_count": 272951,
+      "like_count": 19301,
+      "upload_date": "20220918",
+      "duration": 840
+    },
+    {
+      "title": "Sự ổn định liệu có thực sự ổn định?",
+      "url": "https://www.youtube.com/watch?v=3Wf4LZ5GA7M",
+      "view_count": 215106,
+      "like_count": 10619,
+      "upload_date": "20220911",
+      "duration": 785
+    },
+    {
+      "title": "Hai mặt của giá trị",
+      "url": "https://www.youtube.com/watch?v=wqgQ8shepII",
+      "view_count": 228984,
+      "like_count": 10832,
+      "upload_date": "20220904",
+      "duration": 810
+    },
+    {
+      "title": "Đi qua những khoảng tối cuộc đời",
+      "url": "https://www.youtube.com/watch?v=nEJraapC8o8",
+      "view_count": 528832,
+      "like_count": 22023,
+      "upload_date": "20220828",
+      "duration": 1035
+    },
+    {
+      "title": "Không bỏ cuộc",
+      "url": "https://www.youtube.com/watch?v=6PqNygbPTpw",
+      "view_count": 492381,
+      "like_count": 26421,
+      "upload_date": "20220821",
+      "duration": 855
+    },
+    {
+      "title": "Tự do tài chính và 4 mức độ tiết kiệm",
+      "url": "https://www.youtube.com/watch?v=DJr2hclTuLM",
+      "view_count": 654543,
+      "like_count": 23052,
+      "upload_date": "20220814",
+      "duration": 930
+    },
+    {
+      "title": "Sự tử tế & Những lời khen chân thành",
+      "url": "https://www.youtube.com/watch?v=N7HXu1Dzy-g",
+      "view_count": 254822,
+      "like_count": 13161,
+      "upload_date": "20220807",
+      "duration": 825
+    },
+    {
+      "title": "Chiến thắng sự trì hoãn",
+      "url": "https://www.youtube.com/watch?v=Bdsf3asTyyQ",
+      "view_count": 714415,
+      "like_count": 31190,
+      "upload_date": "20220731",
+      "duration": 860
+    },
+    {
+      "title": "Sức mạnh của sự từ chối",
+      "url": "https://www.youtube.com/watch?v=zq8Z1ht5wjg",
+      "view_count": 533639,
+      "like_count": 19391,
+      "upload_date": "20220724",
+      "duration": 890
+    },
+    {
+      "title": "Những cách kiếm tiền hiệu quả hơn",
+      "url": "https://www.youtube.com/watch?v=GBuQ2CYaEgk",
+      "view_count": 942890,
+      "like_count": 27482,
+      "upload_date": "20220717",
+      "duration": 1297
+    },
+    {
+      "title": "Xây dựng những nền tảng đầu tư",
+      "url": "https://www.youtube.com/watch?v=26o_z2gcpyU",
+      "view_count": 344287,
+      "like_count": 9174,
+      "upload_date": "20220710",
+      "duration": 1040
+    },
+    {
+      "title": "Sức mạnh và sự lựa chọn",
+      "url": "https://www.youtube.com/watch?v=t5tggu9oAcE",
+      "view_count": 356622,
+      "like_count": 17837,
+      "upload_date": "20220703",
+      "duration": 955
+    },
+    {
+      "title": "Những giá trị thực sự của tự do tài chính",
+      "url": "https://www.youtube.com/watch?v=n_kSuZQ2wYc",
+      "view_count": 269714,
+      "like_count": 11483,
+      "upload_date": "20220626",
+      "duration": 1160
+    },
+    {
+      "title": "Lạm phát và Hoạt động đầu tư",
+      "url": "https://www.youtube.com/watch?v=DHdEAtes8H8",
+      "view_count": 359630,
+      "like_count": 11337,
+      "upload_date": "20220619",
+      "duration": 1575
+    },
+    {
+      "title": "Chữ Tín - Tài sản cần được đầu tư",
+      "url": "https://www.youtube.com/watch?v=hsgqDZ666_c",
+      "view_count": 214335,
+      "like_count": 9568,
+      "upload_date": "20220612",
+      "duration": 1246
+    },
+    {
+      "title": "Ai cũng muốn giàu - Nhưng không ai chịu \"Giàu Chậm\"",
+      "url": "https://www.youtube.com/watch?v=sPJXYzbYqxc",
+      "view_count": 648618,
+      "like_count": 25340,
+      "upload_date": "20220605",
+      "duration": 975
+    },
+    {
+      "title": "[Lần đầu chia sẻ] - Danh mục đầu tư của tôi",
+      "url": "https://www.youtube.com/watch?v=r8GkI5bmhpg",
+      "view_count": 340802,
+      "like_count": 16684,
+      "upload_date": "20220529",
+      "duration": 1200
+    },
+    {
+      "title": "Chuẩn bị gì khi kinh tế đi xuống và lạm phát tăng cao?",
+      "url": "https://www.youtube.com/watch?v=p-Qn4i7AYko",
+      "view_count": 771918,
+      "like_count": 27404,
+      "upload_date": "20220522",
+      "duration": 1145
+    },
+    {
+      "title": "Làm chủ góc nhìn, làm chủ hạnh phúc",
+      "url": "https://www.youtube.com/watch?v=01ucU14Ia30",
+      "view_count": 255090,
+      "like_count": 12330,
+      "upload_date": "20220515",
+      "duration": 805
+    },
+    {
+      "title": "Kiên trì trong gian nan",
+      "url": "https://www.youtube.com/watch?v=jstQ68VMJ60",
+      "view_count": 471071,
+      "like_count": 22529,
+      "upload_date": "20220508",
+      "duration": 680
+    },
+    {
+      "title": "Đi tìm những lợi thế bất công",
+      "url": "https://www.youtube.com/watch?v=oHa9iwRBem8",
+      "view_count": 381090,
+      "like_count": 17040,
+      "upload_date": "20220501",
+      "duration": 1175
+    },
+    {
+      "title": "Ngôi nhà là tài sản hay tiêu sản?",
+      "url": "https://www.youtube.com/watch?v=5V-GpCi5T9E",
+      "view_count": 127039,
+      "like_count": 6289,
+      "upload_date": "20220424",
+      "duration": 995
+    },
+    {
+      "title": "Hiểu đúng về Tài sản và Tiêu sản",
+      "url": "https://www.youtube.com/watch?v=KscYFFH6cso",
+      "view_count": 291466,
+      "like_count": 12764,
+      "upload_date": "20220417",
+      "duration": 1080
+    },
+    {
+      "title": "Công dân toàn cầu và những chiếc tổ",
+      "url": "https://www.youtube.com/watch?v=ym7ZKIlpTdc",
+      "view_count": 91548,
+      "like_count": 4739,
+      "upload_date": "20220403",
+      "duration": 517
+    },
+    {
+      "title": "10 nguồn thu nhập thụ động phổ biến",
+      "url": "https://www.youtube.com/watch?v=f5_57xuZEEc",
+      "view_count": 1386612,
+      "like_count": 43278,
+      "upload_date": "20220308",
+      "duration": 1104
+    },
+    {
+      "title": "Làm sao để tăng thu nhập?",
+      "url": "https://www.youtube.com/watch?v=1_s4yyvMaeU",
+      "view_count": 440065,
+      "like_count": 18559,
+      "upload_date": "20220227",
+      "duration": 997
+    },
+    {
+      "title": "Một cuộc đời khác biệt",
+      "url": "https://www.youtube.com/watch?v=Q5P-gTGj-f0",
+      "view_count": 280777,
+      "like_count": 14283,
+      "upload_date": "20220220",
+      "duration": 840
+    },
+    {
+      "title": "Làm sao để trò giỏi hơn thầy?",
+      "url": "https://www.youtube.com/watch?v=KiK5-2-lR54",
+      "view_count": 102833,
+      "like_count": 6632,
+      "upload_date": "20220213",
+      "duration": 397
+    },
+    {
+      "title": "Chúng ta chỉ cần thành công một lần",
+      "url": "https://www.youtube.com/watch?v=WXooIM6hiWQ",
+      "view_count": 480553,
+      "like_count": 22649,
+      "upload_date": "20220206",
+      "duration": 707
+    },
+    {
+      "title": "Xây dựng một cuộc sống tự do",
+      "url": "https://www.youtube.com/watch?v=KM4iV3FgSFk",
+      "view_count": 189168,
+      "like_count": 9144,
+      "upload_date": "20220130",
+      "duration": 972
+    },
+    {
+      "title": "Để đầu tư thành công trên thị trường chứng khoán",
+      "url": "https://www.youtube.com/watch?v=GBMbCrmg0Gc",
+      "view_count": 298669,
+      "like_count": 14793,
+      "upload_date": "20220123",
+      "duration": 830
+    },
+    {
+      "title": "Lãi suất kép là gì? Và tại sao nó quan trọng?",
+      "url": "https://www.youtube.com/watch?v=_CbicTTCkjg",
+      "view_count": 594025,
+      "like_count": 19895,
+      "upload_date": "20220116",
+      "duration": 1362
+    },
+    {
+      "title": "Kinh nghiệm không phải số năm làm việc",
+      "url": "https://www.youtube.com/watch?v=YDoindDo_N4",
+      "view_count": 175284,
+      "like_count": 10051,
+      "upload_date": "20220109",
+      "duration": 935
+    },
+    {
+      "title": "Năm mới, logo mới và những kế hoạch mới",
+      "url": "https://www.youtube.com/watch?v=XNtdKU3iNf8",
+      "view_count": 79631,
+      "like_count": 6933,
+      "upload_date": "20220102",
+      "duration": 797
+    },
+    {
+      "title": "Những loại tài sản vừa sử dụng vừa sinh ra tiền",
+      "url": "https://www.youtube.com/watch?v=X1Kqy3e4vv0",
+      "view_count": 460265,
+      "like_count": 20049,
+      "upload_date": "20211226",
+      "duration": 890
+    },
+    {
+      "title": "Cột mốc 200K và 5 bài học kinh nghiệm",
+      "url": "https://www.youtube.com/watch?v=7sxfu0_sWII",
+      "view_count": 157710,
+      "like_count": 10267,
+      "upload_date": "20211219",
+      "duration": 1025
+    },
+    {
+      "title": "Những mảnh đất mắc nhất thế giới",
+      "url": "https://www.youtube.com/watch?v=oTdqJBKdlqM",
+      "view_count": 243117,
+      "like_count": 13228,
+      "upload_date": "20211212",
+      "duration": 1070
+    },
+    {
+      "title": "NÔNG DÂN và THỢ SĂN dưới góc nhìn tài chính",
+      "url": "https://www.youtube.com/watch?v=s24tqhW8We4",
+      "view_count": 382412,
+      "like_count": 17966,
+      "upload_date": "20211205",
+      "duration": 925
+    },
+    {
+      "title": "Khi bị chó cắn, đừng cắn lại",
+      "url": "https://www.youtube.com/watch?v=7HRNtmEJJrk",
+      "view_count": 412047,
+      "like_count": 21229,
+      "upload_date": "20211128",
+      "duration": 765
+    },
+    {
+      "title": "Chúng ta kiếm tiền để làm gì?",
+      "url": "https://www.youtube.com/watch?v=7ZN1hgjyYnc",
+      "view_count": 872341,
+      "like_count": 25057,
+      "upload_date": "20211121",
+      "duration": 1300
+    },
+    {
+      "title": "Tự do là gì?",
+      "url": "https://www.youtube.com/watch?v=z-aO1qx6um4",
+      "view_count": 296867,
+      "like_count": 10948,
+      "upload_date": "20211114",
+      "duration": 725
+    },
+    {
+      "title": "Vì sao tôi dùng 5 chiếc điện thoại?",
+      "url": "https://www.youtube.com/watch?v=cjGXc4xIqYI",
+      "view_count": 191640,
+      "like_count": 9641,
+      "upload_date": "20211107",
+      "duration": 995
+    },
+    {
+      "title": "Những góc nhìn sai lệch về tự do tài chính",
+      "url": "https://www.youtube.com/watch?v=012JjvAAE9s",
+      "view_count": 463294,
+      "like_count": 19806,
+      "upload_date": "20211031",
+      "duration": 985
+    },
+    {
+      "title": "Sức mạnh của sự bỏ đi",
+      "url": "https://www.youtube.com/watch?v=Bp1YYmvxfRo",
+      "view_count": 876902,
+      "like_count": 28534,
+      "upload_date": "20211024",
+      "duration": 1160
+    },
+    {
+      "title": "10 cân nhắc khi mua nhà/thuê nhà",
+      "url": "https://www.youtube.com/watch?v=VuhqRw_YwBM",
+      "view_count": 366321,
+      "like_count": 8391,
+      "upload_date": "20211017",
+      "duration": 1255
+    },
+    {
+      "title": "Đại học có phải con đường duy nhất?",
+      "url": "https://www.youtube.com/watch?v=UolFeVhU-pQ",
+      "view_count": 171870,
+      "like_count": 9953,
+      "upload_date": "20211010",
+      "duration": 1100
+    },
+    {
+      "title": "Nên mua nhà hay thuê nhà?",
+      "url": "https://www.youtube.com/watch?v=uX7WajnTNMM",
+      "view_count": 422563,
+      "like_count": 15046,
+      "upload_date": "20211003",
+      "duration": 1570
+    },
+    {
+      "title": "Những áp lực tiêu cực và sự cặm cụi",
+      "url": "https://www.youtube.com/watch?v=hZTehTRzY50",
+      "view_count": 1587736,
+      "like_count": 58487,
+      "upload_date": "20210926",
+      "duration": 1405
+    },
+    {
+      "title": "Những trường hợp không nên đầu tư",
+      "url": "https://www.youtube.com/watch?v=fa-59gjKVKI",
+      "view_count": 537237,
+      "like_count": 14058,
+      "upload_date": "20210919",
+      "duration": 1640
+    },
+    {
+      "title": "Chúng ta đã sẵn sàng để chết?",
+      "url": "https://www.youtube.com/watch?v=r4EBt4tvWyU",
+      "view_count": 646696,
+      "like_count": 16773,
+      "upload_date": "20210912",
+      "duration": 1125
+    },
+    {
+      "title": "AMA 2 - Cuộc sống sau khi \"nghỉ hưu\"; Người đồng hành; Sẽ quay về Việt Nam?",
+      "url": "https://www.youtube.com/watch?v=xwYPuHMjAfU",
+      "view_count": 132052,
+      "like_count": 6991,
+      "upload_date": "20210905",
+      "duration": 1170
+    },
+    {
+      "title": "9 sai lầm tài chính cá nhân khi 30-40 tuổi",
+      "url": "https://www.youtube.com/watch?v=HjuGeuQwNIs",
+      "view_count": 1136298,
+      "like_count": 23027,
+      "upload_date": "20210829",
+      "duration": 1570
+    },
+    {
+      "title": "Cập nhật về khóa học",
+      "url": "https://www.youtube.com/watch?v=zL1FRRyPsZs",
+      "view_count": 50333,
+      "like_count": 1585,
+      "upload_date": "20210822",
+      "duration": 625
+    },
+    {
+      "title": "HIEU.TV - Hành trình nửa năm",
+      "url": "https://www.youtube.com/watch?v=PBT4IUj5OyI",
+      "view_count": 126998,
+      "like_count": 6879,
+      "upload_date": "20210819",
+      "duration": 1400
+    },
+    {
+      "title": "Hành trình đầu tư vào công ty 39 tỉ đô - Phần 2",
+      "url": "https://www.youtube.com/watch?v=XnBkFAlXWx0",
+      "view_count": 163351,
+      "like_count": 10706,
+      "upload_date": "20210815",
+      "duration": 1630
+    },
+    {
+      "title": "Hành trình đầu tư vào công ty 39 tỉ đô của tôi",
+      "url": "https://www.youtube.com/watch?v=qQ-0nxZm0XY",
+      "view_count": 264077,
+      "like_count": 12672,
+      "upload_date": "20210808",
+      "duration": 1480
+    },
+    {
+      "title": "9 sai lầm về tài chính cá nhân khi 20-30 tuổi",
+      "url": "https://www.youtube.com/watch?v=2EyGqvZrbyc",
+      "view_count": 1620972,
+      "like_count": 59292,
+      "upload_date": "20210801",
+      "duration": 1490
+    },
+    {
+      "title": "Mặc kệ thiên hạ nghĩ gì",
+      "url": "https://www.youtube.com/watch?v=nv7IYLVgimA",
+      "view_count": 2117552,
+      "like_count": 40982,
+      "upload_date": "20210725",
+      "duration": 1320
+    },
+    {
+      "title": "Ikigai - Cách tôi đã tìm ra ý nghĩa cuộc sống của mình",
+      "url": "https://www.youtube.com/watch?v=KYQNUZrvnew",
+      "view_count": 1053096,
+      "like_count": 33780,
+      "upload_date": "20210718",
+      "duration": 1560
+    },
+    {
+      "title": "Đi tìm ý nghĩa cuộc sống",
+      "url": "https://www.youtube.com/watch?v=qsGkF7foF4I",
+      "view_count": 784781,
+      "like_count": 22753,
+      "upload_date": "20210711",
+      "duration": 1585
+    },
+    {
+      "title": "Đừng chúc nhau trăm năm hạnh phúc",
+      "url": "https://www.youtube.com/watch?v=PSsM0K7O5_0",
+      "view_count": 1331585,
+      "like_count": 25537,
+      "upload_date": "20210704",
+      "duration": 1620
+    },
+    {
+      "title": "Làm chủ sự kỳ vọng - Cách bỏ đi sự kỳ vọng nhưng vẫn giữ động lực",
+      "url": "https://www.youtube.com/watch?v=mrWQPhovfss",
+      "view_count": 856822,
+      "like_count": 30308,
+      "upload_date": "20210627",
+      "duration": 1620
+    },
+    {
+      "title": "Sự kỳ vọng - thuốc độc của hạnh phúc",
+      "url": "https://www.youtube.com/watch?v=U8SPR_AKHnA",
+      "view_count": 372225,
+      "like_count": 17306,
+      "upload_date": "20210620",
+      "duration": 1085
+    },
+    {
+      "title": "Global Citizen - Công dân toàn cầu",
+      "url": "https://www.youtube.com/watch?v=GbPIjeooSVs",
+      "view_count": 152173,
+      "like_count": 9518,
+      "upload_date": "20210613",
+      "duration": 1360
+    },
+    {
+      "title": "Sống để trải nghiệm",
+      "url": "https://www.youtube.com/watch?v=zIPFcEc3KBQ",
+      "view_count": 617341,
+      "like_count": 15054,
+      "upload_date": "20210606",
+      "duration": 1465
+    },
+    {
+      "title": "Một cuộc đời đáng sống",
+      "url": "https://www.youtube.com/watch?v=gGLxPY3qDYY",
+      "view_count": 1701207,
+      "like_count": 39727,
+      "upload_date": "20210530",
+      "duration": 1600
+    },
+    {
+      "title": "Những lối mòn cuộc sống",
+      "url": "https://www.youtube.com/watch?v=sdQATqj57fM",
+      "view_count": 760594,
+      "like_count": 20668,
+      "upload_date": "20210523",
+      "duration": 1460
+    },
+    {
+      "title": "Tiền có mua được hạnh phúc không?",
+      "url": "https://www.youtube.com/watch?v=Fh7_8LDybec",
+      "view_count": 491865,
+      "like_count": 11260,
+      "upload_date": "20210516",
+      "duration": 1520
+    },
+    {
+      "title": "Những hiểu lầm về cuộc sống tối giản",
+      "url": "https://www.youtube.com/watch?v=V1MwPPpU1cs",
+      "view_count": 224391,
+      "like_count": 5873,
+      "upload_date": "20210509",
+      "duration": 1320
+    },
+    {
+      "title": "Tinh thần Minimalism: Biết đủ để hạnh phúc",
+      "url": "https://www.youtube.com/watch?v=9wdOmXGNYqc",
+      "view_count": 390563,
+      "like_count": 9898,
+      "upload_date": "20210502",
+      "duration": 1220
+    },
+    {
+      "title": "Minimalism - Cuộc sống tối giản",
+      "url": "https://www.youtube.com/watch?v=2h-5PEIvtKM",
+      "view_count": 534440,
+      "like_count": 13236,
+      "upload_date": "20210425",
+      "duration": 1564
+    },
+    {
+      "title": "Hành trình tự do tài chính - Phần 6",
+      "url": "https://www.youtube.com/watch?v=a-gk85cFt4w",
+      "view_count": 321005,
+      "like_count": 9275,
+      "upload_date": "20210418",
+      "duration": 1260
+    },
+    {
+      "title": "Kayak Camping 2021 • NSW, Australia",
+      "url": "https://www.youtube.com/watch?v=X5lwG2wcZl4",
+      "view_count": 36925,
+      "like_count": 2427,
+      "upload_date": "20210416",
+      "duration": 365
+    },
+    {
+      "title": "Hành trình tự do tài chính - Phần 5",
+      "url": "https://www.youtube.com/watch?v=JgTij31JCqM",
+      "view_count": 494997,
+      "like_count": 11020,
+      "upload_date": "20210411",
+      "duration": 1740
+    },
+    {
+      "title": "AMA - Sách, Consultant, Tự do, Thất bại, Thiền,...",
+      "url": "https://www.youtube.com/watch?v=2ZDjk_6orHk",
+      "view_count": 247488,
+      "like_count": 8170,
+      "upload_date": "20210404",
+      "duration": 1985
+    },
+    {
+      "title": "Hành trình tự do tài chính - Phần 4",
+      "url": "https://www.youtube.com/watch?v=lKhIompb0M0",
+      "view_count": 888647,
+      "like_count": 26763,
+      "upload_date": "20210327",
+      "duration": 2135
+    },
+    {
+      "title": "AMA - Ask Me Anything",
+      "url": "https://www.youtube.com/watch?v=jU_DVTNEIFE",
+      "view_count": 36843,
+      "like_count": 910,
+      "upload_date": "20210323",
+      "duration": 210
+    },
+    {
+      "title": "Hành trình tự do tài chính - Phần 3",
+      "url": "https://www.youtube.com/watch?v=rqtDSOCUEj0",
+      "view_count": 569319,
+      "like_count": 14252,
+      "upload_date": "20210318",
+      "duration": 1140
+    },
+    {
+      "title": "Hành trình tự do tài chính - Phần 2",
+      "url": "https://www.youtube.com/watch?v=GlUvl-MWn6E",
+      "view_count": 701197,
+      "like_count": 23558,
+      "upload_date": "20210314",
+      "duration": 1155
+    },
+    {
+      "title": "Hành trình tự do tài chính - Phần 1",
+      "url": "https://www.youtube.com/watch?v=HOPMqOCZ0jI",
+      "view_count": 1350645,
+      "like_count": 35043,
+      "upload_date": "20210307",
+      "duration": 1470
+    },
+    {
+      "title": "Hai bài học về đầu tư",
+      "url": "https://www.youtube.com/watch?v=mS5_QchLI0M",
+      "view_count": 928302,
+      "like_count": 21409,
+      "upload_date": "20210228",
+      "duration": 2010
+    },
+    {
+      "title": "Đọc sách sao cho hiệu quả",
+      "url": "https://www.youtube.com/watch?v=UzGyN0T4YQg",
+      "view_count": 346818,
+      "like_count": 13858,
+      "upload_date": "20210223",
+      "duration": 1510
+    },
+    {
+      "title": "Cuộc sống không mục tiêu",
+      "url": "https://www.youtube.com/watch?v=WHY29TBLIKU",
+      "view_count": 512961,
+      "like_count": 13701,
+      "upload_date": "20210220",
+      "duration": 490
+    },
+    {
+      "title": "Podcast - Số đầu tiên",
+      "url": "https://www.youtube.com/watch?v=pRMEX7LSYuM",
+      "view_count": 81616,
+      "like_count": 2885,
+      "upload_date": "20210219",
+      "duration": 166
+    },
+    {
+      "title": "UX design career path",
+      "url": "https://www.youtube.com/watch?v=qs-RdywOCRE",
+      "view_count": 99818,
+      "like_count": 3531,
+      "upload_date": "20200628",
+      "duration": 1646
+    },
+    {
+      "title": "The product tower",
+      "url": "https://www.youtube.com/watch?v=WsnqkofL_5I",
+      "view_count": 57230,
+      "like_count": 1345,
+      "upload_date": "20200420",
+      "duration": 1474
+    }
+  ]
+}

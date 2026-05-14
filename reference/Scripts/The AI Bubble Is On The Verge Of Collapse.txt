@@ -1,0 +1,404 @@
+I want you to imagine for a moment that
+you started investing in 1998. The
+world's going mad for the internet. New
+companies are popping up out of nowhere,
+and every investor is convinced they
+found the next big thing. So, you take
+all your money and invest it in a few
+tech stocks just because they have
+catchy dot com names. And for a couple
+of years, your money keeps going up and
+up, and everyone thinks you're a genius.
+Until the year 2000. Nothing short of
+breathtaking a points drop never before
+seen on the US markets. Traders and
+investors shell-shocked and spare a
+thought for Bill Gates. The Wall Street
+collapse cost the world's richest man
+1.8 billion dollars this week alone.
+When the bubble burst, the Nasdaq fell
+nearly 80% and only 48% of dot com
+companies managed to survive. I watched
+many of my friends lose millions within
+a blink of an eye, and even though it
+was a crash I'd half been expecting, my
+own investment still took a hit. The
+crazy part is the internet was the next
+big thing, but even then, the
+overconfidence and hype created one of
+the biggest bubbles in history. So, why
+am I telling you all this? Well, fast
+forward to today, and I can't help but
+feel that same energy again. But this
+time, it's not driven by the internet.
+It's AI. People are calling it a
+once-in-a-lifetime opportunity, and
+maybe they're right, or maybe it's the
+same story playing out all over again.
+History doesn't repeat, but it rhymes,
+and every generation thinks they found a
+new era. But as John Templeton said, the
+four most expensive words in investing
+are, "This time is different." But is
+this time actually different? Well, as
+over 7 million of you have started
+investing because of my videos, I feel
+responsibility to give you my honest
+take on this situation. So, before you
+panic, let's take a step back and look
+at the three hidden forces behind this
+potential bubble, why they matter, and
+what you can do to benefit from all this
+mayhem.
+Right now, the fate of the entire stock
+market and your portfolio is being
+decided by just seven companies. They're
+called the Magnificent Seven. These are
+Amazon, Microsoft, Alphabet, Meta,
+Apple, Tesla, and Nvidia. Together, they
+now make up around 36% of the entire S&P
+500, and they're all locked in an arms
+race to dominate artificial
+intelligence. So, even if you only own
+one share of the S&P 500, you're already
+betting on these companies. And whether
+you realize it or not, your future
+returns depend on how this race plays
+out, because every dollar these
+companies invest sends ripples through
+the whole market, from chip makers to
+energy companies to your index funds.
+And when you see how much they're
+predicted to pour into AI this year,
+you'll understand why. Let's go one by
+one. Tesla plan on spending 5 billion
+dollars on autonomous driving and xAI,
+which is Elon Musk's new AI startup.
+Apple, 10.7 billion dollars to make Siri
+smarter. To be honest, it's probably
+going to take more than that. Meta, 60
+billion dollars on data centers and the
+metaverse. Google,
+75 billion dollars rebuilding the
+internet with AI. Microsoft, 80 billion
+dollars funding OpenAI and
+supercomputers. And Amazon, 100 billion
+dollars on AWS to own the infrastructure
+everyone else relies on. That's a total
+of 330
+billion dollars in 1 year. To put that
+into perspective, that's more than the
+entire GDP of countries like Finland or
+Portugal. All that money is going into
+building the future. Some people are
+even calling it the fourth industrial
+revolution. I get it, this all sounds
+pretty exciting. However, all of this
+spending seems to be what's keeping the
+economy alive at the moment, and without
+it, the US might already be in a mild
+recession. So, the question is, how long
+can it last? Well, it doesn't seem to be
+ending anytime soon. Global AI spending
+is expected to reach 500 billion dollars
+by the end of 2026, with spending on
+power and resources for electricity
+demand topping 3 trillion dollars
+annually by 2030. That's how bad these
+companies want to win the AI arms race.
+I mean, I can see why. The International
+Monetary Fund estimates that about 60%
+of jobs in the developed world are
+exposed to AI. This means they could be
+transformed or replaced by automation in
+the coming years. So, whoever manages to
+crack this technology first will be
+rewarded with a crazy amount of power.
+Mark Zuckerberg even said if Meta end up
+misspending 200 billion dollars, it's
+worth it, because if they move too
+slowly, they're out of the competition.
+But this race isn't just between
+companies anymore, it's between nations.
+The US and China see AI as the key to
+global dominance, and they're both
+burning through billions to make sure
+they're the ones holding the reins. For
+everyday investors, this could go two
+different ways. If AI delivers on its
+promise, the next decade of investing
+could be just like the internet boom of
+the 2000s. But if the profits don't
+arrive fast enough, the same stocks
+pumping up your investment portfolio
+today could drag it down tomorrow. But
+where is all this money coming from?
+Well, that brings us on to
+[Music]
+When I first saw what I'm about to show
+you, my mind was blown. But before we
+dive in, if you're finding this video
+useful and you've been subscribed to me
+for a while, then I just wanted to let
+you know I'm working on something really
+exciting that a few of you will be able
+to try out for free. It's a platform
+that help you grow your wealth. There'll
+be lots of in-depth videos on there
+about investing and side hustles, as
+well as the opportunity to ask me
+questions directly. So, if you'd like to
+get exclusive early access and the
+opportunity to try out for free, then
+I'll leave a link in the description
+below where you can sign up to the wait
+list. With that said, back to this. It's
+being referred to as the AI money
+machine. It's the main reason I'm
+starting to get worried about the state
+of the AI industry. So, let's rub some
+of these arrows out and walk you through
+how it all operates. Intel, AMD, and
+Nvidia are the companies that design the
+chips that power the AI models. OpenAI
+and xAI and other smaller players are
+the companies that buy these chips. Then
+you have Oracle and CoreWeave. These are
+the data centers who also buy these
+chips, then lease out the computing
+power to the AI companies. Think of them
+like the middle men. At first glance,
+nothing seems out of the ordinary. But
+once you look at how these companies
+actually work together, the red flags
+start jumping out. It started when
+investors at Microsoft gave OpenAI 58
+billion dollars in funding. OpenAI then
+paid that back to Microsoft to use their
+data centers. Microsoft then used that
+money to buy Nvidia chips. Nvidia then
+invested that back into OpenAI. Doing
+this allows each company to record that
+flow as revenue, which of course pushes
+their stock prices up. It's kind of like
+if I went out into the woods with a
+friend and paid him a thousand dollars
+to dig a hole. Then he paid me a
+thousand dollars to fill it back in.
+We'd then both have a thousand dollars
+in revenue. Now, if we were valued like
+OpenAI, which is currently trading at
+more than 40 times its revenue, that
+would mean our hole-digging and filling
+business would be worth over 40,000
+dollars each. Obviously, I'm heavily
+simplifying things here. These companies
+aren't just passing around the same
+money. However, the idea remains the
+same, and this has only been getting
+crazier recently with OpenAI announcing
+a deal with 300 billion dollars with
+Oracle. After this, Oracle said they
+would spend tens of billions on Nvidia
+chips. Then Nvidia agreed to invest up
+to 100 billion dollars back into OpenAI.
+But to unlock that investment, OpenAI
+has to buy
+more of their chips. Nvidia are
+definitely the real winners here. Their
+share price is up 1,600%
+since ChatGPT launched, and they sell
+their chips to everyone. I'm talking
+Microsoft, Meta, Google, Amazon, OpenAI,
+and even Oracle. Then they invest back
+into the same companies that buy its
+products. This is like paying your
+customers to buy your product, and could
+be artificially boosting the demand for
+their chips. Do you see how messy this
+is all getting? Let me try and simplify
+it. Nvidia sells the shovels, Oracle
+provides the land, OpenAI digs the
+quarry, and they're all helping each
+other to lure people into the mines, but
+nobody struck gold yet. I mean, OpenAI
+is currently valued at 500 billion
+dollars, but it's only making roughly 12
+billion in revenue. It's losing money
+every month. Now, that's the main
+problem I see with all of this. AI
+services are just not making enough
+money. So, will these AI companies ever
+make the kind of profit needed to
+justify their stock prices? Well, it is
+possible, as they do still have some
+huge levers they can pull. I mean, each
+week over 700 million people are using
+ChatGPT. That's a huge amount of
+attention, and even more importantly, an
+enormous amount of data about all of us.
+Imagine when Sam Altman turns on ads and
+allows companies to use ChatGPT to
+recommend their products directly inside
+our conversations. It could be like
+nothing we've ever seen before. In
+addition to this, OpenAI has
+surprisingly announced that it will
+start to allow erotica in its chats for
+verified adults, which of course is a
+huge industry. Not that I know anything
+about that. On top of that, these AI
+companies are building systems that are
+aiming to undercut the human workforce.
+They're betting that once corporations
+become dependent on AI, they'll have no
+choice but to keep paying, no matter the
+cost. And that's when the AI companies
+could hike prices sky-high and finally
+cash in. So, there's no doubt these AI
+companies valuable, but much of that
+value still depends on one thing, the
+belief that progress will keep
+accelerating, and that leads us on to
+[Music]
+AI has been improving at a breakneck
+speed for the past couple of years. I
+mean, we've gone from an AI video that
+looks like this
+to this. It's funny that Will Smith
+eating spaghetti has become one of the
+ways we now judge AI's improvement. The
+stock market is relying heavily on the
+rapid rate of improvement to continue.
+However, we're not far off hitting
+something called the data wall. For
+years, AI has been devouring every scrap
+of public data available. By 2027, it's
+expected to have consumed nearly all
+human-generated online content. It's
+like climbing a ladder in a game of
+snakes and ladders. Everyone assumes the
+ladders will keep going, but we're
+running out of data to climb. So, we
+might have to start moving square to
+square instead. I mean, just think how
+long the data sets that we're feeding AI
+have taken to build. Centuries. No
+wonder progress seems to have been so
+rapid as we've been feeding it books,
+research, and data going all the way
+back to the dinosaurs, and I'm not
+talking about me. If AI companies can't
+find a way to scale beyond the data
+wall, we could see progress slow down,
+expectations collapse, and the bubble
+many investors are banking on finally
+bursting. But, is beating the data wall
+actually possible?
+Potentially. Think about it. Humans
+don't have to worry about this data
+limit. That's because we don't just
+learn from being fed data. We learn from
+interacting with the world. I mean, if
+AI tried to make this video, it
+couldn't. It hasn't lived my life, had
+my conversations, or made my investing
+mistakes. My perspective comes from my
+experience, which is something AI can't
+simulate. So, in my opinion, scaling
+past the data wall is possible, but it
+isn't just a question of more data. It's
+a question of different data. But, look,
+I'm not a scientist, so let's get back
+to investing in the stock market. That
+brings me on to
+So, I started this video by comparing
+what's happening now to the dot-com
+bubble of the late 1990s. However, is it
+actually the same? No, not entirely. The
+main difference is that these AI
+companies have real utility and a clear
+path to profits. How big those profits
+will end up being remains to be seen.
+However, it's a much better situation
+than the dot-com bubble, where companies
+were getting their crazy valuations from
+fancy names alone. So, does that mean
+it's not a bubble? Well, honestly,
+I still think it is. The signs are all
+there. Overvaluation, faking revenue,
+geopolitical mania, and scaling limits.
+However, there's no way of telling what
+stage we're in. This could be the start
+of a decade of crazy investment or
+closer to the end than we realize. So,
+what's the best thing to do with your
+money? Well, I'm not a financial
+advisor. However, these are the things
+I'd be focusing on if I were you.
+Firstly, continuing to invest. If we're
+at the start of the bubble, then the
+prices we're seeing right now could seem
+like bargains in a couple of years'
+time. That's why it's so important to
+set up an automatic investment that
+leaves your account every month and goes
+into a broad, low-cost index fund. I did
+this during the dot-com bubble, and
+although my investments took a hit when
+the bubble burst, I don't regret a thing
+as over time the market bounced back as
+historically it always has. The real
+secret is not to panic when your
+portfolio goes down. As long as you're
+investing in an index fund that tracks
+the overall stock market, then
+continuing to invest through a crash
+could be the best thing you ever do.
+That's how I ended up making millions
+from the dot-com bubble bursting. But,
+in order to do this, you need to make
+sure you're not in debt or
+over-leveraging yourself. This is
+exactly why my friends lost millions
+while I was able to keep investing. The
+next thing I'd do is use the link in the
+description to sign up for free early
+access of my new wealth-building
+platform, so you can ask me questions
+directly. I'm only joking, but
+seriously, you should do it. Secondly,
+focus on increasing your income. Your
+income is a fuel you're using to grow
+your wealth. So, if you can increase it
+by getting a promotion or starting a
+side hustle, then that's going to
+supercharge your returns, especially if
+you can do this while the stock market's
+falling because you'll be picking up
+some bargains. Thirdly, focus on
+diversification. Putting all your money
+into one type of investment is a recipe
+for disaster. The key to surviving
+market bubbles is diversification.
+This means spreading your money across
+different types of assets. My portfolio
+includes stocks, bonds, precious metals
+like gold, real estate, and even
+cryptocurrency. It's also worth
+considering dividend-paying stocks as
+they actually perform well during
+downturns because they generate passive
+income even when prices are low. Just
+remember, this bubble bursting won't be
+the end of the world. If you understand
+situations like this, then you won't be
+the one panicking, and you'll be the one
+taking advantage of the opportunities
+while everyone else is running for the
+exit. If you want to learn how to
+benefit from a recession, then I'm going
+to leave that video right up there. But,
+don't click on it just yet. Make sure to
+subscribe if you want to grow your
+wealth, okay? I'll see you over there.

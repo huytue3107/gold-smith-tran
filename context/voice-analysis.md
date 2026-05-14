@@ -62,12 +62,12 @@ Kết bằng nguyên tắc hành động
 
 ## Đặc Điểm Câu Văn
 
-| Đặc điểm | Ví dụ |
-| --- | --- |
-| Câu ngắn, tách dòng | "Biết đứng yên khi thị trường nhiễu loạn cũng là một hành động." |
-| Có đối lập đám đông/người kỷ luật | "Đám đông mua sự phấn khích, người kỷ luật mua xác suất an toàn." |
-| Chốt bằng nguyên tắc | "Tài khoản cháy thì không còn quyền lựa chọn." |
-| Ưu tiên bản chất | "Tin tức không giết bạn. Cách bạn phản ứng với tin tức mới giết bạn." |
+| Đặc điểm                          | Ví dụ                                                                 |
+| --------------------------------- | --------------------------------------------------------------------- |
+| Câu ngắn, tách dòng               | "Biết đứng yên khi thị trường nhiễu loạn cũng là một hành động."      |
+| Có đối lập đám đông/người kỷ luật | "Đám đông mua sự phấn khích, người kỷ luật mua xác suất an toàn."     |
+| Chốt bằng nguyên tắc              | "Tài khoản cháy thì không còn quyền lựa chọn."                        |
+| Ưu tiên bản chất                  | "Tin tức không giết bạn. Cách bạn phản ứng với tin tức mới giết bạn." |
 
 ## Tone Patterns
 
@@ -78,23 +78,23 @@ Kết bằng nguyên tắc hành động
 
 ## CTA Patterns
 
-| Loại CTA | Ví dụ |
-| --- | --- |
+| Loại CTA                  | Ví dụ                                                                                    |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
 | Bình luận theo trạng thái | "Anh em đang phản ứng sao: rút về tiền mặt, mua tài sản phòng thủ, hay vẫn full margin?" |
-| Lưu bài | "Lưu lại điều này trước khi bạn định bắt đáy trong một thị trường đang khát tiền mặt." |
-| Gợi mở cộng đồng | "Bình luận 'RỦI RO' nếu bạn muốn checklist tự kiểm tra danh mục." |
-| Mời thảo luận | "Bạn đang đứng ngoài quan sát hay đang mắc kẹt trong một vị thế khó thoát?" |
+| Lưu bài                   | "Lưu lại điều này trước khi bạn định bắt đáy trong một thị trường đang khát tiền mặt."   |
+| Gợi mở cộng đồng          | "Bình luận 'RỦI RO' nếu bạn muốn checklist tự kiểm tra danh mục."                        |
+| Mời thảo luận             | "Bạn đang đứng ngoài quan sát hay đang mắc kẹt trong một vị thế khó thoát?"              |
 
 ## Chủ Đề Nội Dung
 
-| Chủ đề | Mức ưu tiên | Ví dụ góc viết |
-| --- | --- | --- |
-| F0 và quản trị vốn | Rất cao | Vì sao người mới cháy tài khoản dù đoán đúng xu hướng |
-| Tỷ giá, USD, vàng, dòng tiền | Rất cao | Tin vĩ mô ảnh hưởng thế nào tới vị thế cá nhân |
-| Tài chính cá nhân | Cao | Quỹ dự phòng trước khi đầu tư mạo hiểm |
-| Gia đình và bảo hiểm | Trung bình | Mái nhà tài chính trụ được bao lâu trước biến cố |
-| Startup/fintech | Trung bình | Founder đọc burn rate như nhà đầu tư đọc margin |
-| Triết học đầu tư | Trung bình | Khắc kỷ không phải gồng lỗ, mà là biết điều gì kiểm soát được |
+| Chủ đề                       | Mức ưu tiên | Ví dụ góc viết                                                |
+| ---------------------------- | ----------- | ------------------------------------------------------------- |
+| F0 và quản trị vốn           | Rất cao     | Vì sao người mới cháy tài khoản dù đoán đúng xu hướng         |
+| Tỷ giá, USD, vàng, dòng tiền | Rất cao     | Tin vĩ mô ảnh hưởng thế nào tới vị thế cá nhân                |
+| Tài chính cá nhân            | Cao         | Quỹ dự phòng trước khi đầu tư mạo hiểm                        |
+| Gia đình và bảo hiểm         | Trung bình  | Mái nhà tài chính trụ được bao lâu trước biến cố              |
+| Startup/fintech              | Trung bình  | Founder đọc burn rate như nhà đầu tư đọc margin               |
+| Triết học đầu tư             | Trung bình  | Khắc kỷ không phải gồng lỗ, mà là biết điều gì kiểm soát được |
 
 ## Hashtag Strategy
 

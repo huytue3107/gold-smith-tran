@@ -1,136 +1,122 @@
 # Gold Smith Tran Content OS
 
-Workspace này là hệ thống viết bài cho **Gold Smith Tran - Nhà Gia Kim Forex**.
+Workspace nay la he thong san xuat noi dung cho **Gold Smith Tran - Nha Gia Kim Forex**.
 
-Mục tiêu: tạo nội dung tài chính sắc bén, thực chiến, có chiều sâu nhưng an toàn; ưu tiên Facebook và Threads, sau đó repurpose sang video ngắn, carousel hoặc tài nguyên cộng đồng.
+Muc tieu: tao noi dung tai chinh sac, thuc chien, co chieu sau va an toan. Kenh uu tien la Facebook va Threads; video ngan, carousel va infographic la huong repurpose.
 
-## Nguồn Sự Thật
+## Operating Layer
 
-Đọc theo thứ tự:
+Gold Smith hien dung Content OS v2.1:
 
-1. `CLAUDE.md` - operating manual của workspace.
-2. `Gold-Smith-fb.md` - style guide chính, bộ não văn phong.
-3. `context/` - hồ sơ thương hiệu, ICP, chiến lược, metrics, voice analysis.
-4. `.claude/rules/` - luật persona, tone, safety, workflow, template.
-5. `posts/` - bài đã tạo hoặc sẵn sàng xuất bản.
+```text
+Brief -> Strategy -> Research -> Draft -> Safety Review -> Voice Edit -> Visual/Repurpose -> Evidence Gate -> Storage -> Dashboard -> Learning Loop
+```
 
-Nếu có mâu thuẫn, ưu tiên `Gold-Smith-fb.md` và nguyên tắc an toàn tài chính.
+Doc theo thu tu:
+
+1. `CLAUDE.md` - operating manual chinh.
+2. `Gold-Smith-fb.md` - style guide va voice master cho Facebook/Threads.
+   2b. `Gold-Smith-video.md` - style guide va voice master cho TikTok/Reels/Shorts.
+3. `context/operating-model-v2-1.md` - NEXUS-lite, gate, handoff, cadence.
+4. `context/framework-v2.md` - framework noi dung v2.
+5. `context/` - profile, ICP, strategy, metrics, voice analysis.
+6. `.claude/rules/` - rule chi tiet cho persona, safety, tone, template, workflow.
+7. `posts/` - bai da tao hoac san sang bien tap.
+8. `reference/` - visual/writing references phu, khong lan at Gold Smith voice.
+
+Neu co mau thuan, uu tien `Gold-Smith-fb.md`, `.claude/rules/safety.md`, roi den `context/`.
+
+## Commands
+
+- `/prime` - nap context Gold Smith.
+- `/create-content-v2` - tao noi dung theo pipeline v2.
+- `/review-content-v2` - review bai theo strategy, safety, voice va completeness.
+- `/market-intelligence-v2` - tao market/content intelligence brief.
+- `/weekly-content-review-v2` - review tuan, risk, experiment va next actions.
+- `/create-10-posts` - tao batch 10 bai.
+
+## Specialist Agents
+
+- `content-strategist` - persona, pain point, pillar, format, CTA.
+- `trend-researcher` - tin hieu thi truong va trend noi dung.
+- `financial-safety-reviewer` - chan cam ket loi nhuan, phiem lenh, FOMO, all-in.
+- `voice-editor` - dua bai ve dung giong Gold Smith.
+- `visual-director` - quote, infographic, carousel, short video, photo overlay.
+- `brand-guardian` - giu dinh vi, visual identity va messaging.
+- `content-evidence-reviewer` - evidence gate truoc khi xem output la xong.
+- `analytics-reporter` - doc hieu suat noi dung thanh insight.
+- `experiment-tracker` - theo doi hook, CTA, format, persona, visual test.
+- `researcher`, `code-reviewer`, `qa-tester` - dung khi can research/code/tooling.
 
 ## Workspace Structure
 
 ```text
 .
-├── CLAUDE.md              # Operating manual chính
-├── Gold-Smith-fb.md       # Style guide master
-├── .claude/
-│   ├── Claude.md          # Tham chiếu phụ cho Claude Code
-│   ├── commands/          # /prime, /create-10-posts, /create-plan, /implement
-│   └── rules/             # Persona, tone, safety, workflow, templates
-├── context/               # Brand brain
-│   ├── profile.md
-│   ├── business.md
-│   ├── strategy.md
-│   ├── icp.md
-│   ├── metrics.md
-│   ├── voice-analysis.md
-│   └── data/
-├── posts/                 # Bài hoàn chỉnh
-├── outputs/               # Dashboard, draft, batch plan
-├── plans/                 # Kế hoạch triển khai thay đổi
-├── reference/             # Visual refs, writing refs
-└── scripts/               # Dashboard, carousel, infographic, photo overlay
+|-- CLAUDE.md                 # Operating manual chinh
+|-- Gold-Smith-fb.md          # Style guide master
+|-- .claude/
+|   |-- agents/               # Specialist agent definitions
+|   |-- commands/             # Slash command playbooks
+|   |-- rules/                # Content rules
+|   `-- skills/.skills/       # Local skills
+|-- context/                  # Brand brain va operating model
+|-- posts/                    # Bai viet
+|-- outputs/                  # Dashboard, draft, research output
+|-- plans/                    # Change plans
+|-- reference/                # Visual refs, templates, optional writing refs
+`-- scripts/                  # Dashboard, carousel, infographic, overlay, research tools
 ```
 
-## Workflow Viết Bài
+## Standard Content Output
 
-### 1. Prime context
+Moi bai nen co:
 
-Khi bắt đầu session:
+- Metadata: date, platform, persona, objective, content pillar, format.
+- Post text copy-paste ready.
+- 3 hook options.
+- 3 CTA options.
+- Safety notes: risk, invalidation/diem sai, no profit promise.
+- Visual or repurpose direction.
+- Storage path hoac dashboard note neu da luu.
 
-```text
-/prime
-```
+## Safety Rules
 
-Lệnh này yêu cầu Claude đọc `CLAUDE.md`, `Gold-Smith-fb.md`, `context/` và `.claude/rules/`.
+Khong bao gio:
 
-### 2. Viết bài đơn
+- Cam ket loi nhuan.
+- Phiem lenh mua/ban khi thieu boi canh.
+- Kich thich all-in, full margin, vay tien dau tu.
+- Tao FOMO bang ngon ngu nhu "co hoi cuoi", "chac thang", "bao loi".
+- Bia website, followers, doanh thu, lich workshop, thanh tich dau tu.
 
-Brief nên có:
+Luon uu tien:
 
-```text
-Chủ đề:
-Persona:
-Kênh đăng:
-Mục tiêu:
-Góc nhìn chính:
-Dữ kiện bắt buộc:
-CTA mong muốn:
-```
+- Quan tri von.
+- Diem sai.
+- Khau vi rui ro.
+- Ky luat va xac suat.
+- Su that co the kiem chung.
 
-Nếu thiếu persona, mặc định:
-
-- Giao dịch/đầu tư: F0.
-- Chi tiêu/lương/tiết kiệm: Gen Z/Millennials.
-- Bảo hiểm/con cái/gia đình: Phụ nữ & gia đình trẻ.
-- Startup/vốn/fintech: Doanh nhân/Startup/Fintech.
-
-### 3. Tạo batch 10 bài
-
-```text
-/create-10-posts
-```
-
-Output nên gồm bài viết, hook/CTA test, visual concept và thư mục trong `posts/`.
-
-### 4. Dựng dashboard
+## Scripts
 
 ```bash
 python scripts/build-dashboard.py
+python scripts/generate-carousel.py --json content.json --output posts/slug/carousel.pdf
+python scripts/generate-infographic.py --prompt "..." --reference reference/infographic-ref-1.jpeg
+python scripts/add-photo-overlay.py --image input.jpg --text "..."
+python scripts/collect_finance_influencer_videos.py
+python scripts/validate-content-safety.py posts
 ```
 
-Dashboard được tạo tại:
+Dashboard output:
 
 ```text
 outputs/dashboard.html
 ```
 
-## Chuẩn Bài Viết
+## Cleanup Notes
 
-Mỗi bài nên lưu trong `posts/` hoặc một thư mục `posts/NNN-slug/` nếu có visual.
-
-Một bài hoàn chỉnh phải có:
-
-- Metadata: ngày, platform, persona, mục tiêu, phương pháp, visual.
-- Post text copy-paste ready.
-- 3 hook thay thế.
-- 3 CTA thay thế.
-- Gợi ý visual hoặc prompt tạo visual.
-- 5 ý tưởng bài tiếp theo nếu đang dùng workflow sáng tạo nội dung.
-
-## Nguyên Tắc An Toàn Tài Chính
-
-Không bao giờ:
-
-- Cam kết lợi nhuận.
-- Phím lệnh mua/bán khi thiếu bối cảnh.
-- Kích thích all-in, full margin, vay tiền đầu tư.
-- Tạo FOMO bằng ngôn ngữ "cơ hội cuối", "chắc thắng", "bao lời".
-
-Luôn ưu tiên:
-
-- Quản trị vốn.
-- Điểm sai.
-- Khẩu vị rủi ro.
-- Kỷ luật và xác suất.
-- Sự thật có thể kiểm chứng.
-
-## Dữ Liệu Chưa Xác Minh
-
-Các thông tin như website, email, số followers, offer, lịch workshop, thành tích đầu tư hiện được ghi `TBD` trong `context/`. Không tự bịa các dữ liệu này trong bài viết hoặc CTA.
-
-## Visual
-
-- Ảnh cá nhân: dùng `scripts/add-photo-overlay.py`.
-- Carousel: dùng `scripts/generate-carousel.py`.
-- Infographic AI: dùng `scripts/generate-infographic.py` nếu có API key.
-- Style visual cần giữ cảm giác tài chính, tối giản, sắc, không neon, không khoe lãi.
+- File rong/deprecated va command reset context cu da duoc loai bo.
+- Cac skill da duoc chuan hoa ve Gold Smith thay vi mac dinh LinkedIn/Adam/YOUR BRAND.
+- Da them `posts/_template.md` va `scripts/validate-content-safety.py`.
+- Reference Adam Robinson duoc xem la tai lieu hoc packaging phu, khong phai voice chinh.

@@ -34,9 +34,9 @@ Nếu muốn tạo kiểu bài có text chèn lên ảnh cá nhân:
 
 ## Các File Đã Có Sẵn
 
-### Tài Liệu Tham Chiếu Về Giọng Viết
+### Tài Liệu Tham Chiếu Phu Ve Packaging
 
-- `adam-robinson-writing-style.md` — Tài liệu phân tích chi tiết phong cách viết LinkedIn của Adam Robinson
-- `adam-robinson-top-posts.md` — Bộ ví dụ bài hiệu quả cao để học cách đóng gói hook, thân bài và nhịp CTA
+- `adam-robinson-writing-style.md` — tai lieu hoc packaging/hook/body rhythm, khong phai voice chinh.
+- `adam-robinson-top-posts.md` — bo vi du bai hieu qua cao de hoc cach dong goi hook, than bai va CTA.
 
-Đây là tài liệu học phong cách viết, không phải nội dung cá nhân của bạn. Có thể giữ lại để học hoặc thay bằng bộ tham chiếu riêng của bạn sau này.
+Day la tai lieu tham chieu phu. Khi tao noi dung, voice chinh van la `Gold-Smith-fb.md` va `context/voice-analysis.md`.
