@@ -20,9 +20,10 @@ Doc theo thu tu:
 6. `context/icp.md`
 7. `context/voice-analysis.md`
 8. `.claude/rules/safety.md`
-9. `.claude/rules/templates.md`
-10. `.claude/rules/tone-voice.md`
-11. `.claude/rules/design.md`
+9. `.claude/rules/red-flags-content.md` (doc khi co suy nghi muon skip gate)
+10. `.claude/rules/templates.md`
+11. `.claude/rules/tone-voice.md`
+12. `.claude/rules/design.md`
 
 ## Pipeline
 
@@ -171,5 +172,10 @@ Chi ghi file khi user yeu cau hoac tac vu ro rang la tao output.
 Neu co ghi vao `posts/`, chay:
 
 ```bash
+python scripts/validate-content-safety.py <path>
 python scripts/build-dashboard.py
 ```
+
+Paste exit code/output cua validator truoc khi claim done (Evidence Gate).
+
+Sau khi luu, **bat buoc** them dong vao `outputs/content-ledger.md` voi: Date, Asset path, Platform, Persona, Pillar, Format, Status, Experiment Tag, Safety Status.

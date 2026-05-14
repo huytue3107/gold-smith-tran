@@ -161,8 +161,10 @@ python scripts/build-dashboard.py
 
 - Bai text-only luu dung `posts/YYYY-MM-DD-slug.md`.
 - Bai co visual luu dung `posts/NNN-slug/post.md`.
+- Script video ngan luu dung `outputs/video-scripts/YYYY-MM-DD-slug.md`.
 - Research/draft/batch luu dung `outputs/`.
 - Rebuild dashboard khi co thay doi trong `posts/`.
+- **Bat buoc** them dong vao `outputs/content-ledger.md` voi: Date, Asset path, Platform, Persona, Pillar, Format, Status (Idea/Draft/Reviewed/Ready/Published), Experiment Tag, Safety Status.
 
 ### 10. Analytics / Learning Loop
 
@@ -171,8 +173,9 @@ python scripts/build-dashboard.py
 **Pass criteria:**
 
 - Bai co tag experiment neu dang test hook/CTA/format.
-- Performance sau khi dang duoc ghi vao experiment log neu co du lieu.
+- Performance sau khi dang duoc ghi vao `outputs/content-ledger.md` (cot 24h Metrics, 7d Metrics) va `reference/templates/content-experiment-log.md` neu co du lieu.
 - Weekly brief rut ra bai hoc va next action.
+- Bai underperform -> goi skill `.claude/skills/.skills/content-debugging/SKILL.md` de debug systematic 7 buoc.
 
 ## Handoff Rules
 

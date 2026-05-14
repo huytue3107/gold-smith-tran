@@ -14,9 +14,10 @@ Co the la duong dan file trong `posts/`/`outputs/` hoac noi dung user dan truc t
 2. `Gold-Smith-fb.md`
 3. `Gold-Smith-video.md` (neu review script video)
 4. `.claude/rules/safety.md`
-5. `.claude/rules/tone-voice.md`
-6. `.claude/rules/vocabulary.md`
-7. `context/voice-analysis.md`
+5. `.claude/rules/red-flags-content.md` (chan reviewer chinh minh rationalize)
+6. `.claude/rules/tone-voice.md`
+7. `.claude/rules/vocabulary.md`
+8. `context/voice-analysis.md`
 
 ## Checklist Review
 

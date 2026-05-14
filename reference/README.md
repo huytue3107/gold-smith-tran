@@ -32,6 +32,18 @@ Nếu muốn tạo kiểu bài có text chèn lên ảnh cá nhân:
 
 - Thêm ví dụ dưới dạng `me-with-text-ref-1.jpeg`, v.v.
 
+### Transcript Reference Bank
+
+`Scripts/` chua transcript video tai chinh va creator references.
+
+Dung de hoc hook, cau truc giai thich, case va format. Khong dung lam voice chinh va khong lay claim thi truong neu chua xac minh.
+
+Ket qua khai thac transcript nen duoc score vao:
+
+```text
+outputs/research-index.md
+```
+
 ## Các File Đã Có Sẵn
 
 ### Tài Liệu Tham Chiếu Phu Ve Packaging

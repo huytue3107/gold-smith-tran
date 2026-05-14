@@ -13,8 +13,11 @@ Doc nhanh khi bat dau:
 3. `Gold-Smith-video.md`
 4. `1000_hook_short_form_tai_chinh.md`
 5. `context/operating-model-v2-1.md`
-6. `context/framework-v2.md`
-7. `.claude/rules/safety.md`
+6. `context/tools.md`
+7. `context/framework-v2.md`
+8. `.claude/rules/safety.md`
+9. `.claude/rules/red-flags-content.md`
+10. `outputs/content-ledger.md` (luot xem asset/status gan day)
 
 ## Workflow
 
@@ -28,6 +31,8 @@ Brief -> Strategy -> Research -> Draft -> Safety Review -> Voice Edit -> Visual/
 - `/create-content-v2`
 - `/review-content-v2`
 - `/market-intelligence-v2`
+- `/research-viral-videos-v2`
+- `/transcribe-local-video-v2`
 - `/weekly-content-review-v2`
 - `/create-10-posts`
 
@@ -38,3 +43,6 @@ Brief -> Strategy -> Research -> Draft -> Safety Review -> Voice Edit -> Visual/
 - Luon co quan tri von, diem sai, khau vi rui ro hoac ky luat.
 - Voice Gold Smith: sac, gon, thuc chien, tinh tao.
 - Reference phu khong duoc lan at `Gold-Smith-fb.md`.
+- Quy tac 1%: 1% kha nang vi pham safety -> chay full safety review, khong rationalize.
+- Evidence before assertions: chua paste output validator = chua duoc claim done.
+- Subagent handoff: dong goi self-contained theo `reference/templates/content-handoff-v2-1.md`.

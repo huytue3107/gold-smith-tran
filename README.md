@@ -22,7 +22,8 @@ Doc theo thu tu:
 5. `context/` - profile, ICP, strategy, metrics, voice analysis.
 6. `.claude/rules/` - rule chi tiet cho persona, safety, tone, template, workflow.
 7. `posts/` - bai da tao hoac san sang bien tap.
-8. `reference/` - visual/writing references phu, khong lan at Gold Smith voice.
+8. `outputs/content-ledger.md` - so theo doi asset, status, experiment va metrics.
+9. `reference/` - visual/writing/transcript references phu, khong lan at Gold Smith voice.
 
 Neu co mau thuan, uu tien `Gold-Smith-fb.md`, `.claude/rules/safety.md`, roi den `context/`.
 
@@ -32,6 +33,8 @@ Neu co mau thuan, uu tien `Gold-Smith-fb.md`, `.claude/rules/safety.md`, roi den
 - `/create-content-v2` - tao noi dung theo pipeline v2.
 - `/review-content-v2` - review bai theo strategy, safety, voice va completeness.
 - `/market-intelligence-v2` - tao market/content intelligence brief.
+- `/research-viral-videos-v2` - research video viral/high-view, lay link va transcript/script.
+- `/transcribe-local-video-v2` - dung Faster-Whisper-XXL local de transcribe media thanh script.
 - `/weekly-content-review-v2` - review tuan, risk, experiment va next actions.
 - `/create-10-posts` - tao batch 10 bai.
 
@@ -61,9 +64,9 @@ Neu co mau thuan, uu tien `Gold-Smith-fb.md`, `.claude/rules/safety.md`, roi den
 |   `-- skills/.skills/       # Local skills
 |-- context/                  # Brand brain va operating model
 |-- posts/                    # Bai viet
-|-- outputs/                  # Dashboard, draft, research output
+|-- outputs/                  # Dashboard, draft, video scripts, content ledger, research output
 |-- plans/                    # Change plans
-|-- reference/                # Visual refs, templates, optional writing refs
+|-- reference/                # Visual refs, templates, transcripts, optional writing refs
 `-- scripts/                  # Dashboard, carousel, infographic, overlay, research tools
 ```
 
@@ -105,6 +108,9 @@ python scripts/generate-carousel.py --json content.json --output posts/slug/caro
 python scripts/generate-infographic.py --prompt "..." --reference reference/infographic-ref-1.jpeg
 python scripts/add-photo-overlay.py --image input.jpg --text "..."
 python scripts/collect_finance_influencer_videos.py
+python scripts/research_viral_videos.py --limit 20 --top 10 --update-index
+python scripts/research_viral_videos.py "https://www.youtube.com/@hieu-tv/videos" --download-video --local-transcribe --local-language vi --local-device cuda --update-index
+python scripts/transcribe_with_faster_whisper_xxl.py "outputs/viral_video_research/media" --language vi --device cuda --vad --word-timestamps
 python scripts/validate-content-safety.py posts
 ```
 
@@ -114,9 +120,42 @@ Dashboard output:
 outputs/dashboard.html
 ```
 
+## Video And Learning Loop
+
+Short-form scripts live in:
+
+```text
+outputs/video-scripts/
+```
+
+Use `Gold-Smith-video.md` for script structure and `1000_hook_short_form_tai_chinh.md` for hook inspiration.
+
+Track every meaningful asset in:
+
+```text
+outputs/content-ledger.md
+```
+
+Transcript references live in:
+
+```text
+reference/Scripts/
+```
+
+Transcript ideas should be scored into `outputs/research-index.md` before being turned into Gold Smith content.
+
+Viral video research output:
+
+```text
+outputs/viral_video_research/
+```
+
+Local transcription uses the workspace clone at `tools/Faster-Whisper-XXL`, configured in `context/tools.md`.
+
 ## Cleanup Notes
 
 - File rong/deprecated va command reset context cu da duoc loai bo.
 - Cac skill da duoc chuan hoa ve Gold Smith thay vi mac dinh LinkedIn/Adam/YOUR BRAND.
 - Da them `posts/_template.md` va `scripts/validate-content-safety.py`.
+- Da them `outputs/video-scripts/`, `outputs/content-ledger.md` va `reference/Scripts/README.md`.
 - Reference Adam Robinson duoc xem la tai lieu hoc packaging phu, khong phai voice chinh.

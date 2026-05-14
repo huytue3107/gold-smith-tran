@@ -11,6 +11,9 @@ Desktop.ini
 .idea/
 .claude/settings.local.json
 
+# Local portable tools / large binaries
+tools/Faster-Whisper-XXL/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -44,6 +47,8 @@ outputs/*.mp4
 outputs/*.mov
 outputs/*.webm
 outputs/*.zip
+outputs/viral_video_research/media/
+outputs/viral_video_research/transcript_raw/
 
 # Temporary files
 *.tmp

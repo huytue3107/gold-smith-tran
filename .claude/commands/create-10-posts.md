@@ -16,8 +16,10 @@ Trước khi viết, đọc:
 - `context/icp.md`
 - `context/voice-analysis.md`
 - `.claude/rules/safety.md`
+- `.claude/rules/red-flags-content.md`
 - `.claude/rules/templates.md`
 - `.claude/rules/content-strategy.md`
+- `outputs/content-ledger.md` (de tranh trung pillar/persona voi asset gan day)
 
 ## Cơ Cấu Nội Dung
 
