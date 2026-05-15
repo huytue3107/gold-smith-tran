@@ -1,8 +1,4 @@
-import { continueRender, delayRender, staticFile } from "remotion";
-
-// Be Vietnam Pro — weights 400/500/600/700, subsets latin + vietnamese.
-// Files live in remotion/public/fonts/be-vietnam-pro/.
-// Use `staticFile(...)` so the URL works in both studio and renders.
+import { staticFile } from "remotion";
 
 const FONT_FAMILY = "Be Vietnam Pro";
 
@@ -36,25 +32,15 @@ export const loadBeVietnamPro = (): void => {
   }
   loaded = true;
 
-  const handle = delayRender("Loading Be Vietnam Pro");
-
   const weights: Weight[] = [400, 500, 600, 700];
   const subsets: Subset[] = ["latin", "vietnamese"];
 
-  const allFaces: FontFace[] = [];
   for (const weight of weights) {
     for (const subset of subsets) {
       const face = buildFontFace(weight, subset);
-      allFaces.push(face);
       document.fonts.add(face);
     }
   }
-
-  Promise.all(allFaces.map((f) => f.load()))
-    .then(() => continueRender(handle))
-    .catch((err) => {
-      // Fall back silently to system fonts; do not block render.
-      console.warn("Be Vietnam Pro failed to load:", err);
-      continueRender(handle);
-    });
+  // No delayRender — fonts load async with display: swap.
+  // This prevents headless/Puppeteer timeout issues.
 };
